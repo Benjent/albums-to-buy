@@ -104,8 +104,10 @@
 * Abraham - An Eye On The Universe
 * Anthrax - Among The Living
 * Anthrax - Sound Of White Noise
+* Barishi - Old Smoke
 * Bell Witch - Mirror Reaper
 * Gorgoroth - Ad Majorem Sathanas Gloriam
+* Havok - V
 * Insanity Alert - Moshburger
 * Rollins Band - The End Of Silence
 * Rollins Band - Weight
