@@ -24,10 +24,18 @@
 * Vexovoid - Call Of The Starforger
 
 ## Dur à trouver / Amazon
+* Deluxe - Stachelight
+* Emma Ruth Rundle - Marked For Death
 * Erdve - Vaitojimas
 * George Duke - Faces In Reflection
 * George Duke - Guardian Of The Light
+* Igorrr - Poisson Soluble
+* John Frusciante - The Empyrean
 * Kurt Vile - Wakin On A Pretty Daze
+* Nancy Sinatra - How Does That Grab You?
+* Snarky Puppy - The Only Constant
+* Snarky Puppy - The World Is Getting Smaller
+* Snarky Puppy - We Like It Here
 
 ## Fnac
 * Anderson .Paak - Malibu
@@ -62,30 +70,89 @@
 * Ambrosia - Ambrosia
 * Arachnoid - Arachnoid
 * Axis - Axis
+* Babe Ruth - Amar Caballero
 * Búsqueda - Búsqueda
 * Cathedral - Stained Glass Stories
 * Coma - Financial Tycoon // En cours
+* Cymande - Cymande
+* Cymande - Second Time Around
+* Cymande - Promised Heights
+* Didier Bonin - L'arbre Verre
+* Dr. Dopo Jam - Fat Dogs & Danishmen
+* Gryphon - Raindance
+* Ikarus - Ikarus
+* Island - Pictures
+* Jethro Tull - Benefit
+* Osibisa - Osibisa
+* Osibisa - Woyaya
+* Osibisa - Heads
+* Picchio Dal Pozzo - Picchio Dal Pozzo
+* Rush - Rush
+* Rush - Fly By Night
+* Rush - Caress Of Steel
+* Rush - 2112
+* Rush - A Farewell To Kings
+* Rush - Hemispheres
+* Sloche - J'un Oeil
+* Sloche - Stadaconé
+* Surprise - Assault On Merryland
+* Taï Phong - Windows
+* Visitor 2035 - Visitor 2035
+* Winterhawk - Revival
 
 ## Metal
+* Abraham - An Eye On The Universe
+* Anthrax - Among The Living
+* Anthrax - Sound Of White Noise
 * Bell Witch - Mirror Reaper
 * Gorgoroth - Ad Majorem Sathanas Gloriam
+* Insanity Alert - Moshburger
 * Rollins Band - The End Of Silence
 * Rollins Band - Weight
 * Saint Vitus - Born Too Late
+* Slugdge - Gastronomicon
+* Slugdge - Dim & Slimeridden Kingdoms
 * Tool - Fear Inoculum
+* Voivod - Target Earth
+* Whiplash - Power And Pain
+
+## Stoner
+* 1886 - Before The Fog Covers The Mount
+* Dwellers - Pagan Fruit
+* Earth - Hex
+* Elder - Dead Roots Stirring
+* Orange Goblin - Frequencies From Planet Ten
+* Orange Goblin - Time Travelling Blues
+* Orange Goblin - The Big Black
+* Purple Hill Witch - Purple Hill Witch
+
+## Punk / Grunge
+* Fiend Without A Face - Fiend Without A Face II
+* Love Battery - Dayglo
+* Minor Threat - Minor Threat
 
 ## Pour plus tard
 * Alestorm - No Grave Nut The Sea
 * Borislav Mitic - Borislav Mitic
-* Pat Metheny - Acoustic 2011
+* Herbie Hancock - The Prisoner
+* Herbie Hancock - Secrets
+* KC & The Sunshine Band - KC & The Sunshine Band
+* Opeth - Sorceress
+* Opeth - In Cauda Venenum
+* Pat Metheny - What's It All About
+* Tempel - On The Steps Of The Temple
+* Tempel - The Moon Lit Our Path
 * Vulfpeck - Mit Peck
 * Vulfpeck - Vollmilch
 
 ## Buckethead
 * Giant Robot
 * Albino Slug
+* A Real Diamond In The Rough
 * Shadows Between The Sky
 * Captain Eo's Voyage
 * Pike 1
 * Pike 9
+* Pike 13
+* Pike 23
 * Pike 41
