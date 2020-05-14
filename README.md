@@ -24,7 +24,6 @@
 * Vexovoid - Call Of The Starforger
 
 ## Dur à trouver / Amazon
-* Deluxe - Stachelight
 * Emma Ruth Rundle - Marked For Death
 * Erdve - Vaitojimas
 * George Duke - Faces In Reflection
@@ -47,7 +46,6 @@
 * Bruce Springsteen - Wild Innocent E Street Shuffle
 * Camel - Stationary Traveller
 * Daft Punk - Human After All
-* Elton John - Goodbye Yellow Brick Road
 * Joe Bada$$ - All-Amerikkkan Bada$$
 * Judas Priest - Sad Wings Of Destiny
 * MGMT - Oracular Spectacular
@@ -69,20 +67,36 @@
 * Alphataurus - Alphataurus
 * Ambrosia - Ambrosia
 * Arachnoid - Arachnoid
+* Atlas - Blå Vardag
 * Axis - Axis
 * Babe Ruth - Amar Caballero
 * Búsqueda - Búsqueda
 * Cathedral - Stained Glass Stories
 * Coma - Financial Tycoon // En cours
+* Crucis - Crucis
+* Crucis - Los Delirios Del Mariscal
 * Cymande - Cymande
 * Cymande - Second Time Around
 * Cymande - Promised Heights
 * Didier Bonin - L'arbre Verre
+* Dr. Dopo Jam - Entrée
 * Dr. Dopo Jam - Fat Dogs & Danishmen
+* Ex Vitae - Saxophonie
+* Greenslade - Bedside Manners Are Extra
+* Greenslade - Spyglass Guest
 * Gryphon - Raindance
 * Ikarus - Ikarus
+* Il Baricentro - Sconcerto
 * Island - Pictures
 * Jethro Tull - Benefit
+* Kaipa - Kaipa
+* Kaipa - Inget Nytt Under Solen
+* Kaipa - Solo
+* Kansas - Kansas
+* Kansas - Point Of Know Return
+* MIA - Transparencias
+* The Moody Blues - Days Of Future Past
+* The Moody Blues - On The Threshold Of A Dream
 * Osibisa - Osibisa
 * Osibisa - Woyaya
 * Osibisa - Heads
@@ -98,11 +112,11 @@
 * Surprise - Assault On Merryland
 * Taï Phong - Windows
 * Visitor 2035 - Visitor 2035
+* Windchase - Simphinity
 * Winterhawk - Revival
 
 ## Metal
 * Abraham - An Eye On The Universe
-* Anthrax - Among The Living
 * Anthrax - Sound Of White Noise
 * Barishi - Old Smoke
 * Bell Witch - Mirror Reaper
