@@ -29,6 +29,7 @@
 * George Duke - Faces In Reflection
 * George Duke - Guardian Of The Light
 * Igorrr - Poisson Soluble
+* Jerry Garcia - Pizza Tapes
 * John Frusciante - The Empyrean
 * Kurt Vile - Wakin On A Pretty Daze
 * Nancy Sinatra - How Does That Grab You?
@@ -41,8 +42,6 @@
 * Black Sabbath - Never Say Die!
 * Bob Marley & The Wailers - Burnin'
 * Bob Marley & The Wailers - Kaya
-* Bob Marley & The Wailers - Survival
-* Bob Marley & The Wailers - Uprising
 * Bruce Springsteen - Wild Innocent E Street Shuffle
 * Camel - Stationary Traveller
 * Daft Punk - Human After All
@@ -51,8 +50,6 @@
 * MGMT - Oracular Spectacular
 * MGMT - Congratulations
 * Neil Young - Zuma
-* Neil Young - American Stars n Bars
-* Neil Young - Comes A Time
 * The Oath - The Oath
 * The Rolling Stones - Between The Buttons
 * The Rolling Stones - Their Satanic Majesty
@@ -66,6 +63,7 @@
 ## Prog
 * Alphataurus - Alphataurus
 * Ambrosia - Ambrosia
+* Anthony Philips - The Geese & The Ghost
 * Arachnoid - Arachnoid
 * Atlas - Blå Vardag
 * Axis - Axis
@@ -81,10 +79,14 @@
 * Didier Bonin - L'arbre Verre
 * Dr. Dopo Jam - Entrée
 * Dr. Dopo Jam - Fat Dogs & Danishmen
+* Eloy - Planets
+* Eloy - Time To Turn
 * Ex Vitae - Saxophonie
 * Greenslade - Bedside Manners Are Extra
 * Greenslade - Spyglass Guest
 * Gryphon - Raindance
+* Harmonium - Harmonium
+* Harmonium - L'heptade
 * Ikarus - Ikarus
 * Il Baricentro - Sconcerto
 * Island - Pictures
@@ -97,9 +99,14 @@
 * MIA - Transparencias
 * The Moody Blues - Days Of Future Past
 * The Moody Blues - On The Threshold Of A Dream
+* Nirvana - To Markos III
+* Nirvana - Local Anaesthetic
 * Osibisa - Osibisa
 * Osibisa - Woyaya
 * Osibisa - Heads
+* PFM - Storia Di Un Minuto
+* PFM - Per Un Amico
+* PFM - L'isola Di Niente
 * Picchio Dal Pozzo - Picchio Dal Pozzo
 * Rush - Rush
 * Rush - Fly By Night
@@ -111,6 +118,8 @@
 * Sloche - Stadaconé
 * Surprise - Assault On Merryland
 * Taï Phong - Windows
+* Tea & Symphony - An Asylum For The Insane
+* Tea & Symphony - Jo Sago
 * Visitor 2035 - Visitor 2035
 * Windchase - Simphinity
 * Winterhawk - Revival
@@ -150,6 +159,8 @@
 ## Pour plus tard
 * Alestorm - No Grave Nut The Sea
 * Borislav Mitic - Borislav Mitic
+* Herb Ellis & Red Mitchell - Doggin' Around
+* Herb Ellis & Romeo Palmier - Windflower
 * Herbie Hancock - The Prisoner
 * Herbie Hancock - Secrets
 * KC & The Sunshine Band - KC & The Sunshine Band
