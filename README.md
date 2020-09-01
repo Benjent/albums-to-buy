@@ -40,25 +40,16 @@
 ## Fnac
 * Anderson .Paak - Malibu
 * Black Sabbath - Never Say Die!
-* Bob Marley & The Wailers - Burnin'
-* Bob Marley & The Wailers - Kaya
 * Bruce Springsteen - Wild Innocent E Street Shuffle
 * Camel - Stationary Traveller
-* Daft Punk - Human After All
 * Joe Bada$$ - All-Amerikkkan Bada$$
 * Judas Priest - Sad Wings Of Destiny
 * MGMT - Oracular Spectacular
 * MGMT - Congratulations
-* Neil Young - Zuma
 * The Oath - The Oath
-* The Rolling Stones - Between The Buttons
-* The Rolling Stones - Their Satanic Majesty
-* Slayer - Show No Mercy
-* Slayer - Hell Awaits
+* M - Le Baptême
 * A Tribe Called Quest - The Low End Theory
-* Wishbone Ash - Four
-* Wishbone Ash - There's The Rub
-* Wizzo Band - Super Active Wizzo
+* U2 - October
 
 ## Prog
 * Alphataurus - Alphataurus
@@ -70,7 +61,6 @@
 * Babe Ruth - Amar Caballero
 * Búsqueda - Búsqueda
 * Cathedral - Stained Glass Stories
-* Coma - Financial Tycoon // En cours
 * Crucis - Crucis
 * Crucis - Los Delirios Del Mariscal
 * Cymande - Cymande
@@ -79,11 +69,9 @@
 * Didier Bonin - L'arbre Verre
 * Dr. Dopo Jam - Entrée
 * Dr. Dopo Jam - Fat Dogs & Danishmen
-* Eloy - Planets
 * Eloy - Time To Turn
 * Ex Vitae - Saxophonie
 * Greenslade - Bedside Manners Are Extra
-* Greenslade - Spyglass Guest
 * Gryphon - Raindance
 * Harmonium - Harmonium
 * Harmonium - L'heptade
@@ -98,7 +86,6 @@
 * Kansas - Point Of Know Return
 * MIA - Transparencias
 * The Moody Blues - Days Of Future Past
-* The Moody Blues - On The Threshold Of A Dream
 * Nirvana - To Markos III
 * Nirvana - Local Anaesthetic
 * Osibisa - Osibisa
@@ -123,6 +110,10 @@
 * Visitor 2035 - Visitor 2035
 * Windchase - Simphinity
 * Winterhawk - Revival
+* Wishbone Ash - Wishbone Four
+* Wishbone Ash - There's The Rub
+* Wishbone Ash - Front Page News
+* Wizzo Band - Super Active Wizzo
 
 ## Metal
 * Abraham - An Eye On The Universe
@@ -151,6 +142,10 @@
 * Orange Goblin - The Big Black
 * Purple Hill Witch - Purple Hill Witch
 
+## Reggae / Souls
+* Toots & The Maytals - In The Dark
+* Toots & The Maytals - Reggae Got Soul
+
 ## Punk / Grunge
 * Fiend Without A Face - Fiend Without A Face II
 * Love Battery - Dayglo
@@ -176,7 +171,6 @@
 * Giant Robot
 * Albino Slug
 * A Real Diamond In The Rough
-* Shadows Between The Sky
 * Captain Eo's Voyage
 * Pike 1
 * Pike 9
