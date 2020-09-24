@@ -42,6 +42,7 @@
 * Black Sabbath - Never Say Die!
 * Bruce Springsteen - Wild Innocent E Street Shuffle
 * Camel - Stationary Traveller
+* Jamiroquai - Dynamite
 * Joe Bada$$ - All-Amerikkkan Bada$$
 * Judas Priest - Sad Wings Of Destiny
 * MGMT - Oracular Spectacular
@@ -52,6 +53,7 @@
 * U2 - October
 
 ## Prog
+* Abstract Truth - Totum
 * Alphataurus - Alphataurus
 * Ambrosia - Ambrosia
 * Anthony Philips - The Geese & The Ghost
@@ -77,7 +79,11 @@
 * Harmonium - L'heptade
 * Ikarus - Ikarus
 * Il Baricentro - Sconcerto
+* Indian Summer - Indian Summer
 * Island - Pictures
+* Jade Warrior - Jade Warrior
+* Jade Warrior - Released
+* Jade Warrior - Kites
 * Jethro Tull - Benefit
 * Kaipa - Kaipa
 * Kaipa - Inget Nytt Under Solen
@@ -103,6 +109,7 @@
 * Rush - Hemispheres
 * Sloche - J'un Oeil
 * Sloche - Stadaconé
+* Spring - Spring (+ Spring 2)
 * Surprise - Assault On Merryland
 * Taï Phong - Windows
 * Tea & Symphony - An Asylum For The Insane
@@ -121,7 +128,6 @@
 * Barishi - Old Smoke
 * Bell Witch - Mirror Reaper
 * Gorgoroth - Ad Majorem Sathanas Gloriam
-* Havok - V
 * Insanity Alert - Moshburger
 * Rollins Band - The End Of Silence
 * Rollins Band - Weight
@@ -137,12 +143,14 @@
 * Dwellers - Pagan Fruit
 * Earth - Hex
 * Elder - Dead Roots Stirring
+* Elder - Gold & Silver Sessions
+* Naxatras - III
 * Orange Goblin - Frequencies From Planet Ten
 * Orange Goblin - Time Travelling Blues
 * Orange Goblin - The Big Black
 * Purple Hill Witch - Purple Hill Witch
 
-## Reggae / Souls
+## Reggae / Soul
 * Toots & The Maytals - In The Dark
 * Toots & The Maytals - Reggae Got Soul
 
@@ -175,5 +183,6 @@
 * Pike 1
 * Pike 9
 * Pike 13
+* Pike 18
 * Pike 23
 * Pike 41
