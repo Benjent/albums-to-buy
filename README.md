@@ -13,7 +13,6 @@
 * George Duke - Guardian Of The Light
 * Jerry Garcia - Pizza Tapes
 * John Frusciante - The Empyrean
-* Kurt Vile - Wakin On A Pretty Daze
 * Nancy Sinatra - How Does That Grab You?
 
 ## Prog
@@ -29,21 +28,21 @@
 * Brian Davison - Every Which Way
 * Búsqueda - Búsqueda
 * Cathedral - Stained Glass Stories
+* Colosseum - Those Who Are About To Die Salute You
 * Colosseum - Daughter Of Time
 * Colosseum II - Strange New Flesh
 * Crucis - Crucis
 * Crucis - Los Delirios Del Mariscal
-* Cymande - Cymande
-* Cymande - Second Time Around
-* Cymande - Promised Heights
 * Didier Bonin - L'arbre Verre
 * Dr. Dopo Jam - Entrée
 * Dr. Dopo Jam - Fat Dogs & Danishmen
+* ELO - Secret Messages
 * Eloy - Time To Turn
 * Ex Vitae - Saxophonie
 * Frank Zappa - Studio Tan
 * Frank Zappa - The Man From Utopia
 * Frank Zappa - Halloween 81 full
+* Gracious! - This Is Gracious!
 * Greenslade - Bedside Manners Are Extra
 * Gryphon - Raindance
 * Harmonium - Harmonium
@@ -62,11 +61,14 @@
 * Kansas - Kansas
 * Kansas - Point Of Know Return
 * Klaatu - Magentalane
+* Laurent Thibault - Mais On Ne Peut Pas Rêver Tout Le Temps
 * McLuhan - Anomaly
+* Mémoriance - Et Après... // Livraison
 * MIA - Transparencias
 * MIA - Mágicos Juegos Del Tiempo
 * MIA - Cornonstipicum
 * The Moody Blues - Days Of Future Past
+* The Moody Blues - A Question Of Balance
 * Nino Ferrer - Métronomie
 * Nino Ferrer - Nino Ferrer & Leggs
 * Nino Ferrer - Nino And Radiah
@@ -75,9 +77,6 @@
 * Nirvana - Local Anaesthetic
 * Osanna - Landscape Of Life
 * Osanna - Suddance
-* Osibisa - Osibisa
-* Osibisa - Woyaya
-* Osibisa - Heads
 * PFM - Storia Di Un Minuto
 * PFM - Per Un Amico
 * PFM - L'isola Di Niente
@@ -106,6 +105,14 @@
 * Wizzo Band - Super Active Wizzo
 * WLUD - Second
 
+# Afrobeat
+* Cymande - Cymande
+* Cymande - Second Time Around
+* Cymande - Promised Heights
+* Osibisa - Osibisa
+* Osibisa - Woyaya
+* Osibisa - Heads
+
 # Classical
 * Agustin Barrios - Intégrale (1999)
 
@@ -118,11 +125,14 @@
 * Baroness - First + Second
 * Bell Witch - Mirror Reaper
 * Black Sabbath - Never Say Die!
+* Dreadnought - Bridging Realms
+* Dreadnought - A Wake In Sacred Waves
 * Funeral Diner - The Underdark
 * Gorgoroth - Ad Majorem Sathanas Gloriam
 * Igorrr - Poisson Soluble
 * Insanity Alert - Moshburger
 * Judas Priest - Sad Wings Of Destiny
+* Nero Di Marte - Immoto
 * Paradox - Heresy
 * Paradox - Product Of Imagination
 * Rollins Band - The End Of Silence
@@ -142,7 +152,6 @@
 * 1886 - Before The Fog Covers The Mount
 * All Them Witches - ATW
 * All Them Witches - Nothing As The Ideal
-* Big Scenic Nowhere - Visions Beyond Horizon
 * Dwellers - Pagan Fruit
 * Earth - Hex
 * Elder - Dead Roots Stirring
@@ -161,19 +170,22 @@
 * Camel - Stationary Traveller
 * Cat Stevens - Buddha
 * Cat Stevens - Numbers
+* The Hollies - Butterfly
 * Joseph - Stone Age Man
 * Kingstone Wall - I
 * Kingstone Wall - II
+* LA Witch - Play With Fire
+* Mild Orange - Foreplay
+* Mild Orange - Mild Orange
 * Neil Young - Harvest Moon
 * Peter, Paul & Mary - Late Again
 * Radiohead - A Moon Shaped Pool
 * Tal Wilkenfeld - Love Remains
 * Thin Lizzy - Vagabonds Of The Western World
 
-## Reggae / Soul
+## Reggae / Soul / Latino
 * Bob Marley & The Wailers - Natty Dread
-* Peter Tosh - Equal Rights
-* Peter Tosh - Mystic Man
+* Sergent Garcia - Un Poquito Quema'o
 * Toots & The Maytals - In The Dark
 * Toots & The Maytals - Reggae Got Soul
 
@@ -181,14 +193,15 @@
 * Fiend Without A Face - Fiend Without A Face II
 * Fire Ants - Stripped
 * Love Battery - Dayglo
+* Metz - Metz II
 * New Model Army - No Rest For The Wicked
 * New Model Army - The Ghost Of Cain
 * Skin Yard - Skin Yard
 * Skin Yard - Hallowed Ground
 * Tad - 8-Way Santa
+* The Clash
 * The Cure - Seventeen Seconds
 * The Cure - Faith
-* Toadies - Rubberneck
 * U2 - October
 * X - Under The Big Black Sun
 
@@ -197,7 +210,12 @@
 * Funkadelic - Hardcore Jollies
 * Jamiroquai - Dynamite
 * Joe Bada$$ - All-Amerikkkan Bada$$
+* Roméo Elvis - Morale
+* Skinshape - Oraccolo
+* Tommy Guerrero - No Man's Land
+* Tommy Guierrero - Road To Nowhere
 * A Tribe Called Quest - The Low End Theory
+* Vaudou Game - Vaudo Game
 
 ## Jazz
 * Gabor Szabo - Magical Connection
@@ -209,11 +227,13 @@
 ## Pour plus tard
 * Alestorm - No Grave Nut The Sea
 * Animals As Leaders - Weightless
+* Animals As Leaders - The Joy Of Motion
 * Borislav Mitic - Borislav Mitic
 * Herb Ellis & Red Mitchell - Doggin' Around
 * Herbie Hancock - The Prisoner
 * Herbie Hancock - Secrets
 * KC & The Sunshine Band - KC & The Sunshine Band
+* Lucifer - Lucifer III
 * M - Le Baptême
 * MGMT - Oracular Spectacular
 * MGMT - Congratulations
