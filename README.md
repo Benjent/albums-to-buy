@@ -67,6 +67,8 @@
 * MIA - Transparencias
 * MIA - Mágicos Juegos Del Tiempo
 * MIA - Cornonstipicum
+* Michel Fugain - Un Enfant Dans La Ville
+* Miklagård - Miklagård
 * The Moody Blues - Days Of Future Past
 * The Moody Blues - A Question Of Balance
 * Nino Ferrer - Métronomie
@@ -75,6 +77,7 @@
 * Nino Ferrer - Suite En Oeuf
 * Nirvana - To Markos III
 * Nirvana - Local Anaesthetic
+* Osanna - Palepoli
 * Osanna - Landscape Of Life
 * Osanna - Suddance
 * PFM - Storia Di Un Minuto
@@ -113,14 +116,20 @@
 * Osibisa - Woyaya
 * Osibisa - Heads
 
-# Classical
-* Agustin Barrios - Intégrale (1999)
-
-## Metal
-* Abraham - An Eye On The Universe
+## Thrash
 * Annihilator - Set The World On Fire
 * Anthrax - Sound Of White Noise
 * Aspid - Extravasation
+* Insanity Alert - Moshburger
+* Paradox - Heresy
+* Paradox - Product Of Imagination
+* Voivod - Target Earth
+* Warbringer - Empires Collapse
+* Whiplash - Power And Pain
+* Xentrix - Shattered Existence
+
+## Metal
+* Abraham - An Eye On The Universe
 * Barishi - Old Smoke
 * Baroness - First + Second
 * Bell Witch - Mirror Reaper
@@ -130,11 +139,8 @@
 * Funeral Diner - The Underdark
 * Gorgoroth - Ad Majorem Sathanas Gloriam
 * Igorrr - Poisson Soluble
-* Insanity Alert - Moshburger
 * Judas Priest - Sad Wings Of Destiny
 * Nero Di Marte - Immoto
-* Paradox - Heresy
-* Paradox - Product Of Imagination
 * Rollins Band - The End Of Silence
 * Rollins Band - Weight
 * Saint Vitus - Born Too Late
@@ -144,9 +150,6 @@
 * Tank - Power Of The Hunter
 * The Oath - The Oath
 * Tool - Fear Inoculum
-* Voivod - Target Earth
-* Whiplash - Power And Pain
-* Xentrix - Shattered Existence
 
 ## Stoner
 * 1886 - Before The Fog Covers The Mount
@@ -154,10 +157,8 @@
 * All Them Witches - Nothing As The Ideal
 * Dwellers - Pagan Fruit
 * Earth - Hex
-* Elder - Dead Roots Stirring
 * Elder - Gold & Silver Sessions
 * Elephant Tree - Elephant Tree
-* Naxatras - III
 * Orange Goblin - Frequencies From Planet Ten
 * Orange Goblin - Time Travelling Blues
 * Orange Goblin - The Big Black
@@ -185,6 +186,8 @@
 
 ## Reggae / Soul / Latino
 * Bob Marley & The Wailers - Natty Dread
+* Serge Gainsbourg - Aux Armes Et Caetera
+* Serge Gainsbourg - Mauvaise Nouvelle Des Etoiles
 * Sergent Garcia - Un Poquito Quema'o
 * Toots & The Maytals - In The Dark
 * Toots & The Maytals - Reggae Got Soul
@@ -210,6 +213,7 @@
 * Funkadelic - Hardcore Jollies
 * Jamiroquai - Dynamite
 * Joe Bada$$ - All-Amerikkkan Bada$$
+* Khruangbin - Con Todo El Mundo
 * Roméo Elvis - Morale
 * Skinshape - Oraccolo
 * Tommy Guerrero - No Man's Land
@@ -261,5 +265,6 @@
 * Pike 18
 * Pike 23
 * Pike 41
+* Pike 56
 * Pike 175
 * Pike 208
