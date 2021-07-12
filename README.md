@@ -206,7 +206,6 @@
 
 ## Reggae / Soul / Latino
 * Bob Marley & The Wailers - Natty Dread
-* Michel Fugain - Années Big Bazar
 * Sergent Garcia - Un Poquito Quema'o
 * Toots & The Maytals - In The Dark
 * Toots & The Maytals - Reggae Got Soul
@@ -229,9 +228,6 @@
 
 ## Pop / Hip-Hop / Rap / Funk
 * Anderson .Paak - Malibu
-* Bertrand Belin - Persona
-* Fugain Et Le Big Bazar - Volume 1
-* Fugain Et Le Big Bazar - Volume 2
 * Funkadelic - America Eats Its Young
 * Funkadelic - Cosmic Slop
 * Jamiroquai - Dynamite
