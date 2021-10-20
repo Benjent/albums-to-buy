@@ -34,11 +34,15 @@
 * Colosseum II - Strange New Flesh
 * Colosseum II - Electric Savage
 * Colosseum II - War Dance
+* Crack The Sky - Crack The Sky
+* Crack The Sky - Animal Notes
+* Crack The Sky - Safety In Numbers
 * Crucis - Crucis
 * Crucis - Los Delirios Del Mariscal
 * Didier Bonin - L'arbre Verre
 * Dr. Dopo Jam - Entrée
 * Dr. Dopo Jam - Fat Dogs & Danishmen
+* Dr. Z - Three Parts To My Soul
 * ELO - Secret Messages
 * Eloy - Time To Turn
 * Ex Vitae - Saxophonie
@@ -46,12 +50,16 @@
 * Frank Zappa - The Man From Utopia
 * Frank Zappa - Halloween 81 full
 * Gracious! - This Is Gracious!
+* Greenslade - Greenslade
 * Greenslade - Bedside Manners Are Extra
+* Greenslade - Time And Tide
+* Greenslade - Cactus Choir
 * Gryphon - Midnight Mushrumps
 * Gryphon - Raindance
 * Hannibal - Hannibal
 * Harmonium - Harmonium
 * Harmonium - L'heptade
+* Horse - Horse
 * Hungry Wolf - Hungry Wolf
 * Ian Gillan Band - Clear Air Turbulence
 * Ikarus - Ikarus
@@ -62,13 +70,11 @@
 * Jade Warrior - Jade Warrior
 * Jade Warrior - Released
 * Jade Warrior - Kites
+* Jackal - Awake
 * Jethro Tull - Benefit
 * Kaipa - Kaipa
 * Kaipa - Inget Nytt Under Solen
 * Kaipa - Solo
-* Kansas - Kansas
-* Kansas - Leftoverture
-* Kansas - Point Of Know Return
 * Klaatu - Magentalane
 * Laurent Thibault - Mais On Ne Peut Pas Rêver Tout Le Temps
 * McLuhan - Anomaly
@@ -90,6 +96,8 @@
 * PFM - Per Un Amico
 * PFM - L'isola Di Niente
 * Picchio Dal Pozzo - Picchio Dal Pozzo
+* Public Foot The Roman - Public Foot The Roman
+* Rick Wakeman - The Six Wives Of Henry VIII
 * Rush - Rush
 * Rush - Fly By Night
 * Rush - Caress Of Steel
@@ -127,6 +135,7 @@
 * Anthrax - Sound Of White Noise
 * Aspid - Extravasation
 * Insanity Alert - Moshburger
+* Hellish Crossfire - Slaves Of The Burning Pentagram
 * Metallica - A Moth Into The Flame
 * Paradox - Heresy
 * Paradox - Product Of Imagination
@@ -180,15 +189,16 @@
 
 ## Rock / Folk
 * Big Brother & The Holding Company - How Hard It Is
-* Bruce Springsteen - Wild Innocent E Street Shuffle
 * Camel - Stationary Traveller
 * Cat Stevens - Numbers
+* The Cramps - A Date With Elvis
 * David Bowie - Aladin Sane
 * David Bowie - Diamond Dogs
 * David Crosby - If I Could Only Remember My Name
 * Fleetwood Mac - Future Games
 * George Harrison - All Things Must Pass
 * The Hollies - Butterfly
+* José Gonzalez - ???
 * Joseph - Stone Age Man
 * Kingstone Wall - I
 * Kingstone Wall - II
@@ -198,21 +208,35 @@
 * Peter, Paul & Mary - Late Again
 * Radiohead - A Moon Shaped Pool
 * Steven Wilson - The Raven That Refused To Sing
+* T. Rex - My People Were Fair And Had Sky In Their Hair... But Now They're Content To Wear Stars On Their Brows
+* T. Rex - Prophets, Seers & Sages The Angel Of The Ages
+* T. Rex - A Beard Of Stars
+* T. Rex - Electric Warrior
 * Thin Lizzy - Vagabonds Of The Western World
 * Tri Yann - Tri Yann An Naoned
 * Tri Yann - Dix Ans Dix Filles
 * Tri Yann - Suite Gallaise
 * Tri Yann - La Découverte Ou L'ignorance
+* Tri Yann - An Heol A Zo Glaz
 
 ## Reggae / Soul / Latino
+* The Abyssinians - Satta Massagana
+* The Abyssinians - Arise
 * Bob Marley & The Wailers - Natty Dread
+* Cedric Brooks - United Africa
+* The Congos - Congo Ashanti
+* Dr. Alimantado - Kings Bread
+* Jimmy Cliff - Brave Warrior
 * Sergent Garcia - Un Poquito Quema'o
 * Toots & The Maytals - In The Dark
 * Toots & The Maytals - Reggae Got Soul
 
 ## Punk / Grunge
+* Didier Super - La Merde Des Autres
 * Fiend Without A Face - Fiend Without A Face II
 * Fire Ants - Stripped
+* Fugazi - 13 Songs
+* Fugazi - End Hits
 * Love Battery - Dayglo
 * Metz - Metz II
 * New Model Army - No Rest For The Wicked
@@ -220,10 +244,10 @@
 * Skin Yard - Skin Yard
 * Skin Yard - Hallowed Ground
 * Tad - 8-Way Santa
-* The Clash
 * The Cure - Seventeen Seconds
 * The Cure - Faith
 * U2 - October
+* Wipers - Over The Edge
 * X - Under The Big Black Sun
 
 ## Pop / Hip-Hop / Rap / Funk
@@ -236,6 +260,7 @@
 * Phoenix - It's Never Been Like That
 * Roméo Elvis - Morale
 * Skinshape - Oraccolo
+* Stevie Wonder - Innervisions
 * Tommy Guerrero - No Man's Land
 * Tommy Guierrero - Road To Nowhere
 * A Tribe Called Quest - The Low End Theory
@@ -251,6 +276,9 @@
 * Wayne Shorter - Wayning Moments
 * Wayne Shorter - Night Dreamer
 * Wayne Shorter - JuJu
+* Wayne Shorter - The Soothsayer
+* Wayne Shorter - Adam's Apple
+* Wayne Shorter - Schizophrenia
 
 ## Pour plus tard
 * Alestorm - No Grave Nut The Sea
@@ -277,6 +305,7 @@
 * Tempel - The Moon Lit Our Path
 * Townes Van Zandt - Townes Van Zandt
 * The Black Angels - Passover
+* Ulsect - Ulsect
 * Vulfpeck - Mit Peck
 * Vulfpeck - Vollmilch
 * Wellwater Conspiracy - Declaration Of Conformity
@@ -287,9 +316,11 @@
 * Albino Slug
 * A Real Diamond In The Rough
 * Captain Eo's Voyage
-* Pike 1
 * Pike 18
 * Pike 23
+* Pike 27
+* Pike 38
+* Pike 39
 * Pike 41
 * Pike 56
 * Pike 175
