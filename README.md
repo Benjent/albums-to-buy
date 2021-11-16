@@ -8,7 +8,6 @@
 
 ## Dur à trouver / Amazon
 * Emma Ruth Rundle - Marked For Death
-* Erdve - Vaitojimas
 * George Duke - Faces In Reflection
 * George Duke - Guardian Of The Light
 * Jerry Garcia - Pizza Tapes
@@ -25,6 +24,7 @@
 * Atlas - Blå Vardag
 * Axis - Axis
 * Babe Ruth - Amar Caballero
+* Bakery - Momento
 * Banco Del Mutuo Soccorso - Io Sono Nato Libero
 * Brian Davison - Every Which Way
 * Búsqueda - Búsqueda
@@ -95,6 +95,7 @@
 * PFM - Storia Di Un Minuto
 * PFM - Per Un Amico
 * PFM - L'isola Di Niente
+* Pollen - Pollen
 * Picchio Dal Pozzo - Picchio Dal Pozzo
 * Public Foot The Roman - Public Foot The Roman
 * Rick Wakeman - The Six Wives Of Henry VIII
@@ -117,7 +118,6 @@
 * Winterhawk - Revival
 * Wishbone Ash - Wishbone Four
 * Wishbone Ash - There's The Rub
-* Wishbone Ash - New England
 * Wishbone Ash - Front Page News
 * Wizzo Band - Super Active Wizzo
 * WLUD - Second
@@ -189,7 +189,6 @@
 
 ## Rock / Folk
 * Big Brother & The Holding Company - How Hard It Is
-* Camel - Stationary Traveller
 * Cat Stevens - Numbers
 * The Cramps - A Date With Elvis
 * David Bowie - Aladin Sane
@@ -207,7 +206,6 @@
 * Mild Orange - Mild Orange
 * Peter, Paul & Mary - Late Again
 * Radiohead - A Moon Shaped Pool
-* Steven Wilson - The Raven That Refused To Sing
 * T. Rex - My People Were Fair And Had Sky In Their Hair... But Now They're Content To Wear Stars On Their Brows
 * T. Rex - Prophets, Seers & Sages The Angel Of The Ages
 * T. Rex - A Beard Of Stars
@@ -218,11 +216,11 @@
 * Tri Yann - Suite Gallaise
 * Tri Yann - La Découverte Ou L'ignorance
 * Tri Yann - An Heol A Zo Glaz
+* UFO - Phenomenon
 
 ## Reggae / Soul / Latino
 * The Abyssinians - Satta Massagana
 * The Abyssinians - Arise
-* Bob Marley & The Wailers - Natty Dread
 * Cedric Brooks - United Africa
 * The Congos - Congo Ashanti
 * Dr. Alimantado - Kings Bread
@@ -233,12 +231,12 @@
 
 ## Punk / Grunge
 * Didier Super - La Merde Des Autres
+* Failure - Fantastic Planet
 * Fiend Without A Face - Fiend Without A Face II
 * Fire Ants - Stripped
 * Fugazi - 13 Songs
 * Fugazi - End Hits
 * Love Battery - Dayglo
-* Metz - Metz II
 * New Model Army - No Rest For The Wicked
 * New Model Army - The Ghost Of Cain
 * Skin Yard - Skin Yard
@@ -246,6 +244,7 @@
 * Tad - 8-Way Santa
 * The Cure - Seventeen Seconds
 * The Cure - Faith
+* The Gits - Frenching The Bully
 * U2 - October
 * Wipers - Over The Edge
 * X - Under The Big Black Sun
@@ -260,7 +259,6 @@
 * Phoenix - It's Never Been Like That
 * Roméo Elvis - Morale
 * Skinshape - Oraccolo
-* Stevie Wonder - Innervisions
 * Tommy Guerrero - No Man's Land
 * Tommy Guierrero - Road To Nowhere
 * A Tribe Called Quest - The Low End Theory
@@ -305,6 +303,7 @@
 * Tempel - The Moon Lit Our Path
 * Townes Van Zandt - Townes Van Zandt
 * The Black Angels - Passover
+* The Chameleons - Script Of The Bridge
 * Ulsect - Ulsect
 * Vulfpeck - Mit Peck
 * Vulfpeck - Vollmilch
