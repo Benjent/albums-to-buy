@@ -7,6 +7,8 @@
 * Ambrosia - Ambrosia
 * Anthony Philips - The Geese & The Ghost
 * Arachnoid - Arachnoid
+* Asia (USA) - Asia
+* Asia (USA) - Armed To The Teeth
 * Atlas - Blå Vardag
 * Automat - Automat
 * Axis - Axis
@@ -79,6 +81,7 @@
 * The Moody Blues - A Question Of Balance
 * Nirvana - To Markos III
 * Nirvana - Local Anaesthetic
+* Oho - Okinawa
 * L'orchestre Sympathique - En Concert A La Grande Passe
 * Osanna - Palepoli
 * Osanna - Landscape Of Life
@@ -103,6 +106,8 @@
 * Surprise - Assault On Merryland
 * Tea & Symphony - An Asylum For The Insane
 * Tea & Symphony - Jo Sago
+* Thalassa - Suffer And Misery
+* UK - UK
 * Visitor 2035 - Visitor 2035
 * Walrus - Walrus
 * Windchase - Simphinity
@@ -121,6 +126,7 @@
 * Black Fast - Starving Out The Light
 * Evil Army - Evil Army
 * Droid - Terrestrial Mutations
+* Droÿs - And If...
 * Hellish Crossfire - Slaves Of The Burning Pentagram
 * Insanity Alert - Moshburger
 * Metallica - A Moth Into The Flame
@@ -148,9 +154,11 @@
 * Inter Arma - The Cavern
 * Inter Arma - Paradise Gallows
 * Judas Priest - Sad Wings Of Destiny
+* Judas Priest - Defenders Of The Faith
 * Judas Priest - Screaming For Vengeance
 * Lord Dying - Poisened Altars
 * Nero Di Marte - Immoto
+* Protector - A Shedding Of Skin
 * Rollins Band - The End Of Silence
 * Rollins Band - Weight
 * Saint Vitus - Born Too Late
@@ -176,6 +184,7 @@
 * Witchcraft - Legend
 
 ## Punk / Grunge
+* 10 Minute Warning - 10 Minute Warning
 * Dépotivo - Parmi Eux
 * Didier Super - La Merde Des Autres
 * Failure - Fantastic Planet
@@ -184,6 +193,7 @@
 * Fugazi - 13 Songs
 * Fugazi - End Hits
 * Love Battery - Dayglo
+* Meat Puppets - Up On The Sun
 * New Model Army - No Rest For The Wicked
 * New Model Army - The Ghost Of Cain
 * Skin Yard - Skin Yard
@@ -192,6 +202,7 @@
 * The Cure - Seventeen Seconds
 * The Cure - Faith
 * The Cramps - A Date With Elvis
+* The Fluid - Purplemetalflakemusic
 * The Gits - Frenching The Bully
 * U2 - October
 * Wipers - Over The Edge
@@ -233,6 +244,7 @@
 * Tri Yann - Suite Gallaise
 * Tri Yann - La Découverte Ou L'ignorance
 * Tri Yann - An Heol A Zo Glaz
+* The Trials Of Cato - Hide And Hair
 * UFO - Phenomenon
 
 ## Reggae / Soul / Latino / Afrobeat
@@ -290,7 +302,7 @@
 * Animals As Leaders - Weightless
 * Animals As Leaders - The Joy Of Motion
 * Borislav Mitic - Borislav Mitic
-* Buffalo SPringfield - Intégrale (ou S/T)
+* Buffalo Springfield - Intégrale (ou S/T)
 * Emma Ruth Rundle - Marked For Death
 * Herb Ellis & Red Mitchell - Doggin' Around
 * Herbie Hancock - The Prisoner
@@ -309,9 +321,14 @@
 * Talk Talk - Laughing Stock
 * Tempel - On The Steps Of The Temple
 * Tempel - The Moon Lit Our Path
+* Total Eclipse - Access Denied
 * Townes Van Zandt - Townes Van Zandt
+* Trouble - Psalm 9
 * The Black Angels - Passover
 * The Chameleons - Script Of The Bridge
+* The Guess Who - Shakin' All Over
+* The Guess Who - American Woman
+* The Guess Who - Share The Land
 * Rob Zombie - Hellbilly Deluxe
 * Ulsect - Ulsect
 * Vulfpeck - Mit Peck
