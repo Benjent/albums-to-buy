@@ -176,6 +176,7 @@
 * Earth - Hex
 * Elder - Gold & Silver Sessions
 * Elephant Tree - Elephant Tree
+* Jex Thoth - Blood Moon Rise (funeral blues)
 * Orange Goblin - Frequencies From Planet Ten
 * Orange Goblin - Time Travelling Blues
 * Orange Goblin - The Big Black
@@ -264,12 +265,10 @@
 * Steel Pulse - Handsworth Revolution
 * Steel Pulse - Tribute To The Martyrs
 * Steel Pulse - Caught You
-* Steel Pulse - True Democracy
 
 ## Pop / Hip-Hop / Rap / Funk
 * Anderson .Paak - Malibu
 * Funkadelic - Cosmic Slop
-* Jamiroquai - Dynamite
 * Joe Bada$$ - All-Amerikkkan Bada$$
 * Khruangbin - Con Todo El Mundo
 * Phoenix - It's Never Been Like That
