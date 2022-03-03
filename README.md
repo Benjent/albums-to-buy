@@ -107,13 +107,13 @@
 * Tea & Symphony - An Asylum For The Insane
 * Tea & Symphony - Jo Sago
 * Thalassa - Suffer And Misery
+* Tonton Macoute - Tonton Macoute
 * UK - UK
 * Visitor 2035 - Visitor 2035
 * Walrus - Walrus
 * Windchase - Simphinity
 * Windflower - Windflower
 * Winterhawk - Revival
-* Wishbone Ash - Wishbone Four
 * Wishbone Ash - There's The Rub
 * Wishbone Ash - Front Page News
 * Wizzo Band - Super Active Wizzo
