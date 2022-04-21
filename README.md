@@ -1,5 +1,31 @@
 # albums-to-buy
 
+## TOP TIER
+* Babe Ruth - Amar Caballero
+* Frank Zappa - Studio Tan
+* Black Fast - Starving Out The Light
+* Evil Army - Evil Army
+* Baroness - First + Second
+* Bell Witch - Mirror Reaper
+* Skin Yard - Skin Yard
+* Skin Yard - Hallowed Ground
+* Big Brother & The Holding Company - How Hard It Is
+* Peter, Paul & Mary - Late Again
+* The Trials Of Cato - Hide And Hair
+* Cymande - Cymande
+* Cymande - Second Time Around
+* Cymande - Promised Heights
+* Steel Pulse - Handsworth Revolution
+* Steel Pulse - Tribute To The Martyrs
+* Steel Pulse - Caught You
+* Anderson .Paak - Malibu
+* Roméo Elvis - Morale
+* Skinshape - Oraccolo
+* Tommy Guerrero - No Man's Land
+* Tommy Guierrero - Road To Nowhere
+* Herb Ellis & Romeo Palmier - Windflower
+* Nancy Sinatra - How Does That Grab You?
+
 ## Prog
 * Abstract Truth - Totum
 * Alain Markusfeld - Le Désert Noir
@@ -11,12 +37,19 @@
 * Asia (USA) - Armed To The Teeth
 * Atlas - Blå Vardag
 * Automat - Automat
+* A.F.T. - Automatic Fine Tuning
 * Axis - Axis
-* Babe Ruth - Amar Caballero
 * Bakery - Momento
 * Banco Del Mutuo Soccorso - Io Sono Nato Libero
 * Bangor Flying Circus - Bangor Flying Circus
 * Blast Furnace - Blast Furnace
+* Bram Stoker - Heavy Rock Spectacular
+* Brian Auger's Oblivion Express - A Better Land
+* Brian Auger's Oblivion Express - Second Wind
+* Brian Auger's Oblivion Express - Closer To It!
+* Brian Auger's Oblivion Express - Straight Ahead
+* Brian Auger's Oblivion Express - Reinforcements
+* Brian Auger's Oblivion Express - Happiness Heartaches
 * Brian Davison - Every Which Way
 * Búsqueda - Búsqueda
 * Carsten Bohn's Bandstand - Mother Goose Shoes
@@ -37,7 +70,6 @@
 * ELO - Secret Messages
 * Eloy - Time To Turn
 * Ex Vitae - Saxophonie
-* Frank Zappa - Studio Tan
 * Frank Zappa - The Man From Utopia
 * Frank Zappa - Halloween 81 full
 * Gracious! - This Is Gracious!
@@ -70,6 +102,9 @@
 * Kaipa - Solo
 * Klaatu - Magentalane
 * Laurent Thibault - Mais On Ne Peut Pas Rêver Tout Le Temps
+* Maneige - Les Porches
+* Maneige - Ni Vent... Ni Nouvelle
+* Maneige - Libre Service
 * McLuhan - Anomaly
 * MIA - Transparencias
 * MIA - Mágicos Juegos Del Tiempo
@@ -86,12 +121,21 @@
 * Osanna - Palepoli
 * Osanna - Landscape Of Life
 * Osanna - Suddance
+* Pallas - The Sentinel
 * PFM - Storia Di Un Minuto
 * PFM - Per Un Amico
 * PFM - L'isola Di Niente
-* Pollen - Pollen
 * Picchio Dal Pozzo - Picchio Dal Pozzo
+* Pollen - Pollen
+* Prudence - Tomorrow May Be Vanished
+* Prudence - Drunk And Happy
 * Public Foot The Roman - Public Foot The Roman
+* Ramases - Space Hymns
+* Ramases - Glass Top Coffin
+* Renaissance - Renaissance
+* Renaissance - Illusion
+* Renaissance - Prologue
+* Renaissance - Ashes Are Burning
 * Rick Wakeman - The Six Wives Of Henry VIII
 * Rush - Rush
 * Rush - Fly By Night
@@ -123,8 +167,6 @@
 * Annihilator - Set The World On Fire
 * Anthrax - Sound Of White Noise
 * Aspid - Extravasation
-* Black Fast - Starving Out The Light
-* Evil Army - Evil Army
 * Droid - Terrestrial Mutations
 * Droÿs - And If...
 * Hellish Crossfire - Slaves Of The Burning Pentagram
@@ -142,13 +184,12 @@
 * Abraham - The Serpent, The Prophet & The Whore
 * Agressor - Towards Beyond
 * Barishi - Old Smoke
-* Baroness - First + Second
-* Bell Witch - Mirror Reaper
 * Black Sabbath - Never Say Die!
 * Dreadnought - Bridging Realms
 * Dreadnought - A Wake In Sacred Waves
 * Fractal Universe - Engram Of Decline
 * Funeral Diner - The Underdark
+* Ghost - Imperia
 * Gorgoroth - Ad Majorem Sathanas Gloriam
 * Igorrr - Poisson Soluble
 * Inter Arma - The Cavern
@@ -189,16 +230,19 @@
 * Dépotivo - Parmi Eux
 * Didier Super - La Merde Des Autres
 * Failure - Fantastic Planet
+* Fantomes - It's OK
 * Fiend Without A Face - Fiend Without A Face II
 * Fire Ants - Stripped
 * Fugazi - 13 Songs
 * Fugazi - End Hits
+* JC Satan - Centaur Desire
+* JC Satan - JC Satan
+* JC Satan - Faraway Land
+* JC Satan - Hell Death Samba
 * Love Battery - Dayglo
 * Meat Puppets - Up On The Sun
 * New Model Army - No Rest For The Wicked
 * New Model Army - The Ghost Of Cain
-* Skin Yard - Skin Yard
-* Skin Yard - Hallowed Ground
 * Tad - 8-Way Santa
 * The Cure - Seventeen Seconds
 * The Cure - Faith
@@ -215,7 +259,6 @@
 * Agincourt - Fly Away
 * Alan Stivell - Renaissance De La Harpe Celtique
 * Alan Stivell - Un Dewezh 'Barzh 'Gêr
-* Big Brother & The Holding Company - How Hard It Is
 * Bull Angus - Bull Angus
 * Cat Stevens - Numbers
 * David Bowie - Aladin Sane
@@ -233,7 +276,6 @@
 * Kingstone Wall - II
 * Mild Orange - Foreplay
 * Mild Orange - Mild Orange
-* Peter, Paul & Mary - Late Again
 * Radiohead - A Moon Shaped Pool
 * T. Rex - My People Were Fair And Had Sky In Their Hair... But Now They're Content To Wear Stars On Their Brows
 * T. Rex - Prophets, Seers & Sages The Angel Of The Ages
@@ -245,13 +287,10 @@
 * Tri Yann - Suite Gallaise
 * Tri Yann - La Découverte Ou L'ignorance
 * Tri Yann - An Heol A Zo Glaz
-* The Trials Of Cato - Hide And Hair
 * UFO - Phenomenon
+* The Who - A Quick One
 
 ## Reggae / Soul / Latino / Afrobeat
-* Cymande - Cymande
-* Cymande - Second Time Around
-* Cymande - Promised Heights
 * Osibisa - Osibisa
 * Osibisa - Woyaya
 * Osibisa - Heads
@@ -262,20 +301,13 @@
 * Dr. Alimantado - Kings Bread
 * Jimmy Cliff - Brave Warrior
 * Sergent Garcia - Un Poquito Quema'o
-* Steel Pulse - Handsworth Revolution
-* Steel Pulse - Tribute To The Martyrs
-* Steel Pulse - Caught You
 
 ## Pop / Hip-Hop / Rap / Funk
-* Anderson .Paak - Malibu
 * Funkadelic - Cosmic Slop
+* Jacques - L'importance Du Vide
 * Joe Bada$$ - All-Amerikkkan Bada$$
 * Khruangbin - Con Todo El Mundo
 * Phoenix - It's Never Been Like That
-* Roméo Elvis - Morale
-* Skinshape - Oraccolo
-* Tommy Guerrero - No Man's Land
-* Tommy Guierrero - Road To Nowhere
 * A Tribe Called Quest - The Low End Theory
 * Vaudou Game - Vaudo Game
 
@@ -283,8 +315,6 @@
 * Gabor Szabo - Magical Connection
 * George Duke - Faces In Reflection
 * George Duke - Guardian Of The Light
-* Herb Ellis & Romeo Palmier - Windflower
-* Nancy Sinatra - How Does That Grab You?
 * Pat Metheny - What's It All About
 * Snarky Puppy - The Only Constant
 * Snarky Puppy - We Like It Here
@@ -314,6 +344,7 @@
 * MGMT - Congratulations
 * Opeth - Sorceress
 * Opeth - In Cauda Venenum
+* Red Hot Chili Peppers - Unlimited Love
 * Ruby My Dear - Remains Of Shapes To Come
 * Snarky Puppy - The World Is Getting Smaller
 * Talk Talk - Spirit Of Eden
