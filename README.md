@@ -69,6 +69,7 @@
 * Dr. Z - Three Parts To My Soul
 * ELO - Secret Messages
 * Eloy - Time To Turn
+* Emergency - Entrance
 * Ex Vitae - Saxophonie
 * Frank Zappa - The Man From Utopia
 * Frank Zappa - Halloween 81 full
@@ -136,6 +137,7 @@
 * Renaissance - Illusion
 * Renaissance - Prologue
 * Renaissance - Ashes Are Burning
+* Renaissance - Turn Of The Cards
 * Rick Wakeman - The Six Wives Of Henry VIII
 * Rush - Rush
 * Rush - Fly By Night
@@ -235,10 +237,8 @@
 * Fire Ants - Stripped
 * Fugazi - 13 Songs
 * Fugazi - End Hits
-* JC Satan - Centaur Desire
-* JC Satan - JC Satan
-* JC Satan - Faraway Land
 * JC Satan - Hell Death Samba
+* JC Satan - JC Satan
 * Love Battery - Dayglo
 * Meat Puppets - Up On The Sun
 * New Model Army - No Rest For The Wicked
@@ -304,7 +304,6 @@
 
 ## Pop / Hip-Hop / Rap / Funk
 * Funkadelic - Cosmic Slop
-* Jacques - L'importance Du Vide
 * Joe Bada$$ - All-Amerikkkan Bada$$
 * Khruangbin - Con Todo El Mundo
 * Phoenix - It's Never Been Like That
