@@ -9,13 +9,11 @@
 * Bell Witch - Mirror Reaper
 * Skin Yard - Skin Yard
 * Skin Yard - Hallowed Ground
-* Big Brother & The Holding Company - How Hard It Is
 * Peter, Paul & Mary - Late Again
 * The Trials Of Cato - Hide And Hair
 * Cymande - Cymande
 * Cymande - Second Time Around
 * Cymande - Promised Heights
-* Steel Pulse - Handsworth Revolution
 * Steel Pulse - Tribute To The Martyrs
 * Steel Pulse - Caught You
 * Anderson .Paak - Malibu
@@ -33,6 +31,7 @@
 * Ambrosia - Ambrosia
 * Anthony Philips - The Geese & The Ghost
 * Arachnoid - Arachnoid
+* Armageddon -Armageddon
 * Asia (USA) - Asia
 * Asia (USA) - Armed To The Teeth
 * Atlas - Blå Vardag
@@ -117,7 +116,7 @@
 * The Moody Blues - A Question Of Balance
 * Nirvana - To Markos III
 * Nirvana - Local Anaesthetic
-* Oho - Okinawa
+* Nosferatu - Nosferatu
 * L'orchestre Sympathique - En Concert A La Grande Passe
 * Osanna - Palepoli
 * Osanna - Landscape Of Life
@@ -133,12 +132,14 @@
 * Public Foot The Roman - Public Foot The Roman
 * Ramases - Space Hymns
 * Ramases - Glass Top Coffin
-* Renaissance - Renaissance
-* Renaissance - Illusion
 * Renaissance - Prologue
 * Renaissance - Ashes Are Burning
 * Renaissance - Turn Of The Cards
+* Renaissance - Scheherazade
+* Renaissance - Novella
 * Rick Wakeman - The Six Wives Of Henry VIII
+* Riff Raff - Riff Raff
+* Riff Raff - Original Man
 * Rush - Rush
 * Rush - Fly By Night
 * Rush - Caress Of Steel
@@ -149,6 +150,7 @@
 * Sloche - Stadaconé
 * Solaris - Marsbéli Krónikák
 * Spring - Spring (+ Spring 2)
+* Stomu Yamash'ta - Freedom Is Frightening
 * Surprise - Assault On Merryland
 * Tea & Symphony - An Asylum For The Insane
 * Tea & Symphony - Jo Sago
@@ -163,7 +165,6 @@
 * Wishbone Ash - There's The Rub
 * Wishbone Ash - Front Page News
 * Wizzo Band - Super Active Wizzo
-* WLUD - Second
 
 ## Thrash
 * Annihilator - Set The World On Fire
@@ -261,11 +262,19 @@
 * Alan Stivell - Un Dewezh 'Barzh 'Gêr
 * Bull Angus - Bull Angus
 * Cat Stevens - Numbers
+* Cher TODO? - Gypsys, Tramps & Thieves
+* Cher - Foxy Lady
+* Cher TODO? - Bittersweet White Light
 * David Bowie - Aladin Sane
 * David Bowie - Diamond Dogs
 * David Crosby - If I Could Only Remember My Name
 * Fleetwood Mac - Future Games
 * George Harrison - All Things Must Pass
+* Grand Funk Railroad - E Pluribus Funk
+* Grand Funk Railroad - We're An American Band
+* Grand Funk Railroad - Shinin' On
+* Grand Funk Railroad - All The Girls In The World Beware!!!
+* Grand Funk Railroad - Born To Die
 * The Hollies - Butterfly
 * Jerry Garcia - Pizza Tapes
 * John Frusciante - The Empyrean
@@ -274,6 +283,11 @@
 * King Gizzard & The Lizard Wizard - Quarters!
 * Kingstone Wall - I
 * Kingstone Wall - II
+* Maxime Le Forestier - 1 Mon Frère
+* Maxime Le Forestier - 2 Le Steak
+* Maxime Le Forestier - 3 Saltimbanque
+* Maxime Le Forestier - 4 Hymne À Sept Ans
+* Maxime Le Forestier - 5 N°5
 * Mild Orange - Foreplay
 * Mild Orange - Mild Orange
 * Radiohead - A Moon Shaped Pool
@@ -289,6 +303,9 @@
 * Tri Yann - An Heol A Zo Glaz
 * UFO - Phenomenon
 * The Who - A Quick One
+* The Who - The Who Sell Out
+* The Who - Who's Next
+* The Who - Quadrophenia
 
 ## Reggae / Soul / Latino / Afrobeat
 * Osibisa - Osibisa
