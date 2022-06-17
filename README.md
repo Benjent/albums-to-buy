@@ -114,6 +114,8 @@
 * Miklagård - Miklagård
 * The Moody Blues - Days Of Future Past
 * The Moody Blues - A Question Of Balance
+* Nektar - A Tab In The Ocean
+* Nektar - Remember The Future
 * Nirvana - To Markos III
 * Nirvana - Local Anaesthetic
 * Nosferatu - Nosferatu
@@ -146,6 +148,8 @@
 * Rush - 2112
 * Rush - A Farewell To Kings
 * Rush - Hemispheres
+* Shaa Khan - The World Will End On Friday
+* Shaa Khan - Anything Wrong?
 * Sloche - J'un Oeil
 * Sloche - Stadaconé
 * Solaris - Marsbéli Krónikák
@@ -219,6 +223,7 @@
 * Dwellers - Pagan Fruit
 * Earth - Hex
 * Elder - Gold & Silver Sessions
+* Electric Moon - Stardust Rituals
 * Elephant Tree - Elephant Tree
 * Jex Thoth - Blood Moon Rise (funeral blues)
 * Orange Goblin - Frequencies From Planet Ten
