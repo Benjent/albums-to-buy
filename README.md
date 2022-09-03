@@ -23,6 +23,7 @@
 * Tommy Guierrero - Road To Nowhere
 * Herb Ellis & Romeo Palmier - Windflower
 * Nancy Sinatra - How Does That Grab You?
+* Death - Spiritual Healing
 
 ## Prog
 * Abstract Truth - Totum
@@ -96,12 +97,16 @@
 * Jade Warrior - Kites
 * Jackal - Awake
 * Jan Dukes De Grey - Mice And Rats In The Loft
+* Jasper Wrath - Jasper Wrath
 * Jethro Tull - Benefit
 * Kaipa - Kaipa
 * Kaipa - Inget Nytt Under Solen
 * Kaipa - Solo
+* Kayak - See See The Sun
+* Kayak - Royal Bed Bouncer
 * Klaatu - Magentalane
 * Laurent Thibault - Mais On Ne Peut Pas Rêver Tout Le Temps
+* The Mandrake Memorial - Medium
 * Maneige - Les Porches
 * Maneige - Ni Vent... Ni Nouvelle
 * Maneige - Libre Service
@@ -124,7 +129,6 @@
 * Osanna - Landscape Of Life
 * Osanna - Suddance
 * Pallas - The Sentinel
-* PFM - Storia Di Un Minuto
 * PFM - Per Un Amico
 * PFM - L'isola Di Niente
 * Picchio Dal Pozzo - Picchio Dal Pozzo
@@ -150,6 +154,7 @@
 * Rush - Hemispheres
 * Shaa Khan - The World Will End On Friday
 * Shaa Khan - Anything Wrong?
+* Sheshet (Shem Tom Levi) - Sheshet
 * Sloche - J'un Oeil
 * Sloche - Stadaconé
 * Solaris - Marsbéli Krónikák
@@ -159,7 +164,10 @@
 * Tea & Symphony - An Asylum For The Insane
 * Tea & Symphony - Jo Sago
 * Thalassa - Suffer And Misery
+* Thirsty Moon - Thirsty Moon
+* Thirsty Moon - You'll Never Come Back
 * Tonton Macoute - Tonton Macoute
+* Triode - On N'a Pas Fini D'avoir Tout Vu
 * UK - UK
 * Visitor 2035 - Visitor 2035
 * Walrus - Walrus
@@ -169,6 +177,9 @@
 * Wishbone Ash - There's The Rub
 * Wishbone Ash - Front Page News
 * Wizzo Band - Super Active Wizzo
+* Wobbler - From Silence To Somewhere
+* Yezda Urfa - Boris
+* Yezda Urfa - Sacred Baboon
 
 ## Thrash
 * Annihilator - Set The World On Fire
@@ -181,6 +192,7 @@
 * Metallica - A Moth Into The Flame
 * Paradox - Heresy
 * Paradox - Product Of Imagination
+* Sodom - Agent Orange
 * Voivod - Target Earth
 * Vexovoid - Call Of The Starforger
 * Warbringer - Empires Collapse
@@ -192,6 +204,7 @@
 * Agressor - Towards Beyond
 * Barishi - Old Smoke
 * Black Sabbath - Never Say Die!
+* Death - Leprosy
 * Dreadnought - Bridging Realms
 * Dreadnought - A Wake In Sacred Waves
 * Fractal Universe - Engram Of Decline
@@ -235,6 +248,7 @@
 
 ## Punk / Grunge
 * 10 Minute Warning - 10 Minute Warning
+* Chemistry Set - The Incomplete Fabulous Stinking
 * Dépotivo - Parmi Eux
 * Didier Super - La Merde Des Autres
 * Failure - Fantastic Planet
@@ -267,9 +281,6 @@
 * Alan Stivell - Un Dewezh 'Barzh 'Gêr
 * Bull Angus - Bull Angus
 * Cat Stevens - Numbers
-* Cher TODO? - Gypsys, Tramps & Thieves
-* Cher - Foxy Lady
-* Cher TODO? - Bittersweet White Light
 * David Bowie - Aladin Sane
 * David Bowie - Diamond Dogs
 * David Crosby - If I Could Only Remember My Name
@@ -296,6 +307,7 @@
 * Mild Orange - Foreplay
 * Mild Orange - Mild Orange
 * Radiohead - A Moon Shaped Pool
+* Sky King - Secret Sauce
 * T. Rex - My People Were Fair And Had Sky In Their Hair... But Now They're Content To Wear Stars On Their Brows
 * T. Rex - Prophets, Seers & Sages The Angel Of The Ages
 * T. Rex - A Beard Of Stars
@@ -306,6 +318,7 @@
 * Tri Yann - Suite Gallaise
 * Tri Yann - La Découverte Ou L'ignorance
 * Tri Yann - An Heol A Zo Glaz
+* Tudor Lodge - Tudor Lodge
 * UFO - Phenomenon
 * The Who - A Quick One
 * The Who - The Who Sell Out
@@ -317,10 +330,10 @@
 * Osibisa - Woyaya
 * Osibisa - Heads
 * The Abyssinians - Satta Massagana
-* The Abyssinians - Arise
 * Cedric Brooks - United Africa
 * The Congos - Congo Ashanti
 * Dr. Alimantado - Kings Bread
+* Freddie McGregor - Bobby Bobylon
 * Jimmy Cliff - Brave Warrior
 * Sergent Garcia - Un Poquito Quema'o
 
@@ -353,6 +366,7 @@
 * Animals As Leaders - The Joy Of Motion
 * Borislav Mitic - Borislav Mitic
 * Buffalo Springfield - Intégrale (ou S/T)
+* Cher - Foxy Lady
 * Emma Ruth Rundle - Marked For Death
 * Herb Ellis & Red Mitchell - Doggin' Around
 * Herbie Hancock - The Prisoner
@@ -385,6 +399,7 @@
 * Vulfpeck - Mit Peck
 * Vulfpeck - Vollmilch
 * Wellwater Conspiracy - Declaration Of Conformity
+* Wobbler - Rites At Dawn
 * Wretched - Cannibal
 
 ## Buckethead
