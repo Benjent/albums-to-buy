@@ -117,7 +117,6 @@
 * Michel Fugain - Un Enfant Dans La Ville
 * Mike Oldfield - Incantations
 * Miklagård - Miklagård
-* The Moody Blues - Days Of Future Past
 * The Moody Blues - A Question Of Balance
 * Nektar - A Tab In The Ocean
 * Nektar - Remember The Future
@@ -189,7 +188,6 @@
 * Droÿs - And If...
 * Hellish Crossfire - Slaves Of The Burning Pentagram
 * Insanity Alert - Moshburger
-* Metallica - A Moth Into The Flame
 * Paradox - Heresy
 * Paradox - Product Of Imagination
 * Sodom - Agent Orange
@@ -216,7 +214,6 @@
 * Inter Arma - Paradise Gallows
 * Judas Priest - Sad Wings Of Destiny
 * Judas Priest - Defenders Of The Faith
-* Judas Priest - Screaming For Vengeance
 * Lord Dying - Poisened Altars
 * Nero Di Marte - Immoto
 * Protector - A Shedding Of Skin
@@ -322,7 +319,6 @@
 * UFO - Phenomenon
 * The Who - A Quick One
 * The Who - The Who Sell Out
-* The Who - Who's Next
 * The Who - Quadrophenia
 
 ## Reggae / Soul / Latino / Afrobeat
