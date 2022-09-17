@@ -1,7 +1,7 @@
 # albums-to-buy
 
 ## TOP TIER
-* Babe Ruth - Amar Caballero
+* Aspid - Extravasation
 * Frank Zappa - Studio Tan
 * Black Fast - Starving Out The Light
 * Evil Army - Evil Army
@@ -56,8 +56,6 @@
 * Cathedral - Stained Glass Stories
 * Colosseum - Those Who Are About To Die Salute You
 * Colosseum II - Strange New Flesh
-* Colosseum II - Electric Savage
-* Colosseum II - War Dance
 * Crack The Sky - Crack The Sky
 * Crack The Sky - Animal Notes
 * Crack The Sky - Safety In Numbers
@@ -117,7 +115,6 @@
 * Michel Fugain - Un Enfant Dans La Ville
 * Mike Oldfield - Incantations
 * Miklagård - Miklagård
-* The Moody Blues - A Question Of Balance
 * Nektar - A Tab In The Ocean
 * Nektar - Remember The Future
 * Nirvana - To Markos III
@@ -128,7 +125,6 @@
 * Osanna - Landscape Of Life
 * Osanna - Suddance
 * Pallas - The Sentinel
-* PFM - Per Un Amico
 * PFM - L'isola Di Niente
 * Picchio Dal Pozzo - Picchio Dal Pozzo
 * Pollen - Pollen
@@ -183,7 +179,6 @@
 ## Thrash
 * Annihilator - Set The World On Fire
 * Anthrax - Sound Of White Noise
-* Aspid - Extravasation
 * Droid - Terrestrial Mutations
 * Droÿs - And If...
 * Hellish Crossfire - Slaves Of The Burning Pentagram
@@ -200,8 +195,6 @@
 ## Metal
 * Abraham - The Serpent, The Prophet & The Whore
 * Agressor - Towards Beyond
-* Barishi - Old Smoke
-* Black Sabbath - Never Say Die!
 * Death - Leprosy
 * Dreadnought - Bridging Realms
 * Dreadnought - A Wake In Sacred Waves
@@ -221,7 +214,6 @@
 * Rollins Band - Weight
 * Saint Vitus - Born Too Late
 * Tank - Filth Hounds Of Hades
-* Tank - Power Of The Hunter
 * Tool - Fear Inoculum
 * Turbid North - Eyes Alive
 * Venomous Concept - Politics Versus The Erection
@@ -274,7 +266,6 @@
 
 ## Rock / Folk
 * Agincourt - Fly Away
-* Alan Stivell - Renaissance De La Harpe Celtique
 * Alan Stivell - Un Dewezh 'Barzh 'Gêr
 * Bull Angus - Bull Angus
 * Cat Stevens - Numbers
@@ -305,17 +296,11 @@
 * Mild Orange - Mild Orange
 * Radiohead - A Moon Shaped Pool
 * Sky King - Secret Sauce
-* T. Rex - My People Were Fair And Had Sky In Their Hair... But Now They're Content To Wear Stars On Their Brows
-* T. Rex - Prophets, Seers & Sages The Angel Of The Ages
-* T. Rex - A Beard Of Stars
-* T. Rex - Electric Warrior
-* Thin Lizzy - Vagabonds Of The Western World
 * Tri Yann - Tri Yann An Naoned
 * Tri Yann - Dix Ans Dix Filles
 * Tri Yann - Suite Gallaise
 * Tri Yann - La Découverte Ou L'ignorance
 * Tri Yann - An Heol A Zo Glaz
-* Tudor Lodge - Tudor Lodge
 * UFO - Phenomenon
 * The Who - A Quick One
 * The Who - The Who Sell Out
@@ -330,14 +315,11 @@
 * The Congos - Congo Ashanti
 * Dr. Alimantado - Kings Bread
 * Freddie McGregor - Bobby Bobylon
-* Jimmy Cliff - Brave Warrior
 * Sergent Garcia - Un Poquito Quema'o
 
 ## Pop / Hip-Hop / Rap / Funk
 * Funkadelic - Cosmic Slop
 * Joe Bada$$ - All-Amerikkkan Bada$$
-* Khruangbin - Con Todo El Mundo
-* Phoenix - It's Never Been Like That
 * A Tribe Called Quest - The Low End Theory
 * Vaudou Game - Vaudo Game
 
@@ -345,16 +327,6 @@
 * Gabor Szabo - Magical Connection
 * George Duke - Faces In Reflection
 * George Duke - Guardian Of The Light
-* Pat Metheny - What's It All About
-* Snarky Puppy - The Only Constant
-* Snarky Puppy - We Like It Here
-* Wayne Shorter - Introducing Wayne Shorter
-* Wayne Shorter - Wayning Moments
-* Wayne Shorter - Night Dreamer
-* Wayne Shorter - JuJu
-* Wayne Shorter - The Soothsayer
-* Wayne Shorter - Adam's Apple
-* Wayne Shorter - Schizophrenia
 
 ## Pour plus tard
 * Alestorm - No Grave Nut The Sea
@@ -368,20 +340,29 @@
 * Herbie Hancock - The Prisoner
 * Herbie Hancock - Secrets
 * KC & The Sunshine Band - KC & The Sunshine Band
+* Khruangbin - Con Todo El Mundo
 * Intervals - The Shape Of Colour
+* Jimmy Cliff - Brave Warrior
 * Lucifer - Lucifer III
 * M - Le Baptême
 * MGMT - Oracular Spectacular
 * MGMT - Congratulations
 * Opeth - Sorceress
 * Opeth - In Cauda Venenum
+* Pat Metheny - What's It All About
+* Phoenix - It's Never Been Like That
 * Red Hot Chili Peppers - Unlimited Love
 * Ruby My Dear - Remains Of Shapes To Come
 * Snarky Puppy - The World Is Getting Smaller
+* T. Rex - My People Were Fair And Had Sky In Their Hair... But Now They're Content To Wear Stars On Their Brows
+* T. Rex - Prophets, Seers & Sages The Angel Of The Ages
+* T. Rex - A Beard Of Stars
+* T. Rex - Electric Warrior
 * Talk Talk - Spirit Of Eden
 * Talk Talk - Laughing Stock
 * Tempel - On The Steps Of The Temple
 * Tempel - The Moon Lit Our Path
+* Thin Lizzy - Vagabonds Of The Western World
 * Total Eclipse - Access Denied
 * Townes Van Zandt - Townes Van Zandt
 * Trouble - Psalm 9
@@ -391,9 +372,18 @@
 * The Guess Who - American Woman
 * The Guess Who - Share The Land
 * Rob Zombie - Hellbilly Deluxe
+* Snarky Puppy - The Only Constant
+* Snarky Puppy - We Like It Here
 * Ulsect - Ulsect
 * Vulfpeck - Mit Peck
 * Vulfpeck - Vollmilch
+* Wayne Shorter - Introducing Wayne Shorter
+* Wayne Shorter - Wayning Moments
+* Wayne Shorter - Night Dreamer
+* Wayne Shorter - JuJu
+* Wayne Shorter - The Soothsayer
+* Wayne Shorter - Adam's Apple
+* Wayne Shorter - Schizophrenia
 * Wellwater Conspiracy - Declaration Of Conformity
 * Wobbler - Rites At Dawn
 * Wretched - Cannibal
