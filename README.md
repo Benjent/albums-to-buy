@@ -4,9 +4,11 @@
 * Aspid - Extravasation
 * Frank Zappa - Studio Tan
 * Black Fast - Starving Out The Light
-* Evil Army - Evil Army
 * Baroness - First + Second
 * Bell Witch - Mirror Reaper
+* Evil Army - Evil Army
+* Funeral Diner - The Underdark
+* Room - Pre-Flight
 * Skin Yard - Skin Yard
 * Skin Yard - Hallowed Ground
 * Peter, Paul & Mary - Late Again
@@ -154,6 +156,7 @@
 * Sloche - Stadaconé
 * Solaris - Marsbéli Krónikák
 * Spring - Spring (+ Spring 2)
+* Steve Hackett - Voyage Of The Acolyte (9€ fnac)
 * Stomu Yamash'ta - Freedom Is Frightening
 * Surprise - Assault On Merryland
 * Tea & Symphony - An Asylum For The Insane
@@ -174,7 +177,8 @@
 * Wizzo Band - Super Active Wizzo
 * Wobbler - From Silence To Somewhere
 * Yezda Urfa - Boris
-* Yezda Urfa - Sacred Baboon
+* Zyma - Thoughts
+* Zyma - Brave New World
 
 ## Thrash
 * Annihilator - Set The World On Fire
@@ -199,15 +203,11 @@
 * Dreadnought - Bridging Realms
 * Dreadnought - A Wake In Sacred Waves
 * Fractal Universe - Engram Of Decline
-* Funeral Diner - The Underdark
 * Ghost - Imperia
 * Gorgoroth - Ad Majorem Sathanas Gloriam
 * Igorrr - Poisson Soluble
 * Inter Arma - The Cavern
 * Inter Arma - Paradise Gallows
-* Judas Priest - Sad Wings Of Destiny
-* Judas Priest - Defenders Of The Faith
-* Lord Dying - Poisened Altars
 * Nero Di Marte - Immoto
 * Protector - A Shedding Of Skin
 * Rollins Band - The End Of Silence
@@ -237,8 +237,8 @@
 
 ## Punk / Grunge
 * 10 Minute Warning - 10 Minute Warning
+* Blondie - Eat To The Beat
 * Chemistry Set - The Incomplete Fabulous Stinking
-* Dépotivo - Parmi Eux
 * Didier Super - La Merde Des Autres
 * Failure - Fantastic Planet
 * Fantomes - It's OK
@@ -268,9 +268,6 @@
 * Agincourt - Fly Away
 * Alan Stivell - Un Dewezh 'Barzh 'Gêr
 * Bull Angus - Bull Angus
-* Cat Stevens - Numbers
-* David Bowie - Aladin Sane
-* David Bowie - Diamond Dogs
 * David Crosby - If I Could Only Remember My Name
 * Fleetwood Mac - Future Games
 * George Harrison - All Things Must Pass
@@ -306,27 +303,23 @@
 * The Who - The Who Sell Out
 * The Who - Quadrophenia
 
-## Reggae / Soul / Latino / Afrobeat
-* Osibisa - Osibisa
-* Osibisa - Woyaya
-* Osibisa - Heads
+## Reggae / Soul / Latino / Afrobeat / Jazz / Funk / Rap
+* A Tribe Called Quest - The Low End Theory
 * The Abyssinians - Satta Massagana
 * Cedric Brooks - United Africa
 * The Congos - Congo Ashanti
 * Dr. Alimantado - Kings Bread
 * Freddie McGregor - Bobby Bobylon
-* Sergent Garcia - Un Poquito Quema'o
-
-## Pop / Hip-Hop / Rap / Funk
 * Funkadelic - Cosmic Slop
-* Joe Bada$$ - All-Amerikkkan Bada$$
-* A Tribe Called Quest - The Low End Theory
-* Vaudou Game - Vaudo Game
-
-## Jazz
 * Gabor Szabo - Magical Connection
 * George Duke - Faces In Reflection
 * George Duke - Guardian Of The Light
+* Joe Bada$$ - All-Amerikkkan Bada$$
+* Osibisa - Osibisa
+* Osibisa - Woyaya
+* Osibisa - Heads
+* Sergent Garcia - Un Poquito Quema'o
+* Vaudou Game - Vaudo Game
 
 ## Pour plus tard
 * Alestorm - No Grave Nut The Sea
@@ -334,8 +327,12 @@
 * Animals As Leaders - The Joy Of Motion
 * Borislav Mitic - Borislav Mitic
 * Buffalo Springfield - Intégrale (ou S/T)
+* Cat Stevens - Numbers
 * Cher - Foxy Lady
+* David Bowie - Aladin Sane
+* David Bowie - Diamond Dogs
 * Emma Ruth Rundle - Marked For Death
+* Fontaines D.C. - A Hero's Death
 * Herb Ellis & Red Mitchell - Doggin' Around
 * Herbie Hancock - The Prisoner
 * Herbie Hancock - Secrets
@@ -343,6 +340,9 @@
 * Khruangbin - Con Todo El Mundo
 * Intervals - The Shape Of Colour
 * Jimmy Cliff - Brave Warrior
+* Judas Priest - Sad Wings Of Destiny
+* Judas Priest - Defenders Of The Faith
+* Lord Dying - Poisoned Altars
 * Lucifer - Lucifer III
 * M - Le Baptême
 * MGMT - Oracular Spectacular
