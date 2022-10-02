@@ -52,11 +52,9 @@
 * Brian Auger's Oblivion Express - Straight Ahead
 * Brian Auger's Oblivion Express - Reinforcements
 * Brian Auger's Oblivion Express - Happiness Heartaches
-* Brian Davison - Every Which Way
 * Búsqueda - Búsqueda
 * Carsten Bohn's Bandstand - Mother Goose Shoes
 * Cathedral - Stained Glass Stories
-* Colosseum - Those Who Are About To Die Salute You
 * Colosseum II - Strange New Flesh
 * Crack The Sky - Crack The Sky
 * Crack The Sky - Animal Notes
@@ -92,7 +90,6 @@
 * Imán, Califato Independiente - Camino Del Aguila
 * Indian Summer - Indian Summer
 * Island - Pictures
-* Jade Warrior - Jade Warrior
 * Jade Warrior - Released
 * Jade Warrior - Kites
 * Jackal - Awake
@@ -155,7 +152,6 @@
 * Sloche - J'un Oeil
 * Sloche - Stadaconé
 * Solaris - Marsbéli Krónikák
-* Spring - Spring (+ Spring 2)
 * Steve Hackett - Voyage Of The Acolyte (9€ fnac)
 * Stomu Yamash'ta - Freedom Is Frightening
 * Surprise - Assault On Merryland
