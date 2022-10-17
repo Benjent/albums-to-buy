@@ -16,13 +16,12 @@
 * Cymande - Cymande
 * Cymande - Second Time Around
 * Cymande - Promised Heights
-* Steel Pulse - Tribute To The Martyrs
 * Steel Pulse - Caught You
 * Anderson .Paak - Malibu
 * Roméo Elvis - Morale
 * Skinshape - Oraccolo
 * Tommy Guerrero - No Man's Land
-* Tommy Guierrero - Road To Nowhere
+* Tommy Guerrero - Road To Nowhere
 * Herb Ellis & Romeo Palmier - Windflower
 * Nancy Sinatra - How Does That Grab You?
 * Death - Spiritual Healing
@@ -45,6 +44,7 @@
 * Banco Del Mutuo Soccorso - Io Sono Nato Libero
 * Bangor Flying Circus - Bangor Flying Circus
 * Blast Furnace - Blast Furnace
+* Brainchild - Healing Of The Lunatic Owl
 * Bram Stoker - Heavy Rock Spectacular
 * Brian Auger's Oblivion Express - A Better Land
 * Brian Auger's Oblivion Express - Second Wind
@@ -120,6 +120,7 @@
 * Nirvana - Local Anaesthetic
 * Nosferatu - Nosferatu
 * L'orchestre Sympathique - En Concert A La Grande Passe
+* Omega - Csillagok Útján
 * Osanna - Palepoli
 * Osanna - Landscape Of Life
 * Osanna - Suddance
@@ -321,12 +322,14 @@
 * Alestorm - No Grave Nut The Sea
 * Animals As Leaders - Weightless
 * Animals As Leaders - The Joy Of Motion
+* Beardfish - The Sane Day
 * Borislav Mitic - Borislav Mitic
 * Buffalo Springfield - Intégrale (ou S/T)
 * Cat Stevens - Numbers
 * Cher - Foxy Lady
 * David Bowie - Aladin Sane
 * David Bowie - Diamond Dogs
+* Donovan - Open Road
 * Emma Ruth Rundle - Marked For Death
 * Fontaines D.C. - A Hero's Death
 * Herb Ellis & Red Mitchell - Doggin' Around
