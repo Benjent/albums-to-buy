@@ -17,14 +17,25 @@
 * Cymande - Second Time Around
 * Cymande - Promised Heights
 * Steel Pulse - Caught You
-* Anderson .Paak - Malibu
 * Roméo Elvis - Morale
 * Skinshape - Oraccolo
+* Tank - Filth Hounds Of Hades
 * Tommy Guerrero - No Man's Land
 * Tommy Guerrero - Road To Nowhere
 * Herb Ellis & Romeo Palmier - Windflower
 * Nancy Sinatra - How Does That Grab You?
 * Death - Spiritual Healing
+* Paco De Lucia - Fuente Y Caudal
+* Paco De Lucia - Almoraima
+* Paco De Lucia - Solo Quiero Caminar
+* Paco De Lucia - Zyryab
+* Renaissance - Prologue
+* Renaissance - Ashes Are Burning
+* Renaissance - Turn Of The Cards
+* Renaissance - Scheherazade
+* Renaissance - Novella
+* Renaissance - A Song For All Seasons
+* Step Ahead - Step Ahead
 
 ## Prog
 * Abstract Truth - Totum
@@ -34,6 +45,7 @@
 * Anthony Philips - The Geese & The Ghost
 * Arachnoid - Arachnoid
 * Armageddon -Armageddon
+* Ash Ra Tempel - Join Inn
 * Asia (USA) - Asia
 * Asia (USA) - Armed To The Teeth
 * Atlas - Blå Vardag
@@ -111,11 +123,11 @@
 * MIA - Transparencias
 * MIA - Mágicos Juegos Del Tiempo
 * MIA - Cornonstipicum
-* Michel Fugain - Un Enfant Dans La Ville
 * Mike Oldfield - Incantations
 * Miklagård - Miklagård
 * Nektar - A Tab In The Ocean
 * Nektar - Remember The Future
+* Nektar - Down To Earth
 * Nirvana - To Markos III
 * Nirvana - Local Anaesthetic
 * Nosferatu - Nosferatu
@@ -127,17 +139,13 @@
 * Pallas - The Sentinel
 * PFM - L'isola Di Niente
 * Picchio Dal Pozzo - Picchio Dal Pozzo
+* Pingui - Der Grosse Rote Vogel
 * Pollen - Pollen
 * Prudence - Tomorrow May Be Vanished
 * Prudence - Drunk And Happy
 * Public Foot The Roman - Public Foot The Roman
 * Ramases - Space Hymns
 * Ramases - Glass Top Coffin
-* Renaissance - Prologue
-* Renaissance - Ashes Are Burning
-* Renaissance - Turn Of The Cards
-* Renaissance - Scheherazade
-* Renaissance - Novella
 * Rick Wakeman - The Six Wives Of Henry VIII
 * Riff Raff - Riff Raff
 * Riff Raff - Original Man
@@ -168,7 +176,6 @@
 * Walrus - Walrus
 * Windchase - Simphinity
 * Windflower - Windflower
-* Winterhawk - Revival
 * Wishbone Ash - There's The Rub
 * Wishbone Ash - Front Page News
 * Wizzo Band - Super Active Wizzo
@@ -186,6 +193,7 @@
 * Insanity Alert - Moshburger
 * Paradox - Heresy
 * Paradox - Product Of Imagination
+* Sacrilege - Between The Realms Of Madness
 * Sodom - Agent Orange
 * Voivod - Target Earth
 * Vexovoid - Call Of The Starforger
@@ -196,6 +204,7 @@
 ## Metal
 * Abraham - The Serpent, The Prophet & The Whore
 * Agressor - Towards Beyond
+* Beardfish - The Void
 * Death - Leprosy
 * Dreadnought - Bridging Realms
 * Dreadnought - A Wake In Sacred Waves
@@ -210,7 +219,8 @@
 * Rollins Band - The End Of Silence
 * Rollins Band - Weight
 * Saint Vitus - Born Too Late
-* Tank - Filth Hounds Of Hades
+* Tempel - On The Steps Of The Temple
+* Tempel - The Moon Lit Our Path
 * Tool - Fear Inoculum
 * Turbid North - Eyes Alive
 * Venomous Concept - Politics Versus The Erection
@@ -219,6 +229,7 @@
 * 1886 - Before The Fog Covers The Mount
 * All Them Witches - ATW
 * All Them Witches - Nothing As The Ideal
+* Blood Ceremony - The Eldritch Dark
 * Dwellers - Pagan Fruit
 * Earth - Hex
 * Elder - Gold & Silver Sessions
@@ -229,12 +240,13 @@
 * Orange Goblin - Time Travelling Blues
 * Orange Goblin - The Big Black
 * Purple Hill Witch - Purple Hill Witch
+* The Pilgrim - Walking Into The Forest
+* The Pilgrim - ...From The Earth To The Sky And Back
 * Weedpecker - Weedpecker II
 * Witchcraft - Legend
 
 ## Punk / Grunge
 * 10 Minute Warning - 10 Minute Warning
-* Blondie - Eat To The Beat
 * Chemistry Set - The Incomplete Fabulous Stinking
 * Didier Super - La Merde Des Autres
 * Failure - Fantastic Planet
@@ -247,6 +259,7 @@
 * JC Satan - JC Satan
 * Love Battery - Dayglo
 * Meat Puppets - Up On The Sun
+* My Sister's Machine - Diva
 * New Model Army - No Rest For The Wicked
 * New Model Army - The Ghost Of Cain
 * Tad - 8-Way Santa
@@ -264,6 +277,7 @@
 ## Rock / Folk
 * Agincourt - Fly Away
 * Alan Stivell - Un Dewezh 'Barzh 'Gêr
+* Bask - Bask III
 * Bull Angus - Bull Angus
 * David Crosby - If I Could Only Remember My Name
 * Fleetwood Mac - Future Games
@@ -279,6 +293,8 @@
 * José Gonzalez - Veneer
 * Joseph - Stone Age Man
 * King Gizzard & The Lizard Wizard - Quarters!
+* King Gizzard & The Lizard Wizard - K.G.
+* King Gizzard & The Lizard Wizard - L.W.
 * Kingstone Wall - I
 * Kingstone Wall - II
 * Maxime Le Forestier - 1 Mon Frère
@@ -308,6 +324,7 @@
 * Dr. Alimantado - Kings Bread
 * Freddie McGregor - Bobby Bobylon
 * Funkadelic - Cosmic Slop
+* Funkadelic - more albums?
 * Gabor Szabo - Magical Connection
 * George Duke - Faces In Reflection
 * George Duke - Guardian Of The Light
@@ -330,6 +347,9 @@
 * David Bowie - Aladin Sane
 * David Bowie - Diamond Dogs
 * Donovan - Open Road
+* Donovan - Cosmic Wheels
+* Dool - Here Now, There Then
+* Dool - Summerland
 * Emma Ruth Rundle - Marked For Death
 * Fontaines D.C. - A Hero's Death
 * Herb Ellis & Red Mitchell - Doggin' Around
@@ -349,6 +369,7 @@
 * Opeth - Sorceress
 * Opeth - In Cauda Venenum
 * Pat Metheny - What's It All About
+* Pentagram - Day Of Reckoning
 * Phoenix - It's Never Been Like That
 * Red Hot Chili Peppers - Unlimited Love
 * Ruby My Dear - Remains Of Shapes To Come
@@ -359,8 +380,6 @@
 * T. Rex - Electric Warrior
 * Talk Talk - Spirit Of Eden
 * Talk Talk - Laughing Stock
-* Tempel - On The Steps Of The Temple
-* Tempel - The Moon Lit Our Path
 * Thin Lizzy - Vagabonds Of The Western World
 * Total Eclipse - Access Denied
 * Townes Van Zandt - Townes Van Zandt
