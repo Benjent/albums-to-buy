@@ -193,6 +193,7 @@
 * Insanity Alert - Moshburger
 * Paradox - Heresy
 * Paradox - Product Of Imagination
+* Razor - Violent Restitution
 * Sacrilege - Between The Realms Of Madness
 * Sodom - Agent Orange
 * Voivod - Target Earth
@@ -278,6 +279,7 @@
 * Agincourt - Fly Away
 * Alan Stivell - Un Dewezh 'Barzh 'Gêr
 * Bask - Bask III
+* Black Bonzo - Sound Of The Apocalypse
 * Bull Angus - Bull Angus
 * David Crosby - If I Could Only Remember My Name
 * Fleetwood Mac - Future Games
@@ -336,7 +338,7 @@
 * Vaudou Game - Vaudo Game
 
 ## Pour plus tard
-* Alestorm - No Grave Nut The Sea
+* Alestorm - No Grave But The Sea
 * Animals As Leaders - Weightless
 * Animals As Leaders - The Joy Of Motion
 * Beardfish - The Sane Day
