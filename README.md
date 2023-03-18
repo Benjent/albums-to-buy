@@ -8,6 +8,7 @@
 * Bell Witch - Mirror Reaper
 * Evil Army - Evil Army
 * Funeral Diner - The Underdark
+* Gorod - The Orb
 * Room - Pre-Flight
 * Skin Yard - Skin Yard
 * Skin Yard - Hallowed Ground
@@ -73,6 +74,8 @@
 * Crack The Sky - Safety In Numbers
 * Crucis - Crucis
 * Crucis - Los Delirios Del Mariscal
+* Curved Air - Second Album
+* Curved Air - Phantasmagoria
 * Didier Bonin - L'arbre Verre
 * Dr. Dopo Jam - Entrée
 * Dr. Dopo Jam - Fat Dogs & Danishmen
@@ -94,6 +97,7 @@
 * Hannibal - Hannibal
 * Harmonium - Harmonium
 * Harmonium - L'heptade
+* Henry Tree - Electric Holy Man
 * Horse - Horse
 * Hungry Wolf - Hungry Wolf
 * Ian Gillan Band - Clear Air Turbulence
@@ -125,6 +129,8 @@
 * MIA - Cornonstipicum
 * Mike Oldfield - Incantations
 * Miklagård - Miklagård
+* Mona Lisa - Le Petit Violon De Mr. Grégoire
+* Mona Lisa - Avant Qu'il Ne Soit Trop Tard
 * Nektar - A Tab In The Ocean
 * Nektar - Remember The Future
 * Nektar - Down To Earth
@@ -162,11 +168,13 @@
 * Sloche - Stadaconé
 * Solaris - Marsbéli Krónikák
 * Steve Hackett - Voyage Of The Acolyte (9€ fnac)
+* Steve Hillage - Fish Rising
 * Stomu Yamash'ta - Freedom Is Frightening
 * Surprise - Assault On Merryland
 * Tea & Symphony - An Asylum For The Insane
 * Tea & Symphony - Jo Sago
 * Thalassa - Suffer And Misery
+* Think - Variety
 * Thirsty Moon - Thirsty Moon
 * Thirsty Moon - You'll Never Come Back
 * Tonton Macoute - Tonton Macoute
@@ -207,8 +215,10 @@
 * Agressor - Towards Beyond
 * Beardfish - The Void
 * Death - Leprosy
+* Deviant Process - Paroxysm
 * Dreadnought - Bridging Realms
 * Dreadnought - A Wake In Sacred Waves
+* Deviant Process - Nurture
 * Fractal Universe - Engram Of Decline
 * Ghost - Imperia
 * Gorgoroth - Ad Majorem Sathanas Gloriam
@@ -237,6 +247,7 @@
 * Electric Moon - Stardust Rituals
 * Elephant Tree - Elephant Tree
 * Jex Thoth - Blood Moon Rise (funeral blues)
+* Nebula - Atomic Ritual
 * Orange Goblin - Frequencies From Planet Ten
 * Orange Goblin - Time Travelling Blues
 * Orange Goblin - The Big Black
@@ -281,6 +292,7 @@
 * Bask - Bask III
 * Black Bonzo - Sound Of The Apocalypse
 * Bull Angus - Bull Angus
+* Crosby, Stills & Nash - Crosby, Stills & Nash
 * David Crosby - If I Could Only Remember My Name
 * Fleetwood Mac - Future Games
 * George Harrison - All Things Must Pass
@@ -304,6 +316,7 @@
 * Maxime Le Forestier - 3 Saltimbanque
 * Maxime Le Forestier - 4 Hymne À Sept Ans
 * Maxime Le Forestier - 5 N°5
+* Michael Chapman - Rainmaker
 * Mild Orange - Foreplay
 * Mild Orange - Mild Orange
 * Radiohead - A Moon Shaped Pool
@@ -317,6 +330,7 @@
 * The Who - A Quick One
 * The Who - The Who Sell Out
 * The Who - Quadrophenia
+* Yves Simon - Raconte-Toi
 
 ## Reggae / Soul / Latino / Afrobeat / Jazz / Funk / Rap
 * A Tribe Called Quest - The Low End Theory
@@ -330,6 +344,8 @@
 * Gabor Szabo - Magical Connection
 * George Duke - Faces In Reflection
 * George Duke - Guardian Of The Light
+* Jamiroquai - Synkronized
+* Jamiroquai - A Funk Odyssey
 * Joe Bada$$ - All-Amerikkkan Bada$$
 * Osibisa - Osibisa
 * Osibisa - Woyaya
@@ -405,6 +421,7 @@
 * Wayne Shorter - Adam's Apple
 * Wayne Shorter - Schizophrenia
 * Wellwater Conspiracy - Declaration Of Conformity
+* Wings - Venus And Mars
 * Wobbler - Rites At Dawn
 * Wretched - Cannibal
 
