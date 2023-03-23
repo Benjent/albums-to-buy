@@ -1,6 +1,7 @@
 # albums-to-buy
 
 ## TOP TIER
+* Opeth - Sorceress
 * Aspid - Extravasation
 * Frank Zappa - Studio Tan
 * Black Fast - Starving Out The Light
@@ -169,6 +170,7 @@
 * Solaris - Marsbéli Krónikák
 * Steve Hackett - Voyage Of The Acolyte (9€ fnac)
 * Steve Hillage - Fish Rising
+* Steve Hillage - Green
 * Stomu Yamash'ta - Freedom Is Frightening
 * Surprise - Assault On Merryland
 * Tea & Symphony - An Asylum For The Insane
@@ -198,7 +200,6 @@
 * Droid - Terrestrial Mutations
 * Droÿs - And If...
 * Hellish Crossfire - Slaves Of The Burning Pentagram
-* Insanity Alert - Moshburger
 * Paradox - Heresy
 * Paradox - Product Of Imagination
 * Razor - Violent Restitution
@@ -212,7 +213,6 @@
 
 ## Metal
 * Abraham - The Serpent, The Prophet & The Whore
-* Agressor - Towards Beyond
 * Beardfish - The Void
 * Death - Leprosy
 * Deviant Process - Paroxysm
@@ -384,8 +384,6 @@
 * M - Le Baptême
 * MGMT - Oracular Spectacular
 * MGMT - Congratulations
-* Opeth - Sorceress
-* Opeth - In Cauda Venenum
 * Pat Metheny - What's It All About
 * Pentagram - Day Of Reckoning
 * Phoenix - It's Never Been Like That
