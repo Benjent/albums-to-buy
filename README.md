@@ -1,7 +1,6 @@
 # albums-to-buy
 
 ## TOP TIER
-* Opeth - Sorceress
 * Aspid - Extravasation
 * Frank Zappa - Studio Tan
 * Black Fast - Starving Out The Light
@@ -9,7 +8,6 @@
 * Bell Witch - Mirror Reaper
 * Evil Army - Evil Army
 * Funeral Diner - The Underdark
-* Gorod - The Orb
 * Room - Pre-Flight
 * Skin Yard - Skin Yard
 * Skin Yard - Hallowed Ground
@@ -57,7 +55,6 @@
 * Bakery - Momento
 * Banco Del Mutuo Soccorso - Io Sono Nato Libero
 * Bangor Flying Circus - Bangor Flying Circus
-* Blast Furnace - Blast Furnace
 * Brainchild - Healing Of The Lunatic Owl
 * Bram Stoker - Heavy Rock Spectacular
 * Brian Auger's Oblivion Express - A Better Land
@@ -85,6 +82,7 @@
 * Eloy - Time To Turn
 * Emergency - Entrance
 * Ex Vitae - Saxophonie
+* Franco Leprino - Integrati... Disintegrati
 * Frank Zappa - The Man From Utopia
 * Frank Zappa - Halloween 81 full
 * Gracious! - This Is Gracious!
@@ -158,9 +156,6 @@
 * Riff Raff - Original Man
 * Rush - Rush
 * Rush - Fly By Night
-* Rush - Caress Of Steel
-* Rush - 2112
-* Rush - A Farewell To Kings
 * Rush - Hemispheres
 * Shaa Khan - The World Will End On Friday
 * Shaa Khan - Anything Wrong?
@@ -274,7 +269,6 @@
 * My Sister's Machine - Diva
 * New Model Army - No Rest For The Wicked
 * New Model Army - The Ghost Of Cain
-* Tad - 8-Way Santa
 * The Cure - Seventeen Seconds
 * The Cure - Faith
 * The Cramps - A Date With Elvis
@@ -319,17 +313,16 @@
 * Michael Chapman - Rainmaker
 * Mild Orange - Foreplay
 * Mild Orange - Mild Orange
+* Orang-Utan - Orang-Utan
 * Radiohead - A Moon Shaped Pool
 * Sky King - Secret Sauce
-* Tri Yann - Tri Yann An Naoned
-* Tri Yann - Dix Ans Dix Filles
-* Tri Yann - Suite Gallaise
-* Tri Yann - La Découverte Ou L'ignorance
 * Tri Yann - An Heol A Zo Glaz
 * UFO - Phenomenon
 * The Who - A Quick One
 * The Who - The Who Sell Out
 * The Who - Quadrophenia
+* Wings - Venus And Mars
+* Wings - Wings At The Speed Of Sound
 * Yves Simon - Raconte-Toi
 
 ## Reggae / Soul / Latino / Afrobeat / Jazz / Funk / Rap
