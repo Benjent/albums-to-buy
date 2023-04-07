@@ -9,6 +9,7 @@
 * Evil Army - Evil Army
 * Funeral Diner - The Underdark
 * Room - Pre-Flight
+* Rush - Hemispheres
 * Skin Yard - Skin Yard
 * Skin Yard - Hallowed Ground
 * Peter, Paul & Mary - Late Again
@@ -154,9 +155,6 @@
 * Rick Wakeman - The Six Wives Of Henry VIII
 * Riff Raff - Riff Raff
 * Riff Raff - Original Man
-* Rush - Rush
-* Rush - Fly By Night
-* Rush - Hemispheres
 * Shaa Khan - The World Will End On Friday
 * Shaa Khan - Anything Wrong?
 * Sheshet (Shem Tom Levi) - Sheshet
