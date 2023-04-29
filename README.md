@@ -326,6 +326,7 @@
 ## Reggae / Soul / Latino / Afrobeat / Jazz / Funk / Rap
 * A Tribe Called Quest - The Low End Theory
 * The Abyssinians - Satta Massagana
+* Carlton And The Shoes - Love Me Forever
 * Cedric Brooks - United Africa
 * The Congos - Congo Ashanti
 * Dr. Alimantado - Kings Bread
