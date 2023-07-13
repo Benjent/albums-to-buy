@@ -1,6 +1,7 @@
 # albums-to-buy
 
 ## TOP TIER
+
 * Aspid - Extravasation
 * Frank Zappa - Studio Tan
 * Black Fast - Starving Out The Light
@@ -39,6 +40,7 @@
 * Step Ahead - Step Ahead
 
 ## Prog
+
 * Abstract Truth - Totum
 * Alain Markusfeld - Le Désert Noir
 * Alphataurus - Alphataurus
@@ -46,9 +48,11 @@
 * Anthony Philips - The Geese & The Ghost
 * Arachnoid - Arachnoid
 * Armageddon -Armageddon
+* Asgaerd - In The Realm Of Asgaerd
 * Ash Ra Tempel - Join Inn
 * Asia (USA) - Asia
 * Asia (USA) - Armed To The Teeth
+* Atlantide (FR) - Atlantide
 * Atlas - Blå Vardag
 * Automat - Automat
 * A.F.T. - Automatic Fine Tuning
@@ -56,6 +60,7 @@
 * Bakery - Momento
 * Banco Del Mutuo Soccorso - Io Sono Nato Libero
 * Bangor Flying Circus - Bangor Flying Circus
+* Birth Control - Backdoor Possibilities
 * Brainchild - Healing Of The Lunatic Owl
 * Bram Stoker - Heavy Rock Spectacular
 * Brian Auger's Oblivion Express - A Better Land
@@ -85,7 +90,7 @@
 * Ex Vitae - Saxophonie
 * Franco Leprino - Integrati... Disintegrati
 * Frank Zappa - The Man From Utopia
-* Frank Zappa - Halloween 81 full
+* Frank Zappa - Halloween 81 (full)
 * Gracious! - This Is Gracious!
 * Greenslade - Greenslade
 * Greenslade - Bedside Manners Are Extra
@@ -93,6 +98,7 @@
 * Greenslade - Cactus Choir
 * Gryphon - Midnight Mushrumps
 * Gryphon - Raindance
+* Guru Guru - Dance Of The Flames
 * Gypsy - In The Garden
 * Hannibal - Hannibal
 * Harmonium - Harmonium
@@ -100,11 +106,13 @@
 * Henry Tree - Electric Holy Man
 * Horse - Horse
 * Hungry Wolf - Hungry Wolf
+* Ia & Batiste - Un Grand Dia
 * Ian Gillan Band - Clear Air Turbulence
 * Ikarus - Ikarus
 * Il Baricentro - Sconcerto
 * Imán, Califato Independiente - Camino Del Aguila
 * Indian Summer - Indian Summer
+* Isaiah - Isaiah
 * Island - Pictures
 * Jade Warrior - Released
 * Jade Warrior - Kites
@@ -179,57 +187,56 @@
 * Walrus - Walrus
 * Windchase - Simphinity
 * Windflower - Windflower
-* Wishbone Ash - There's The Rub
-* Wishbone Ash - Front Page News
 * Wizzo Band - Super Active Wizzo
 * Wobbler - From Silence To Somewhere
 * Yezda Urfa - Boris
 * Zyma - Thoughts
 * Zyma - Brave New World
 
-## Thrash
-* Annihilator - Set The World On Fire
-* Anthrax - Sound Of White Noise
-* Droid - Terrestrial Mutations
-* Droÿs - And If...
-* Hellish Crossfire - Slaves Of The Burning Pentagram
-* Paradox - Heresy
-* Paradox - Product Of Imagination
-* Razor - Violent Restitution
-* Sacrilege - Between The Realms Of Madness
-* Sodom - Agent Orange
-* Voivod - Target Earth
-* Vexovoid - Call Of The Starforger
-* Warbringer - Empires Collapse
-* Whiplash - Power And Pain
-* Xentrix - Shattered Existence
-
 ## Metal
+
 * Abraham - The Serpent, The Prophet & The Whore
+* Annihilator - Set The World On Fire
 * Beardfish - The Void
 * Death - Leprosy
+* Deviant Process - Nurture
 * Deviant Process - Paroxysm
 * Dreadnought - Bridging Realms
 * Dreadnought - A Wake In Sacred Waves
-* Deviant Process - Nurture
+* Droid - Terrestrial Mutations
+* Droÿs - And If...
 * Fractal Universe - Engram Of Decline
 * Ghost - Imperia
 * Gorgoroth - Ad Majorem Sathanas Gloriam
+* Hellish Crossfire - Slaves Of The Burning Pentagram
 * Igorrr - Poisson Soluble
 * Inter Arma - The Cavern
 * Inter Arma - Paradise Gallows
 * Nero Di Marte - Immoto
+* Paradox - Heresy
+* Paradox - Product Of Imagination
 * Protector - A Shedding Of Skin
+* Razor - Violent Restitution
 * Rollins Band - The End Of Silence
 * Rollins Band - Weight
+* Sacrilege - Between The Realms Of Madness
 * Saint Vitus - Born Too Late
+* Sodom - Agent Orange
+* Solstice - Solstice
+* Solstice - Pray
 * Tempel - On The Steps Of The Temple
 * Tempel - The Moon Lit Our Path
 * Tool - Fear Inoculum
 * Turbid North - Eyes Alive
 * Venomous Concept - Politics Versus The Erection
+* Vexovoid - Call Of The Starforger
+* Voivod - Target Earth
+* Warbringer - Empires Collapse
+* Whiplash - Power And Pain
+* Xentrix - Shattered Existence
 
 ## Stoner / Stoner Doom
+
 * 1886 - Before The Fog Covers The Mount
 * All Them Witches - ATW
 * All Them Witches - Nothing As The Ideal
@@ -239,18 +246,17 @@
 * Elder - Gold & Silver Sessions
 * Electric Moon - Stardust Rituals
 * Elephant Tree - Elephant Tree
-* Jex Thoth - Blood Moon Rise (funeral blues)
-* Nebula - Atomic Ritual
+* Nebula - Atomic Ritual*
 * Orange Goblin - Frequencies From Planet Ten
 * Orange Goblin - Time Travelling Blues
 * Orange Goblin - The Big Black
 * Purple Hill Witch - Purple Hill Witch
-* The Pilgrim - Walking Into The Forest
-* The Pilgrim - ...From The Earth To The Sky And Back
+* Red Fang - Red Fang
+* Weedeater - God Luck And Good Speed
 * Weedpecker - Weedpecker II
-* Witchcraft - Legend
 
 ## Punk / Grunge
+
 * 10 Minute Warning - 10 Minute Warning
 * Chemistry Set - The Incomplete Fabulous Stinking
 * Didier Super - La Merde Des Autres
@@ -267,8 +273,6 @@
 * My Sister's Machine - Diva
 * New Model Army - No Rest For The Wicked
 * New Model Army - The Ghost Of Cain
-* The Cure - Seventeen Seconds
-* The Cure - Faith
 * The Cramps - A Date With Elvis
 * The Fluid - Purplemetalflakemusic
 * The Gits - Frenching The Bully
@@ -279,12 +283,12 @@
 * Zabriskie Point - Paul
 
 ## Rock / Folk
+
 * Agincourt - Fly Away
 * Alan Stivell - Un Dewezh 'Barzh 'Gêr
 * Bask - Bask III
 * Black Bonzo - Sound Of The Apocalypse
 * Bull Angus - Bull Angus
-* Crosby, Stills & Nash - Crosby, Stills & Nash
 * David Crosby - If I Could Only Remember My Name
 * Fleetwood Mac - Future Games
 * George Harrison - All Things Must Pass
@@ -303,6 +307,7 @@
 * King Gizzard & The Lizard Wizard - L.W.
 * Kingstone Wall - I
 * Kingstone Wall - II
+* Lutha - Earth
 * Maxime Le Forestier - 1 Mon Frère
 * Maxime Le Forestier - 2 Le Steak
 * Maxime Le Forestier - 3 Saltimbanque
@@ -311,19 +316,17 @@
 * Michael Chapman - Rainmaker
 * Mild Orange - Foreplay
 * Mild Orange - Mild Orange
-* Orang-Utan - Orang-Utan
+* Montrose - Montrose
+* Montrose - Paper Money
 * Radiohead - A Moon Shaped Pool
 * Sky King - Secret Sauce
 * Tri Yann - An Heol A Zo Glaz
 * UFO - Phenomenon
 * The Who - A Quick One
-* The Who - The Who Sell Out
 * The Who - Quadrophenia
-* Wings - Venus And Mars
-* Wings - Wings At The Speed Of Sound
-* Yves Simon - Raconte-Toi
 
 ## Reggae / Soul / Latino / Afrobeat / Jazz / Funk / Rap
+
 * A Tribe Called Quest - The Low End Theory
 * The Abyssinians - Satta Massagana
 * Carlton And The Shoes - Love Me Forever
@@ -346,6 +349,7 @@
 * Vaudou Game - Vaudo Game
 
 ## Pour plus tard
+
 * Alestorm - No Grave But The Sea
 * Animals As Leaders - Weightless
 * Animals As Leaders - The Joy Of Motion
@@ -388,6 +392,8 @@
 * T. Rex - Electric Warrior
 * Talk Talk - Spirit Of Eden
 * Talk Talk - Laughing Stock
+* The Cure - Seventeen Seconds
+* The Cure - Faith
 * Thin Lizzy - Vagabonds Of The Western World
 * Total Eclipse - Access Denied
 * Townes Van Zandt - Townes Van Zandt
@@ -411,11 +417,11 @@
 * Wayne Shorter - Adam's Apple
 * Wayne Shorter - Schizophrenia
 * Wellwater Conspiracy - Declaration Of Conformity
-* Wings - Venus And Mars
 * Wobbler - Rites At Dawn
 * Wretched - Cannibal
 
 ## Buckethead
+
 * Giant Robot
 * Albino Slug
 * A Real Diamond In The Rough
