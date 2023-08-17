@@ -100,6 +100,8 @@
 * Gryphon - Raindance
 * Guru Guru - Dance Of The Flames
 * Gypsy - In The Garden
+* HP Lovecraft - HP Lovecraft
+* HP Lovecraft - HP Lovecraft II
 * Hannibal - Hannibal
 * Harmonium - Harmonium
 * Harmonium - L'heptade
@@ -131,6 +133,8 @@
 * Maneige - Les Porches
 * Maneige - Ni Vent... Ni Nouvelle
 * Maneige - Libre Service
+* La Máquina De Hacer Pájaros - La Máquina De Hacer Pájaros
+* McChurch Soundroom - Delusion
 * McLuhan - Anomaly
 * MIA - Transparencias
 * MIA - Mágicos Juegos Del Tiempo
@@ -139,6 +143,8 @@
 * Miklagård - Miklagård
 * Mona Lisa - Le Petit Violon De Mr. Grégoire
 * Mona Lisa - Avant Qu'il Ne Soit Trop Tard
+* Moving Gelatine Plates - Moving Gelatine Plates
+* Moving Gelatine Plates - The World Of Genius Hans
 * Nektar - A Tab In The Ocean
 * Nektar - Remember The Future
 * Nektar - Down To Earth
@@ -198,6 +204,7 @@
 * Abraham - The Serpent, The Prophet & The Whore
 * Annihilator - Set The World On Fire
 * Beardfish - The Void
+* Black Fast - Spectre Of Ruin
 * Death - Leprosy
 * Deviant Process - Nurture
 * Deviant Process - Paroxysm
@@ -219,7 +226,7 @@
 * Razor - Violent Restitution
 * Rollins Band - The End Of Silence
 * Rollins Band - Weight
-* Sacrilege - Between The Realms Of Madness
+* Sacrilege - Behind The Realms Of Madness
 * Saint Vitus - Born Too Late
 * Sodom - Agent Orange
 * Solstice - Solstice
@@ -241,12 +248,13 @@
 * All Them Witches - ATW
 * All Them Witches - Nothing As The Ideal
 * Blood Ceremony - The Eldritch Dark
+* Dozer - In The Tail Of A Comet
+* Dozer - Madre De Dios
 * Dwellers - Pagan Fruit
 * Earth - Hex
 * Elder - Gold & Silver Sessions
 * Electric Moon - Stardust Rituals
 * Elephant Tree - Elephant Tree
-* Nebula - Atomic Ritual*
 * Orange Goblin - Frequencies From Planet Ten
 * Orange Goblin - Time Travelling Blues
 * Orange Goblin - The Big Black
@@ -286,6 +294,7 @@
 
 * Agincourt - Fly Away
 * Alan Stivell - Un Dewezh 'Barzh 'Gêr
+* BB Blunder - Workers' Playtime
 * Bask - Bask III
 * Black Bonzo - Sound Of The Apocalypse
 * Bull Angus - Bull Angus
@@ -360,6 +369,7 @@
 * Cher - Foxy Lady
 * David Bowie - Aladin Sane
 * David Bowie - Diamond Dogs
+* Devastation - Idolatry
 * Donovan - Open Road
 * Donovan - Cosmic Wheels
 * Dool - Here Now, There Then
