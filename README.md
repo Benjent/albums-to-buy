@@ -7,41 +7,48 @@
 * Black Fast - Starving Out The Light
 * Baroness - First + Second
 * Bell Witch - Mirror Reaper
-* Evil Army - Evil Army
-* Funeral Diner - The Underdark
-* Room - Pre-Flight
-* Rush - Hemispheres
-* Skin Yard - Skin Yard
-* Skin Yard - Hallowed Ground
-* Peter, Paul & Mary - Late Again
-* The Trials Of Cato - Hide And Hair
 * Cymande - Cymande
 * Cymande - Second Time Around
 * Cymande - Promised Heights
-* Steel Pulse - Caught You
-* Roméo Elvis - Morale
-* Skinshape - Oraccolo
-* Tank - Filth Hounds Of Hades
-* Tommy Guerrero - No Man's Land
-* Tommy Guerrero - Road To Nowhere
-* Herb Ellis & Romeo Palmier - Windflower
-* Nancy Sinatra - How Does That Grab You?
 * Death - Spiritual Healing
+* Evil Army - Evil Army
+* Funeral Diner - The Underdark
+* Herb Ellis & Romeo Palmier - Windflower
+* King Gizzard & The Lizard Wizard - Omnium Gatherum
+* King Gizzard & The Lizard Wizard - PetroDraconic Apocalypse
+* Nancy Sinatra - How Does That Grab You?
+* Osanna - Landscape Of Life
+* Osanna - Suddance
 * Paco De Lucia - Fuente Y Caudal
 * Paco De Lucia - Almoraima
 * Paco De Lucia - Solo Quiero Caminar
 * Paco De Lucia - Zyryab
+* Peter, Paul & Mary - Late Again
 * Renaissance - Prologue
 * Renaissance - Ashes Are Burning
 * Renaissance - Turn Of The Cards
 * Renaissance - Scheherazade
 * Renaissance - Novella
 * Renaissance - A Song For All Seasons
-* Step Ahead - Step Ahead
+* Roméo Elvis - Morale
+* Room - Pre-Flight
+* Rush - Hemispheres
+* Skin Yard - Skin Yard
+* Skin Yard - Hallowed Ground
+* Skinshape - Oraccolo
+* Steel Pulse - Caught You
+* Step Ahead - Step Ahead (LIVRAISON) entre 22 et 23 avril 2024 (wtf)
+* Tank - Filth Hounds Of Hades
+* Tommy Guerrero - No Man's Land
+* Tommy Guerrero - Road To Nowhere
+* The Trials Of Cato - Hide And Hair
 
 ## Prog
 
 * Abstract Truth - Totum
+* Al Di Meola - Land Of The Midnight Sun (5CD original album classics)
+* Al Di Meola - Elegant Gypsy
+* Al Di Meola - Casino
 * Alain Markusfeld - Le Désert Noir
 * Alphataurus - Alphataurus
 * Ambrosia - Ambrosia
@@ -71,11 +78,11 @@
 * Brian Auger's Oblivion Express - Happiness Heartaches
 * Búsqueda - Búsqueda
 * Carsten Bohn's Bandstand - Mother Goose Shoes
-* Cathedral - Stained Glass Stories
 * Colosseum II - Strange New Flesh
 * Crack The Sky - Crack The Sky
 * Crack The Sky - Animal Notes
 * Crack The Sky - Safety In Numbers
+* Crazy Mabel - Crazy Mabel
 * Crucis - Crucis
 * Crucis - Los Delirios Del Mariscal
 * Curved Air - Second Album
@@ -84,13 +91,15 @@
 * Dr. Dopo Jam - Entrée
 * Dr. Dopo Jam - Fat Dogs & Danishmen
 * Dr. Z - Three Parts To My Soul
+* Duello Madre - Duello Madre
 * ELO - Secret Messages
 * Eloy - Time To Turn
 * Emergency - Entrance
-* Ex Vitae - Saxophonie
+* Ex Vitae - Mandarine
 * Franco Leprino - Integrati... Disintegrati
 * Frank Zappa - The Man From Utopia
 * Frank Zappa - Halloween 81 (full)
+* Gòtic - Escènes
 * Gracious! - This Is Gracious!
 * Greenslade - Greenslade
 * Greenslade - Bedside Manners Are Extra
@@ -129,6 +138,7 @@
 * Kayak - Royal Bed Bouncer
 * Klaatu - Magentalane
 * Laurent Thibault - Mais On Ne Peut Pas Rêver Tout Le Temps
+* Locanda Dell Fate - Forse Le Lucciole Non Si Amano Più
 * The Mandrake Memorial - Medium
 * Maneige - Les Porches
 * Maneige - Ni Vent... Ni Nouvelle
@@ -153,9 +163,6 @@
 * Nosferatu - Nosferatu
 * L'orchestre Sympathique - En Concert A La Grande Passe
 * Omega - Csillagok Útján
-* Osanna - Palepoli
-* Osanna - Landscape Of Life
-* Osanna - Suddance
 * Pallas - The Sentinel
 * PFM - L'isola Di Niente
 * Picchio Dal Pozzo - Picchio Dal Pozzo
@@ -171,11 +178,13 @@
 * Riff Raff - Original Man
 * Shaa Khan - The World Will End On Friday
 * Shaa Khan - Anything Wrong?
+* Shampoo - Volume One
 * Sheshet (Shem Tom Levi) - Sheshet
 * Sloche - J'un Oeil
 * Sloche - Stadaconé
 * Solaris - Marsbéli Krónikák
-* Steve Hackett - Voyage Of The Acolyte (9€ fnac)
+* Stefano Testa - Una Vita, Una Balena Bianca E Altre Cose
+* Steve Hackett - Voyage Of The Acolyte
 * Steve Hillage - Fish Rising
 * Steve Hillage - Green
 * Stomu Yamash'ta - Freedom Is Frightening
@@ -202,7 +211,6 @@
 ## Metal
 
 * Abraham - The Serpent, The Prophet & The Whore
-* Annihilator - Set The World On Fire
 * Beardfish - The Void
 * Black Fast - Spectre Of Ruin
 * Death - Leprosy
@@ -228,6 +236,8 @@
 * Rollins Band - Weight
 * Sacrilege - Behind The Realms Of Madness
 * Saint Vitus - Born Too Late
+* Skeletonwitch - Forever Abomination
+* Skeletonwitch - Serpents Unleashed
 * Sodom - Agent Orange
 * Solstice - Solstice
 * Solstice - Pray
@@ -240,6 +250,7 @@
 * Voivod - Target Earth
 * Warbringer - Empires Collapse
 * Whiplash - Power And Pain
+* Wolfbrigade - Run With The Hunted
 * Xentrix - Shattered Existence
 
 ## Stoner / Stoner Doom
@@ -311,9 +322,10 @@
 * John Frusciante - The Empyrean
 * José Gonzalez - Veneer
 * Joseph - Stone Age Man
+* Hermanos Gutiérrez - 8 Años
 * King Gizzard & The Lizard Wizard - Quarters!
-* King Gizzard & The Lizard Wizard - K.G.
-* King Gizzard & The Lizard Wizard - L.W.
+* King Gizzard & The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava
+* King Gizzard & The Lizard Wizard - Changes
 * Kingstone Wall - I
 * Kingstone Wall - II
 * Lutha - Earth
@@ -333,11 +345,13 @@
 * UFO - Phenomenon
 * The Who - A Quick One
 * The Who - Quadrophenia
+* Wishful Thinking - Hiroshima
 
 ## Reggae / Soul / Latino / Afrobeat / Jazz / Funk / Rap
 
 * A Tribe Called Quest - The Low End Theory
 * The Abyssinians - Satta Massagana
+* Calvin Keys - Full Court Press
 * Carlton And The Shoes - Love Me Forever
 * Cedric Brooks - United Africa
 * The Congos - Congo Ashanti
@@ -351,10 +365,11 @@
 * Jamiroquai - Synkronized
 * Jamiroquai - A Funk Odyssey
 * Joe Bada$$ - All-Amerikkkan Bada$$
-* Osibisa - Osibisa
-* Osibisa - Woyaya
 * Osibisa - Heads
+* Peter Tosh - Equal Rights
 * Sergent Garcia - Un Poquito Quema'o
+* Third World - Third World
+* Third World - 96° In The Shade
 * Vaudou Game - Vaudo Game
 
 ## Pour plus tard
@@ -362,7 +377,9 @@
 * Alestorm - No Grave But The Sea
 * Animals As Leaders - Weightless
 * Animals As Leaders - The Joy Of Motion
+* Annihilator - Set The World On Fire
 * Beardfish - The Sane Day
+* Big Business - The Beast You Are
 * Borislav Mitic - Borislav Mitic
 * Buffalo Springfield - Intégrale (ou S/T)
 * Cat Stevens - Numbers
