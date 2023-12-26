@@ -44,6 +44,171 @@
 * Tommy Guerrero - Road To Nowhere
 * The Trials Of Cato - Hide And Hair
 
+## Metal
+
+* Abraham - The Serpent, The Prophet & The Whore
+* Beardfish - The Void
+* Black Fast - Spectre Of Ruin
+* Death - Leprosy
+* Deviant Process - Nurture
+* Deviant Process - Paroxysm
+* Dreadnought - Bridging Realms
+* Dreadnought - A Wake In Sacred Waves
+* Droid - Terrestrial Mutations
+* Droÿs - And If...
+* Fractal Universe - Engram Of Decline
+* Ghost - Imperia
+* Gorgoroth - Ad Majorem Sathanas Gloriam
+* Hellish Crossfire - Slaves Of The Burning Pentagram
+* Igorrr - Poisson Soluble
+* Inter Arma - The Cavern
+* Inter Arma - Paradise Gallows
+* Nero Di Marte - Immoto
+* Paradox - Heresy
+* Paradox - Product Of Imagination
+* Protector - A Shedding Of Skin
+* Razor - Violent Restitution
+* Rollins Band - The End Of Silence
+* Rollins Band - Weight
+* Sacrilege - Behind The Realms Of Madness
+* Saint Vitus - Born Too Late
+* Skeletonwitch - Forever Abomination
+* Skeletonwitch - Serpents Unleashed
+* Sodom - Agent Orange
+* Solstice - Solstice
+* Solstice - Pray
+* Tempel - On The Steps Of The Temple
+* Tempel - The Moon Lit Our Path
+* Tool - Fear Inoculum
+* Turbid North - Eyes Alive
+* Venomous Concept - Politics Versus The Erection
+* Vexovoid - Call Of The Starforger
+* Voivod - Target Earth
+* Warbringer - Empires Collapse
+* Whiplash - Power And Pain
+* Wolfbrigade - Run With The Hunted
+* Xentrix - Shattered Existence
+
+## Stoner / Stoner Doom
+
+* 1886 - Before The Fog Covers The Mount
+* All Them Witches - ATW
+* All Them Witches - Nothing As The Ideal
+* Blood Ceremony - The Eldritch Dark
+* Dozer - In The Tail Of A Comet
+* Dozer - Madre De Dios
+* Dwellers - Pagan Fruit
+* Earth - Hex
+* Elder - Gold & Silver Sessions
+* Electric Moon - Stardust Rituals
+* Elephant Tree - Elephant Tree
+* Orange Goblin - Frequencies From Planet Ten
+* Orange Goblin - Time Travelling Blues
+* Orange Goblin - The Big Black
+* Purple Hill Witch - Purple Hill Witch
+* Red Fang - Red Fang
+* Weedeater - God Luck And Good Speed
+* Weedpecker - Weedpecker II
+
+## Punk / Grunge
+
+* 10 Minute Warning - 10 Minute Warning
+* Chemistry Set - The Incomplete Fabulous Stinking
+* Didier Super - La Merde Des Autres
+* Failure - Fantastic Planet
+* Fantomes - It's OK
+* Fiend Without A Face - Fiend Without A Face II
+* Fire Ants - Stripped
+* Fugazi - 13 Songs
+* Fugazi - End Hits
+* JC Satan - Hell Death Samba
+* JC Satan - JC Satan
+* Love Battery - Dayglo
+* Meat Puppets - Up On The Sun
+* My Sister's Machine - Diva
+* New Model Army - No Rest For The Wicked
+* New Model Army - The Ghost Of Cain
+* The Cramps - A Date With Elvis
+* The Fluid - Purplemetalflakemusic
+* The Gits - Frenching The Bully
+* U2 - October
+* Wipers - Over The Edge
+* X - Under The Big Black Sun
+* Zabriskie Point - Fantôme
+* Zabriskie Point - Paul
+
+## Rock / Folk
+
+* Agincourt - Fly Away
+* Alan Stivell - Un Dewezh 'Barzh 'Gêr
+* BB Blunder - Workers' Playtime
+* Bask - Bask III
+* Black Bonzo - Sound Of The Apocalypse
+* Bull Angus - Bull Angus
+* David Crosby - If I Could Only Remember My Name
+* Fleetwood Mac - Future Games
+* George Harrison - All Things Must Pass
+* Grand Funk Railroad - E Pluribus Funk
+* Grand Funk Railroad - We're An American Band
+* Grand Funk Railroad - Shinin' On
+* Grand Funk Railroad - All The Girls In The World Beware!!!
+* Grand Funk Railroad - Born To Die
+* The Hollies - Butterfly
+* Jerry Garcia - Pizza Tapes
+* John Frusciante - The Empyrean
+* José Gonzalez - Veneer
+* Joseph - Stone Age Man
+* Hermanos Gutiérrez - 8 Años
+* King Gizzard & The Lizard Wizard - Quarters!
+* King Gizzard & The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava
+* King Gizzard & The Lizard Wizard - Changes
+* Kingstone Wall - I
+* Kingstone Wall - II
+* Lutha - Earth
+* Maxime Le Forestier - 1 Mon Frère
+* Maxime Le Forestier - 2 Le Steak
+* Maxime Le Forestier - 3 Saltimbanque
+* Maxime Le Forestier - 4 Hymne À Sept Ans
+* Maxime Le Forestier - 5 N°5
+* Michael Chapman - Rainmaker
+* Mild Orange - Foreplay
+* Mild Orange - Mild Orange
+* Montrose - Montrose
+* Montrose - Paper Money
+* Radiohead - A Moon Shaped Pool
+* Sky King - Secret Sauce
+* Tri Yann - An Heol A Zo Glaz
+* UFO - Phenomenon
+* The Who - A Quick One
+* The Who - Quadrophenia
+* Wishful Thinking - Hiroshima
+
+## Reggae / Soul / Latino / Afrobeat / Jazz / Funk / Rap
+
+* A Tribe Called Quest - The Low End Theory
+* The Abyssinians - Satta Massagana
+* Calvin Keys - Full Court Press
+* Carlton And The Shoes - Love Me Forever
+* Cedric Brooks - United Africa
+* The Congos - Congo Ashanti
+* Dr. Alimantado - Kings Bread
+* Freddie McGregor - Bobby Bobylon
+* Funkadelic - Cosmic Slop
+* Funkadelic - more albums?
+* Gabor Szabo - Magical Connection
+* George Duke - Faces In Reflection
+* George Duke - Guardian Of The Light
+* Jamiroquai - Synkronized
+* Jamiroquai - A Funk Odyssey
+* Joe Bada$$ - All-Amerikkkan Bada$$
+* John Klemmer - Touch
+* Osibisa - Heads
+* Peter Tosh - Equal Rights
+* Sergent Garcia - Un Poquito Quema'o
+* Third World - Third World
+* Third World - 96° In The Shade
+* Vaudou Game - Vaudo Game
+
 ## Prog
 
 * Abstract Truth - Totum
@@ -211,171 +376,6 @@
 * Yezda Urfa - Boris
 * Zyma - Thoughts
 * Zyma - Brave New World
-
-## Metal
-
-* Abraham - The Serpent, The Prophet & The Whore
-* Beardfish - The Void
-* Black Fast - Spectre Of Ruin
-* Death - Leprosy
-* Deviant Process - Nurture
-* Deviant Process - Paroxysm
-* Dreadnought - Bridging Realms
-* Dreadnought - A Wake In Sacred Waves
-* Droid - Terrestrial Mutations
-* Droÿs - And If...
-* Fractal Universe - Engram Of Decline
-* Ghost - Imperia
-* Gorgoroth - Ad Majorem Sathanas Gloriam
-* Hellish Crossfire - Slaves Of The Burning Pentagram
-* Igorrr - Poisson Soluble
-* Inter Arma - The Cavern
-* Inter Arma - Paradise Gallows
-* Nero Di Marte - Immoto
-* Paradox - Heresy
-* Paradox - Product Of Imagination
-* Protector - A Shedding Of Skin
-* Razor - Violent Restitution
-* Rollins Band - The End Of Silence
-* Rollins Band - Weight
-* Sacrilege - Behind The Realms Of Madness
-* Saint Vitus - Born Too Late
-* Skeletonwitch - Forever Abomination
-* Skeletonwitch - Serpents Unleashed
-* Sodom - Agent Orange
-* Solstice - Solstice
-* Solstice - Pray
-* Tempel - On The Steps Of The Temple
-* Tempel - The Moon Lit Our Path
-* Tool - Fear Inoculum
-* Turbid North - Eyes Alive
-* Venomous Concept - Politics Versus The Erection
-* Vexovoid - Call Of The Starforger
-* Voivod - Target Earth
-* Warbringer - Empires Collapse
-* Whiplash - Power And Pain
-* Wolfbrigade - Run With The Hunted
-* Xentrix - Shattered Existence
-
-## Stoner / Stoner Doom
-
-* 1886 - Before The Fog Covers The Mount
-* All Them Witches - ATW
-* All Them Witches - Nothing As The Ideal
-* Blood Ceremony - The Eldritch Dark
-* Dozer - In The Tail Of A Comet
-* Dozer - Madre De Dios
-* Dwellers - Pagan Fruit
-* Earth - Hex
-* Elder - Gold & Silver Sessions
-* Electric Moon - Stardust Rituals
-* Elephant Tree - Elephant Tree
-* Orange Goblin - Frequencies From Planet Ten
-* Orange Goblin - Time Travelling Blues
-* Orange Goblin - The Big Black
-* Purple Hill Witch - Purple Hill Witch
-* Red Fang - Red Fang
-* Weedeater - God Luck And Good Speed
-* Weedpecker - Weedpecker II
-
-## Punk / Grunge
-
-* 10 Minute Warning - 10 Minute Warning
-* Chemistry Set - The Incomplete Fabulous Stinking
-* Didier Super - La Merde Des Autres
-* Failure - Fantastic Planet
-* Fantomes - It's OK
-* Fiend Without A Face - Fiend Without A Face II
-* Fire Ants - Stripped
-* Fugazi - 13 Songs
-* Fugazi - End Hits
-* JC Satan - Hell Death Samba
-* JC Satan - JC Satan
-* Love Battery - Dayglo
-* Meat Puppets - Up On The Sun
-* My Sister's Machine - Diva
-* New Model Army - No Rest For The Wicked
-* New Model Army - The Ghost Of Cain
-* The Cramps - A Date With Elvis
-* The Fluid - Purplemetalflakemusic
-* The Gits - Frenching The Bully
-* U2 - October
-* Wipers - Over The Edge
-* X - Under The Big Black Sun
-* Zabriskie Point - Fantôme
-* Zabriskie Point - Paul
-
-## Rock / Folk
-
-* Agincourt - Fly Away
-* Alan Stivell - Un Dewezh 'Barzh 'Gêr
-* BB Blunder - Workers' Playtime
-* Bask - Bask III
-* Black Bonzo - Sound Of The Apocalypse
-* Bull Angus - Bull Angus
-* David Crosby - If I Could Only Remember My Name
-* Fleetwood Mac - Future Games
-* George Harrison - All Things Must Pass
-* Grand Funk Railroad - E Pluribus Funk
-* Grand Funk Railroad - We're An American Band
-* Grand Funk Railroad - Shinin' On
-* Grand Funk Railroad - All The Girls In The World Beware!!!
-* Grand Funk Railroad - Born To Die
-* The Hollies - Butterfly
-* Jerry Garcia - Pizza Tapes
-* John Frusciante - The Empyrean
-* José Gonzalez - Veneer
-* Joseph - Stone Age Man
-* Hermanos Gutiérrez - 8 Años
-* King Gizzard & The Lizard Wizard - Quarters!
-* King Gizzard & The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava
-* King Gizzard & The Lizard Wizard - Changes
-* Kingstone Wall - I
-* Kingstone Wall - II
-* Lutha - Earth
-* Maxime Le Forestier - 1 Mon Frère
-* Maxime Le Forestier - 2 Le Steak
-* Maxime Le Forestier - 3 Saltimbanque
-* Maxime Le Forestier - 4 Hymne À Sept Ans
-* Maxime Le Forestier - 5 N°5
-* Michael Chapman - Rainmaker
-* Mild Orange - Foreplay
-* Mild Orange - Mild Orange
-* Montrose - Montrose
-* Montrose - Paper Money
-* Radiohead - A Moon Shaped Pool
-* Sky King - Secret Sauce
-* Tri Yann - An Heol A Zo Glaz
-* UFO - Phenomenon
-* The Who - A Quick One
-* The Who - Quadrophenia
-* Wishful Thinking - Hiroshima
-
-## Reggae / Soul / Latino / Afrobeat / Jazz / Funk / Rap
-
-* A Tribe Called Quest - The Low End Theory
-* The Abyssinians - Satta Massagana
-* Calvin Keys - Full Court Press
-* Carlton And The Shoes - Love Me Forever
-* Cedric Brooks - United Africa
-* The Congos - Congo Ashanti
-* Dr. Alimantado - Kings Bread
-* Freddie McGregor - Bobby Bobylon
-* Funkadelic - Cosmic Slop
-* Funkadelic - more albums?
-* Gabor Szabo - Magical Connection
-* George Duke - Faces In Reflection
-* George Duke - Guardian Of The Light
-* Jamiroquai - Synkronized
-* Jamiroquai - A Funk Odyssey
-* Joe Bada$$ - All-Amerikkkan Bada$$
-* John Klemmer - Touch
-* Osibisa - Heads
-* Peter Tosh - Equal Rights
-* Sergent Garcia - Un Poquito Quema'o
-* Third World - Third World
-* Third World - 96° In The Shade
-* Vaudou Game - Vaudo Game
 
 ## Pour plus tard
 
