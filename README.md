@@ -185,7 +185,6 @@
 
 ## Reggae / Soul / Latino / Afrobeat / Jazz / Funk / Rap
 
-* A Tribe Called Quest - The Low End Theory
 * The Abyssinians - Satta Massagana
 * Calvin Keys - Full Court Press
 * Carlton And The Shoes - Love Me Forever
