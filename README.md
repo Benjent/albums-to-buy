@@ -7,6 +7,7 @@
 * Black Fast - Starving Out The Light
 * Baroness - First + Second
 * Bell Witch - Mirror Reaper
+* Blood Circus - The Sub Pop Recordings (Primal Rock Therapy)
 * Cymande - Cymande
 * Cymande - Second Time Around
 * Cymande - Promised Heights
@@ -136,8 +137,10 @@
 * Kaipa - Solo
 * Kayak - See See The Sun
 * Kayak - Royal Bed Bouncer
+* Khan - Space Shanty
 * Klaatu - Magentalane
 * Laurent Thibault - Mais On Ne Peut Pas Rêver Tout Le Temps
+* Lift - Caverns Of Your Brain
 * Locanda Dell Fate - Forse Le Lucciole Non Si Amano Più
 * The Mandrake Memorial - Medium
 * Maneige - Les Porches
@@ -191,6 +194,7 @@
 * Surprise - Assault On Merryland
 * Tea & Symphony - An Asylum For The Insane
 * Tea & Symphony - Jo Sago
+* Le Temps - Le Temps
 * Thalassa - Suffer And Misery
 * Think - Variety
 * Thirsty Moon - Thirsty Moon
@@ -365,6 +369,7 @@
 * Jamiroquai - Synkronized
 * Jamiroquai - A Funk Odyssey
 * Joe Bada$$ - All-Amerikkkan Bada$$
+* John Klemmer - Touch
 * Osibisa - Heads
 * Peter Tosh - Equal Rights
 * Sergent Garcia - Un Poquito Quema'o
