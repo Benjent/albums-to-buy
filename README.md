@@ -6,6 +6,7 @@
 * Frank Zappa - Studio Tan
 * Black Fast - Starving Out The Light
 * Baroness - First + Second
+* Bastardator - Identify The Dead
 * Bell Witch - Mirror Reaper
 * Blood Circus - The Sub Pop Recordings (Primal Rock Therapy)
 * Cymande - Cymande
@@ -13,7 +14,9 @@
 * Cymande - Promised Heights
 * Death - Spiritual Healing
 * Evil Army - Evil Army
+* E-Z Rollers - Weekend World
 * Funeral Diner - The Underdark
+* Grooverider - Mysteries Of Funk
 * Herb Ellis & Romeo Palmier - Windflower
 * King Gizzard & The Lizard Wizard - Omnium Gatherum
 * King Gizzard & The Lizard Wizard - PetroDraconic Apocalypse
@@ -38,7 +41,7 @@
 * Skin Yard - Hallowed Ground
 * Skinshape - Oraccolo
 * Steel Pulse - Caught You
-* Step Ahead - Step Ahead (LIVRAISON) entre 22 et 23 avril 2024 (wtf)
+* Step Ahead - Step Ahead
 * Tank - Filth Hounds Of Hades
 * Tommy Guerrero - No Man's Land
 * Tommy Guerrero - Road To Nowhere
@@ -49,6 +52,7 @@
 * Abraham - The Serpent, The Prophet & The Whore
 * Beardfish - The Void
 * Black Fast - Spectre Of Ruin
+* Cynic - Uroboric Forms (Demo Recordings)
 * Death - Leprosy
 * Deviant Process - Nurture
 * Deviant Process - Paroxysm
@@ -107,7 +111,7 @@
 * Orange Goblin - The Big Black
 * Purple Hill Witch - Purple Hill Witch
 * Red Fang - Red Fang
-* Weedeater - God Luck And Good Speed
+* Weedeater - God Luck And Good Speed (livraison)
 * Weedpecker - Weedpecker II
 
 ## Punk / Grunge
@@ -121,8 +125,6 @@
 * Fire Ants - Stripped
 * Fugazi - 13 Songs
 * Fugazi - End Hits
-* JC Satan - Hell Death Samba
-* JC Satan - JC Satan
 * Love Battery - Dayglo
 * Meat Puppets - Up On The Sun
 * My Sister's Machine - Diva
@@ -175,10 +177,17 @@
 * Mild Orange - Mild Orange
 * Montrose - Montrose
 * Montrose - Paper Money
+* Quicksilver Messenger Service - Quicksilver Messenger Service
+* Quicksilver Messenger Service - Shady Grove
+* Quicksilver Messenger Service - Solid Silver
 * Radiohead - A Moon Shaped Pool
 * Sky King - Secret Sauce
 * Tri Yann - An Heol A Zo Glaz
 * UFO - Phenomenon
+* Van Morrison - Tupelo Honey
+* Van Morrison - Hard Nose The Highway
+* Van Morrison - Veedon Fleece
+* Van Morrison - Common One
 * The Who - A Quick One
 * The Who - Quadrophenia
 * Wishful Thinking - Hiroshima
@@ -186,6 +195,7 @@
 ## Reggae / Soul / Latino / Afrobeat / Jazz / Funk / Rap
 
 * The Abyssinians - Satta Massagana
+* Biga Ranx - Eh Yo!
 * Calvin Keys - Full Court Press
 * Carlton And The Shoes - Love Me Forever
 * Cedric Brooks - United Africa
@@ -197,8 +207,9 @@
 * Gabor Szabo - Magical Connection
 * George Duke - Faces In Reflection
 * George Duke - Guardian Of The Light
-* Jamiroquai - Synkronized
-* Jamiroquai - A Funk Odyssey
+* GZA - Words From The Genius
+* GZA - Liquid Swords
+* Incognito - Jazz Funk
 * Joe Bada$$ - All-Amerikkkan Bada$$
 * John Klemmer - Touch
 * Osibisa - Heads
@@ -211,13 +222,14 @@
 ## Prog
 
 * Abstract Truth - Totum
-* Al Di Meola - Land Of The Midnight Sun (5CD original album classics)
-* Al Di Meola - Elegant Gypsy
-* Al Di Meola - Casino
+* Agharta - Agharta (iso Black Market Weather Report)
 * Alain Markusfeld - Le Désert Noir
+* Albert Marcœur - Armes & Cycles
+* Alpha Centauri (parfois écrit avec un Y) - Alpha Centauri (parfois écrit avec un Y)
 * Alphataurus - Alphataurus
 * Ambrosia - Ambrosia
 * Anthony Philips - The Geese & The Ghost
+* Apoteosi - Apoteosi
 * Arachnoid - Arachnoid
 * Armageddon -Armageddon
 * Asgaerd - In The Realm Of Asgaerd
@@ -232,9 +244,13 @@
 * Bakery - Momento
 * Banco Del Mutuo Soccorso - Io Sono Nato Libero
 * Bangor Flying Circus - Bangor Flying Circus
+* Berits Halsband - Berits Halsband (livraison)
 * Birth Control - Backdoor Possibilities
 * Brainchild - Healing Of The Lunatic Owl
 * Bram Stoker - Heavy Rock Spectacular
+* Brand X - Unorthodox Behavior
+* Brand X - Morrocan Roll
+* Brand X - Masques
 * Brian Auger's Oblivion Express - A Better Land
 * Brian Auger's Oblivion Express - Second Wind
 * Brian Auger's Oblivion Express - Closer To It!
@@ -261,6 +277,7 @@
 * Eloy - Time To Turn
 * Emergency - Entrance
 * Ex Vitae - Mandarine
+* First Aid - Nostradamus
 * Franco Leprino - Integrati... Disintegrati
 * Frank Zappa - The Man From Utopia
 * Frank Zappa - Halloween 81 (full)
@@ -313,9 +330,11 @@
 * La Máquina De Hacer Pájaros - La Máquina De Hacer Pájaros
 * McChurch Soundroom - Delusion
 * McLuhan - Anomaly
+* Metropolis - Metropolis
 * MIA - Transparencias
 * MIA - Mágicos Juegos Del Tiempo
 * MIA - Cornonstipicum
+* Mikael Ramel - Till Dej
 * Mike Oldfield - Incantations
 * Miklagård - Miklagård
 * Mona Lisa - Le Petit Violon De Mr. Grégoire
@@ -331,10 +350,12 @@
 * L'orchestre Sympathique - En Concert A La Grande Passe
 * Omega - Csillagok Útján
 * Pallas - The Sentinel
+* Penguin Cafe Orchestra - Penguin Cafe Orchestra
 * PFM - L'isola Di Niente
 * Picchio Dal Pozzo - Picchio Dal Pozzo
 * Pingui - Der Grosse Rote Vogel
 * Pollen - Pollen
+* Prosper - Broken Door
 * Prudence - Tomorrow May Be Vanished
 * Prudence - Drunk And Happy
 * Public Foot The Roman - Public Foot The Roman
@@ -363,6 +384,7 @@
 * Think - Variety
 * Thirsty Moon - Thirsty Moon
 * Thirsty Moon - You'll Never Come Back
+* Titanic - Eagle Rock
 * Tonton Macoute - Tonton Macoute
 * Triode - On N'a Pas Fini D'avoir Tout Vu
 * UK - UK
@@ -384,6 +406,7 @@
 * Annihilator - Set The World On Fire
 * Beardfish - The Sane Day
 * Big Business - The Beast You Are
+* Black Sabbath - Seventh Star
 * Borislav Mitic - Borislav Mitic
 * Buffalo Springfield - Intégrale (ou S/T)
 * Cat Stevens - Numbers
@@ -400,6 +423,7 @@
 * Herb Ellis & Red Mitchell - Doggin' Around
 * Herbie Hancock - The Prisoner
 * Herbie Hancock - Secrets
+* Japan - Gentlemen Take Polaroids
 * KC & The Sunshine Band - KC & The Sunshine Band
 * Khruangbin - Con Todo El Mundo
 * Intervals - The Shape Of Colour
