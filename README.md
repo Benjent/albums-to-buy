@@ -36,7 +36,6 @@
 * Renaissance - A Song For All Seasons
 * Roméo Elvis - Morale
 * Room - Pre-Flight
-* Rush - Hemispheres
 * Skin Yard - Skin Yard
 * Skin Yard - Hallowed Ground
 * Skinshape - Oraccolo
@@ -111,7 +110,6 @@
 * Orange Goblin - The Big Black
 * Purple Hill Witch - Purple Hill Witch
 * Red Fang - Red Fang
-* Weedeater - God Luck And Good Speed (livraison)
 * Weedpecker - Weedpecker II
 
 ## Punk / Grunge
@@ -237,14 +235,13 @@
 * Asia (USA) - Asia
 * Asia (USA) - Armed To The Teeth
 * Atlantide (FR) - Atlantide
-* Atlas - Blå Vardag
 * Automat - Automat
 * A.F.T. - Automatic Fine Tuning
 * Axis - Axis
 * Bakery - Momento
 * Banco Del Mutuo Soccorso - Io Sono Nato Libero
 * Bangor Flying Circus - Bangor Flying Circus
-* Berits Halsband - Berits Halsband (livraison)
+* Berits Halsband - Berits Halsband
 * Birth Control - Backdoor Possibilities
 * Brainchild - Healing Of The Lunatic Owl
 * Bram Stoker - Heavy Rock Spectacular
