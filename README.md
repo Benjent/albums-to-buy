@@ -143,6 +143,7 @@
 * Alan Stivell - Un Dewezh 'Barzh 'Gêr
 * BB Blunder - Workers' Playtime
 * Bask - Bask III
+* Ben Harper - The Will To Live
 * Black Bonzo - Sound Of The Apocalypse
 * Bull Angus - Bull Angus
 * David Crosby - If I Could Only Remember My Name
