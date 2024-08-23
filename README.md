@@ -123,11 +123,13 @@
 * Fire Ants - Stripped
 * Fugazi - 13 Songs
 * Fugazi - End Hits
+* Hüsker Dü - Zen Arcade
 * Love Battery - Dayglo
 * Meat Puppets - Up On The Sun
 * My Sister's Machine - Diva
 * New Model Army - No Rest For The Wicked
 * New Model Army - The Ghost Of Cain
+* NoMeansNo - Wrong
 * The Cramps - A Date With Elvis
 * The Fluid - Purplemetalflakemusic
 * The Gits - Frenching The Bully
