@@ -148,6 +148,7 @@
 * Ben Harper - The Will To Live
 * Black Bonzo - Sound Of The Apocalypse
 * Bull Angus - Bull Angus
+* The Byrds - Younger Than Yesterday
 * David Crosby - If I Could Only Remember My Name
 * Fleetwood Mac - Future Games
 * George Harrison - All Things Must Pass
