@@ -69,6 +69,7 @@
 * Nero Di Marte - Immoto
 * Paradox - Heresy
 * Paradox - Product Of Imagination
+* Plini - Les albums
 * Protector - A Shedding Of Skin
 * Razor - Violent Restitution
 * Rollins Band - The End Of Silence
