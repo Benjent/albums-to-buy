@@ -99,6 +99,7 @@
 * All Them Witches - ATW
 * All Them Witches - Nothing As The Ideal
 * Blood Ceremony - The Eldritch Dark
+* Castle Rat - Into The Realm
 * Dozer - In The Tail Of A Comet
 * Dozer - Madre De Dios
 * Dwellers - Pagan Fruit
@@ -117,6 +118,7 @@
 
 * 10 Minute Warning - 10 Minute Warning
 * Chemistry Set - The Incomplete Fabulous Stinking
+* Dalle Béton
 * Didier Super - La Merde Des Autres
 * Failure - Fantastic Planet
 * Fantomes - It's OK
