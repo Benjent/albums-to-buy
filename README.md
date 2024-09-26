@@ -35,6 +35,7 @@
 * Renaissance - Novella
 * Renaissance - A Song For All Seasons
 * Roméo Elvis - Morale
+* Roni Size & Reprazent - New Forms
 * Room - Pre-Flight
 * Skin Yard - Skin Yard
 * Skin Yard - Hallowed Ground
@@ -154,6 +155,8 @@
 * The Byrds - Younger Than Yesterday
 * David Crosby - If I Could Only Remember My Name
 * Fleetwood Mac - Future Games
+* Fleuves - Fleuves
+* Fleuves - #2
 * George Harrison - All Things Must Pass
 * Grand Funk Railroad - E Pluribus Funk
 * Grand Funk Railroad - We're An American Band
@@ -172,6 +175,8 @@
 * Kingstone Wall - I
 * Kingstone Wall - II
 * Lutha - Earth
+* Malicorne - Almanach
+* Malicorne - Chanteurs De Sornettes
 * Maxime Le Forestier - 1 Mon Frère
 * Maxime Le Forestier - 2 Le Steak
 * Maxime Le Forestier - 3 Saltimbanque
