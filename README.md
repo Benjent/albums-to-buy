@@ -3,7 +3,11 @@
 ## TOP TIER
 
 * Aspid - Extravasation
+* Frank Zappa - Weasels Ripped My Flesh
+* Frank Zappa - Just Another Band from L.A.
 * Frank Zappa - Studio Tan
+* Frank Zappa - The Man From Utopia
+* Frank Zappa - Halloween 81 (full)
 * Black Fast - Starving Out The Light
 * Baroness - First + Second
 * Bastardator - Identify The Dead
@@ -164,6 +168,7 @@
 * Grand Funk Railroad - All The Girls In The World Beware!!!
 * Grand Funk Railroad - Born To Die
 * The Hollies - Butterfly
+* JJ Cale - Naturally
 * Jerry Garcia - Pizza Tapes
 * John Frusciante - The Empyrean
 * José Gonzalez - Veneer
@@ -187,10 +192,10 @@
 * Mild Orange - Mild Orange
 * Montrose - Montrose
 * Montrose - Paper Money
+* Neil Young - Tonight's The Night
 * Quicksilver Messenger Service - Quicksilver Messenger Service
 * Quicksilver Messenger Service - Shady Grove
 * Quicksilver Messenger Service - Solid Silver
-* Radiohead - A Moon Shaped Pool
 * Sky King - Secret Sauce
 * Tri Yann - An Heol A Zo Glaz
 * UFO - Phenomenon
@@ -224,6 +229,7 @@
 * John Klemmer - Touch
 * Osibisa - Heads
 * Peter Tosh - Equal Rights
+* Sacbé - Sacbé
 * Sergent Garcia - Un Poquito Quema'o
 * Third World - Third World
 * Third World - 96° In The Shade
@@ -269,6 +275,7 @@
 * Búsqueda - Búsqueda
 * Carsten Bohn's Bandstand - Mother Goose Shoes
 * Colosseum II - Strange New Flesh
+* Cortex - Troupeau Bleu
 * Crack The Sky - Crack The Sky
 * Crack The Sky - Animal Notes
 * Crack The Sky - Safety In Numbers
@@ -288,8 +295,6 @@
 * Ex Vitae - Mandarine
 * First Aid - Nostradamus
 * Franco Leprino - Integrati... Disintegrati
-* Frank Zappa - The Man From Utopia
-* Frank Zappa - Halloween 81 (full)
 * Gòtic - Escènes
 * Gracious! - This Is Gracious!
 * Greenslade - Greenslade
