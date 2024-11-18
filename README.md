@@ -8,19 +8,22 @@
 * Frank Zappa - Studio Tan
 * Frank Zappa - The Man From Utopia
 * Frank Zappa - Halloween 81 (full)
+* Black Sabbath - all 4 remasters 2024 (Headless Cross, Cross Purposes, Tyr, Forbidden)
 * Black Fast - Starving Out The Light
+* Blasteroid - Tous les albums
 * Baroness - First + Second
 * Bastardator - Identify The Dead
-* Bell Witch - Mirror Reaper
+* Bell Witch - Mirror Reaper (livraison)
 * Blood Circus - The Sub Pop Recordings (Primal Rock Therapy)
 * Cymande - Cymande
 * Cymande - Second Time Around
 * Cymande - Promised Heights
-* Death - Spiritual Healing
+* Death - Spiritual Healing (livraison)
+* Dissimulator - Lower Form Resistance
 * Evil Army - Evil Army
 * E-Z Rollers - Weekend World
 * Funeral Diner - The Underdark
-* Grooverider - Mysteries Of Funk
+* Grooverider - Mysteries Of Funk (livraison)
 * Herb Ellis & Romeo Palmier - Windflower
 * King Gizzard & The Lizard Wizard - Omnium Gatherum
 * King Gizzard & The Lizard Wizard - PetroDraconic Apocalypse
@@ -75,8 +78,8 @@
 * Paradox - Heresy
 * Paradox - Product Of Imagination
 * Plini - Les albums
-* Protector - A Shedding Of Skin
-* Razor - Violent Restitution
+* Protector - A Shedding Of Skin (livraison)
+* Razor - Violent Restitution (livraison)
 * Rollins Band - The End Of Silence
 * Rollins Band - Weight
 * Sacrilege - Behind The Realms Of Madness
@@ -91,7 +94,7 @@
 * Tool - Fear Inoculum
 * Turbid North - Eyes Alive
 * Venomous Concept - Politics Versus The Erection
-* Vexovoid - Call Of The Starforger
+* Vexovoid - Call Of The Starforger (livraison)
 * Voivod - Target Earth
 * Warbringer - Empires Collapse
 * Whiplash - Power And Pain
@@ -157,7 +160,9 @@
 * Black Bonzo - Sound Of The Apocalypse
 * Bull Angus - Bull Angus
 * The Byrds - Younger Than Yesterday
+* Country Joe & The Fish - I Feel Like I'm Fixin' To Die
 * David Crosby - If I Could Only Remember My Name
+* Diaouled Ar Menez - Les 3 albums
 * Fleetwood Mac - Future Games
 * Fleuves - Fleuves
 * Fleuves - #2
@@ -188,11 +193,10 @@
 * Maxime Le Forestier - 4 Hymne À Sept Ans
 * Maxime Le Forestier - 5 N°5
 * Michael Chapman - Rainmaker
-* Mild Orange - Foreplay
-* Mild Orange - Mild Orange
 * Montrose - Montrose
 * Montrose - Paper Money
 * Neil Young - Tonight's The Night
+* Neil Young - Barn
 * Quicksilver Messenger Service - Quicksilver Messenger Service
 * Quicksilver Messenger Service - Shady Grove
 * Quicksilver Messenger Service - Solid Silver
@@ -210,7 +214,6 @@
 ## Reggae / Soul / Latino / Afrobeat / Jazz / Funk / Rap
 
 * The Abyssinians - Satta Massagana
-* Biga Ranx - Eh Yo!
 * Calvin Keys - Full Court Press
 * Carlton And The Shoes - Love Me Forever
 * Cedric Brooks - United Africa
@@ -293,6 +296,7 @@
 * Eloy - Time To Turn
 * Emergency - Entrance
 * Ex Vitae - Mandarine
+* Flo & Eddie - The Phlorescent Leech & Eddie
 * First Aid - Nostradamus
 * Franco Leprino - Integrati... Disintegrati
 * Gòtic - Escènes
@@ -447,6 +451,8 @@
 * Lord Dying - Poisoned Altars
 * Lucifer - Lucifer III
 * M - Le Baptême
+* Mild Orange - Foreplay
+* Mild Orange - Mild Orange
 * MGMT - Oracular Spectacular
 * MGMT - Congratulations
 * Pat Metheny - What's It All About
