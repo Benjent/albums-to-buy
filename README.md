@@ -15,18 +15,28 @@
 * Bastardator - Identify The Dead
 * Bell Witch - Mirror Reaper (livraison)
 * Blood Circus - The Sub Pop Recordings (Primal Rock Therapy)
+* Castle Rat - Into The Realm
+* Crucis - Crucis
+* Crucis - Los Delirios Del Mariscal
 * Cymande - Cymande
 * Cymande - Second Time Around
 * Cymande - Promised Heights
 * Death - Spiritual Healing (livraison)
 * Dissimulator - Lower Form Resistance
+* Droid - Terrestrial Mutations
+* Dr. Dopo Jam - Entrée
+* Dr. Dopo Jam - Fat Dogs & Danishmen
+* Dr. Z - Three Parts To My Soul
 * Evil Army - Evil Army
 * E-Z Rollers - Weekend World
 * Funeral Diner - The Underdark
 * Grooverider - Mysteries Of Funk (livraison)
 * Herb Ellis & Romeo Palmier - Windflower
+* Hüsker Dü - Zen Arcade
+* Igorrr - Poisson Soluble
 * King Gizzard & The Lizard Wizard - Omnium Gatherum
 * King Gizzard & The Lizard Wizard - PetroDraconic Apocalypse
+* Love Battery - Dayglo
 * Nancy Sinatra - How Does That Grab You?
 * Osanna - Landscape Of Life
 * Osanna - Suddance
@@ -34,6 +44,8 @@
 * Paco De Lucia - Almoraima
 * Paco De Lucia - Solo Quiero Caminar
 * Paco De Lucia - Zyryab
+* Paradox - Heresy
+* Paradox - Product Of Imagination
 * Peter, Paul & Mary - Late Again
 * Renaissance - Prologue
 * Renaissance - Ashes Are Burning
@@ -41,18 +53,25 @@
 * Renaissance - Scheherazade
 * Renaissance - Novella
 * Renaissance - A Song For All Seasons
+* Rollins Band - The End Of Silence
+* Rollins Band - Weight
 * Roméo Elvis - Morale
 * Roni Size & Reprazent - New Forms
 * Room - Pre-Flight
+* Saint Vitus - Born Too Late
 * Skin Yard - Skin Yard
 * Skin Yard - Hallowed Ground
 * Skinshape - Oraccolo
+* Solstice - Solstice
+* Solstice - Pray
 * Steel Pulse - Caught You
 * Step Ahead - Step Ahead
 * Tank - Filth Hounds Of Hades
 * Tommy Guerrero - No Man's Land
 * Tommy Guerrero - Road To Nowhere
 * The Trials Of Cato - Hide And Hair
+* Whiplash - Power And Pain
+* Wolfbrigade - Run With The Hunted
 
 ## Metal
 
@@ -65,30 +84,21 @@
 * Deviant Process - Paroxysm
 * Dreadnought - Bridging Realms
 * Dreadnought - A Wake In Sacred Waves
-* Droid - Terrestrial Mutations
 * Droÿs - And If...
 * Fractal Universe - Engram Of Decline
 * Ghost - Imperia
-* Gorgoroth - Ad Majorem Sathanas Gloriam
+* Gorgoroth - Ad Majorem Sathanas Gloriam (livraison)
 * Hellish Crossfire - Slaves Of The Burning Pentagram
-* Igorrr - Poisson Soluble
 * Inter Arma - The Cavern
 * Inter Arma - Paradise Gallows
 * Nero Di Marte - Immoto
-* Paradox - Heresy
-* Paradox - Product Of Imagination
 * Plini - Les albums
 * Protector - A Shedding Of Skin (livraison)
 * Razor - Violent Restitution (livraison)
-* Rollins Band - The End Of Silence
-* Rollins Band - Weight
 * Sacrilege - Behind The Realms Of Madness
-* Saint Vitus - Born Too Late
 * Skeletonwitch - Forever Abomination
 * Skeletonwitch - Serpents Unleashed
 * Sodom - Agent Orange
-* Solstice - Solstice
-* Solstice - Pray
 * Tempel - On The Steps Of The Temple
 * Tempel - The Moon Lit Our Path
 * Tool - Fear Inoculum
@@ -97,8 +107,6 @@
 * Vexovoid - Call Of The Starforger (livraison)
 * Voivod - Target Earth
 * Warbringer - Empires Collapse
-* Whiplash - Power And Pain
-* Wolfbrigade - Run With The Hunted
 * Xentrix - Shattered Existence
 
 ## Stoner / Stoner Doom
@@ -107,7 +115,6 @@
 * All Them Witches - ATW
 * All Them Witches - Nothing As The Ideal
 * Blood Ceremony - The Eldritch Dark
-* Castle Rat - Into The Realm
 * Dozer - In The Tail Of A Comet
 * Dozer - Madre De Dios
 * Dwellers - Pagan Fruit
@@ -126,7 +133,6 @@
 
 * 10 Minute Warning - 10 Minute Warning
 * Chemistry Set - The Incomplete Fabulous Stinking
-* Dalle Béton
 * Didier Super - La Merde Des Autres
 * Failure - Fantastic Planet
 * Fantomes - It's OK
@@ -134,8 +140,6 @@
 * Fire Ants - Stripped
 * Fugazi - 13 Songs
 * Fugazi - End Hits
-* Hüsker Dü - Zen Arcade
-* Love Battery - Dayglo
 * Meat Puppets - Up On The Sun
 * My Sister's Machine - Diva
 * New Model Army - No Rest For The Wicked
@@ -156,7 +160,6 @@
 * Alan Stivell - Un Dewezh 'Barzh 'Gêr
 * BB Blunder - Workers' Playtime
 * Bask - Bask III
-* Ben Harper - The Will To Live
 * Black Bonzo - Sound Of The Apocalypse
 * Bull Angus - Bull Angus
 * The Byrds - Younger Than Yesterday
@@ -283,19 +286,14 @@
 * Crack The Sky - Animal Notes
 * Crack The Sky - Safety In Numbers
 * Crazy Mabel - Crazy Mabel
-* Crucis - Crucis
-* Crucis - Los Delirios Del Mariscal
 * Curved Air - Second Album
 * Curved Air - Phantasmagoria
 * Didier Bonin - L'arbre Verre
-* Dr. Dopo Jam - Entrée
-* Dr. Dopo Jam - Fat Dogs & Danishmen
-* Dr. Z - Three Parts To My Soul
 * Duello Madre - Duello Madre
 * ELO - Secret Messages
 * Eloy - Time To Turn
 * Emergency - Entrance
-* Ex Vitae - Mandarine
+* Ex Vitae - Mandarine (livraison)
 * Flo & Eddie - The Phlorescent Leech & Eddie
 * First Aid - Nostradamus
 * Franco Leprino - Integrati... Disintegrati
@@ -423,6 +421,7 @@
 * Animals As Leaders - The Joy Of Motion
 * Annihilator - Set The World On Fire
 * Beardfish - The Sane Day
+* Ben Harper - The Will To Live
 * Big Business - The Beast You Are
 * Black Sabbath - Seventh Star
 * Borislav Mitic - Borislav Mitic
