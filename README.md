@@ -28,7 +28,7 @@
 * Dr. Dopo Jam - Fat Dogs & Danishmen
 * Dr. Z - Three Parts To My Soul
 * Evil Army - Evil Army
-* E-Z Rollers - Weekend World
+* E-Z Rollers - Weekend World (livraison)
 * Funeral Diner - The Underdark
 * Grooverider - Mysteries Of Funk (livraison)
 * Herb Ellis & Romeo Palmier - Windflower
@@ -37,7 +37,7 @@
 * King Gizzard & The Lizard Wizard - Omnium Gatherum
 * King Gizzard & The Lizard Wizard - PetroDraconic Apocalypse
 * Love Battery - Dayglo
-* Nancy Sinatra - How Does That Grab You?
+* Nancy Sinatra - How Does That Grab You? (livraison)
 * Osanna - Landscape Of Life
 * Osanna - Suddance
 * Paco De Lucia - Fuente Y Caudal
@@ -78,6 +78,7 @@
 * Abraham - The Serpent, The Prophet & The Whore
 * Beardfish - The Void
 * Black Fast - Spectre Of Ruin
+* Chat Pile - God's Country
 * Cynic - Uroboric Forms (Demo Recordings)
 * Death - Leprosy
 * Deviant Process - Nurture
@@ -91,6 +92,7 @@
 * Hellish Crossfire - Slaves Of The Burning Pentagram
 * Inter Arma - The Cavern
 * Inter Arma - Paradise Gallows
+* Linkin Park - From Zero
 * Nero Di Marte - Immoto
 * Plini - Les albums
 * Protector - A Shedding Of Skin (livraison)
@@ -103,7 +105,7 @@
 * Tempel - The Moon Lit Our Path
 * Tool - Fear Inoculum
 * Turbid North - Eyes Alive
-* Venomous Concept - Politics Versus The Erection
+* Venomous Concept - Politics Versus The Erection (livraison)
 * Vexovoid - Call Of The Starforger (livraison)
 * Voivod - Target Earth
 * Warbringer - Empires Collapse
@@ -356,7 +358,7 @@
 * Mona Lisa - Le Petit Violon De Mr. Grégoire
 * Mona Lisa - Avant Qu'il Ne Soit Trop Tard
 * Moving Gelatine Plates - Moving Gelatine Plates
-* Moving Gelatine Plates - The World Of Genius Hans
+* Moving Gelatine Plates - The World Of Genius Hans (livraison)
 * Nektar - A Tab In The Ocean
 * Nektar - Remember The Future
 * Nektar - Down To Earth
