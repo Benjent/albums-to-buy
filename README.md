@@ -3,6 +3,7 @@
 ## TOP TIER
 
 * Aspid - Extravasation
+* Agitation Free - 2nd
 * Frank Zappa - Weasels Ripped My Flesh
 * Frank Zappa - Just Another Band from L.A.
 * Frank Zappa - Studio Tan
@@ -34,6 +35,8 @@
 * Herb Ellis & Romeo Palmier - Windflower
 * Hüsker Dü - Zen Arcade
 * Igorrr - Poisson Soluble
+* Jerry Garcia - Pizza Tapes
+* John Frusciante - The Empyrean
 * King Gizzard & The Lizard Wizard - Omnium Gatherum
 * King Gizzard & The Lizard Wizard - PetroDraconic Apocalypse
 * Love Battery - Dayglo
@@ -92,7 +95,8 @@
 * Hellish Crossfire - Slaves Of The Burning Pentagram
 * Inter Arma - The Cavern
 * Inter Arma - Paradise Gallows
-* Linkin Park - From Zero
+* Keep Of Kalessin - Armada
+* Keep Of Kalessin - Kolossus
 * Nero Di Marte - Immoto
 * Plini - Les albums
 * Protector - A Shedding Of Skin (livraison)
@@ -164,7 +168,6 @@
 * Bask - Bask III
 * Black Bonzo - Sound Of The Apocalypse
 * Bull Angus - Bull Angus
-* The Byrds - Younger Than Yesterday
 * Country Joe & The Fish - I Feel Like I'm Fixin' To Die
 * David Crosby - If I Could Only Remember My Name
 * Diaouled Ar Menez - Les 3 albums
@@ -178,9 +181,6 @@
 * Grand Funk Railroad - All The Girls In The World Beware!!!
 * Grand Funk Railroad - Born To Die
 * The Hollies - Butterfly
-* JJ Cale - Naturally
-* Jerry Garcia - Pizza Tapes
-* John Frusciante - The Empyrean
 * José Gonzalez - Veneer
 * Joseph - Stone Age Man
 * Hermanos Gutiérrez - 8 Años
@@ -205,6 +205,7 @@
 * Quicksilver Messenger Service - Quicksilver Messenger Service
 * Quicksilver Messenger Service - Shady Grove
 * Quicksilver Messenger Service - Solid Silver
+* Rodrigez - Tous les albums
 * Sky King - Secret Sauce
 * Tri Yann - An Heol A Zo Glaz
 * UFO - Phenomenon
@@ -216,9 +217,16 @@
 * The Who - Quadrophenia
 * Wishful Thinking - Hiroshima
 
-## Reggae / Soul / Latino / Afrobeat / Jazz / Funk / Rap
+## Rap
+
+* GZA - Words From The Genius
+* Joe Bada$$ - All-Amerikkkan Bada$$
+
+## Reggae / Soul / Latino / Afrobeat / Jazz / Funk
 
 * The Abyssinians - Satta Massagana
+* Batsumi - Batsumi
+* Batsumi - Moving Along
 * Calvin Keys - Full Court Press
 * Carlton And The Shoes - Love Me Forever
 * Cedric Brooks - United Africa
@@ -230,10 +238,7 @@
 * Gabor Szabo - Magical Connection
 * George Duke - Faces In Reflection
 * George Duke - Guardian Of The Light
-* GZA - Words From The Genius
-* GZA - Liquid Swords
 * Incognito - Jazz Funk
-* Joe Bada$$ - All-Amerikkkan Bada$$
 * John Klemmer - Touch
 * Osibisa - Heads
 * Peter Tosh - Equal Rights
