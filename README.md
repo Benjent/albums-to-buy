@@ -35,6 +35,7 @@
 * Herb Ellis & Romeo Palmier - Windflower
 * Hüsker Dü - Zen Arcade
 * Igorrr - Poisson Soluble
+* Jamiroquai - Rock Dust Light Star
 * Jerry Garcia - Pizza Tapes
 * John Frusciante - The Empyrean
 * King Gizzard & The Lizard Wizard - Omnium Gatherum
