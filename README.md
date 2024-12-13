@@ -9,6 +9,8 @@
 * Frank Zappa - Studio Tan
 * Frank Zappa - The Man From Utopia
 * Frank Zappa - Halloween 81 (full)
+* Biga Ranx - 1988
+* Biga Ranx - St. Soleil
 * Black Sabbath - all 4 remasters 2024 (Headless Cross, Cross Purposes, Tyr, Forbidden)
 * Black Fast - Starving Out The Light
 * Blasteroid - Tous les albums
