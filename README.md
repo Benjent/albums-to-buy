@@ -33,6 +33,9 @@
 * Evil Army - Evil Army
 * E-Z Rollers - Weekend World (livraison)
 * Funeral Diner - The Underdark
+* (Pierre Moerlen's) Gong - Downwind
+* (Pierre Moerlen's) Gong - Time Is The Key
+* (Pierre Moerlen's) Gong - Leave It Open
 * Grooverider - Mysteries Of Funk (livraison)
 * Herb Ellis & Romeo Palmier - Windflower
 * Hüsker Dü - Zen Arcade
@@ -339,6 +342,7 @@
 * Jan Dukes De Grey - Mice And Rats In The Loft
 * Jasper Wrath - Jasper Wrath
 * Jethro Tull - Benefit
+* Jupu Group - Ahmoo
 * Kaipa - Kaipa
 * Kaipa - Inget Nytt Under Solen
 * Kaipa - Solo
@@ -376,6 +380,7 @@
 * L'orchestre Sympathique - En Concert A La Grande Passe
 * Omega - Csillagok Útján
 * Pallas - The Sentinel
+* Pekka Pohjola - Harakka Bialoipokku
 * Penguin Cafe Orchestra - Penguin Cafe Orchestra
 * PFM - L'isola Di Niente
 * Picchio Dal Pozzo - Picchio Dal Pozzo
