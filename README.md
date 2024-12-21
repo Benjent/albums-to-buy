@@ -2,24 +2,26 @@
 
 ## TOP TIER
 
+* 10 Minute Warning - 10 Minute Warning (Grunge sub pop)
 * Aspid - Extravasation
 * Agitation Free - 2nd
-* Frank Zappa - Weasels Ripped My Flesh
-* Frank Zappa - Just Another Band from L.A.
-* Frank Zappa - Studio Tan
-* Frank Zappa - The Man From Utopia
-* Frank Zappa - Halloween 81 (full)
 * Biga Ranx - 1988
 * Biga Ranx - St. Soleil
-* Black Sabbath - all 4 remasters 2024 (Headless Cross, Cross Purposes, Tyr, Forbidden)
+* Black Sabbath - remastered 2024 (Headless Cross)
+* Black Sabbath - remastered 2024 (Cross Purposes)
+* Black Sabbath - remastered 2024 (Tyr)
+* Black Sabbath - remastered 2024 (Forbidden)
 * Black Fast - Starving Out The Light
-* Blasteroid - Tous les albums
+* Blasteroid - Crypts Of Mind
+* Blasteroid - Universal Knowledge (EP)
 * Baroness - First + Second
 * Bastardator - Identify The Dead
 * Blood Circus - The Sub Pop Recordings (Primal Rock Therapy)
 * Castle Rat - Into The Realm
+* Chemistry Set - The Incomplete Fabulous Stinking
 * Circus - Circus
 * Circus - Movin' On
+* Country Joe & The Fish - I Feel Like I'm Fixin' To Die
 * Crucis - Crucis
 * Crucis - Los Delirios Del Mariscal
 * Cymande - Cymande
@@ -31,6 +33,12 @@
 * Dr. Dopo Jam - Fat Dogs & Danishmen
 * Dr. Z - Three Parts To My Soul
 * Evil Army - Evil Army
+* Fire Ants - Stripped
+* Frank Zappa - Weasels Ripped My Flesh
+* Frank Zappa - Just Another Band from L.A.
+* Frank Zappa - Studio Tan
+* Frank Zappa - The Man From Utopia
+* Frank Zappa - Halloween 81 (full)
 * Funeral Diner - The Underdark
 * (Pierre Moerlen's) Gong - Downwind
 * (Pierre Moerlen's) Gong - Time Is The Key
@@ -41,9 +49,12 @@
 * Jamiroquai - Rock Dust Light Star
 * Jerry Garcia - Pizza Tapes
 * John Frusciante - The Empyrean
+* Joseph - Stone Age Man
 * King Gizzard & The Lizard Wizard - Omnium Gatherum
 * King Gizzard & The Lizard Wizard - PetroDraconic Apocalypse
 * Love Battery - Dayglo
+* Neil Young - Tonight's The Night
+* Neil Young - Barn
 * Osanna - Landscape Of Life
 * Osanna - Suddance
 * Paco De Lucia - Fuente Y Caudal
@@ -53,6 +64,9 @@
 * Paradox - Heresy
 * Paradox - Product Of Imagination
 * Peter, Paul & Mary - Late Again
+* Quicksilver Messenger Service - Quicksilver Messenger Service
+* Quicksilver Messenger Service - Shady Grove
+* Quicksilver Messenger Service - Solid Silver
 * Renaissance - Prologue
 * Renaissance - Ashes Are Burning
 * Renaissance - Turn Of The Cards
@@ -76,6 +90,10 @@
 * Tommy Guerrero - No Man's Land
 * Tommy Guerrero - Road To Nowhere
 * The Trials Of Cato - Hide And Hair
+* Van Morrison - Tupelo Honey
+* Van Morrison - Hard Nose The Highway
+* Van Morrison - Veedon Fleece
+* Van Morrison - Common One
 * Whiplash - Power And Pain
 * Wolfbrigade - Run With The Hunted
 
@@ -100,8 +118,11 @@
 * Keep Of Kalessin - Armada
 * Keep Of Kalessin - Kolossus
 * Nero Di Marte - Immoto
-* Plini - Les albums
-* Razor - Violent Restitution (livraison)
+* Plini - Handmade Cities
+* Plini - Impulse Voices
+* Plini - Sunhead
+* Plini - Mirage
+* Razor - Violent Restitution
 * Sacrilege - Behind The Realms Of Madness
 * Skeletonwitch - Forever Abomination
 * Skeletonwitch - Serpents Unleashed
@@ -136,13 +157,10 @@
 
 ## Punk / Grunge
 
-* 10 Minute Warning - 10 Minute Warning
-* Chemistry Set - The Incomplete Fabulous Stinking
 * Didier Super - La Merde Des Autres
 * Failure - Fantastic Planet
 * Fantomes - It's OK
 * Fiend Without A Face - Fiend Without A Face II
-* Fire Ants - Stripped
 * Fugazi - 13 Songs
 * Fugazi - End Hits
 * Meat Puppets - Up On The Sun
@@ -167,7 +185,6 @@
 * Bask - Bask III
 * Black Bonzo - Sound Of The Apocalypse
 * Bull Angus - Bull Angus
-* Country Joe & The Fish - I Feel Like I'm Fixin' To Die
 * David Crosby - If I Could Only Remember My Name
 * Diaouled Ar Menez - Les 3 albums
 * Fleetwood Mac - Future Games
@@ -181,7 +198,6 @@
 * Grand Funk Railroad - Born To Die
 * The Hollies - Butterfly
 * José Gonzalez - Veneer
-* Joseph - Stone Age Man
 * Hermanos Gutiérrez - 8 Años
 * King Gizzard & The Lizard Wizard - Quarters!
 * King Gizzard & The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava
@@ -199,19 +215,11 @@
 * Michael Chapman - Rainmaker
 * Montrose - Montrose
 * Montrose - Paper Money
-* Neil Young - Tonight's The Night
-* Neil Young - Barn
-* Quicksilver Messenger Service - Quicksilver Messenger Service
-* Quicksilver Messenger Service - Shady Grove
-* Quicksilver Messenger Service - Solid Silver
-* Rodrigez - Tous les albums
+* Rodrigez - Cold Fact
+* Rodrigez - Coming From Reality
 * Sky King - Secret Sauce
 * Tri Yann - An Heol A Zo Glaz
 * UFO - Phenomenon
-* Van Morrison - Tupelo Honey
-* Van Morrison - Hard Nose The Highway
-* Van Morrison - Veedon Fleece
-* Van Morrison - Common One
 * The Who - A Quick One
 * The Who - Quadrophenia
 * Wishful Thinking - Hiroshima
@@ -221,31 +229,39 @@
 * GZA - Words From The Genius
 * Joe Bada$$ - All-Amerikkkan Bada$$
 
-## Reggae / Soul / Latino / Afrobeat / Jazz / Funk
+## Reggae / Soul / Latino / Afrobeat / Funk
 
 * The Abyssinians - Satta Massagana
-* Batsumi - Batsumi
-* Batsumi - Moving Along
-* Calvin Keys - Full Court Press
+* Batsumi - Batsumi (afrobeat)
+* Batsumi - Moving Along (afrobeat)
 * Carlton And The Shoes - Love Me Forever
 * Cedric Brooks - United Africa
 * The Congos - Congo Ashanti
 * Dr. Alimantado - Kings Bread
 * Freddie McGregor - Bobby Bobylon
+* Funkadelic - Funkadelic
+* Funkadelic - Free Your Mind
+* Funkadelic - Maggot Brain
 * Funkadelic - Cosmic Slop
-* Funkadelic - more albums?
-* Gabor Szabo - Magical Connection
-* George Duke - Faces In Reflection
-* George Duke - Guardian Of The Light
+* Funkadelic - Hardcore Jollies
+* Funkadelic - Tales Of Kidd Funkadelic
+* Funkadelic - One Nation Under A Groove
 * Incognito - Jazz Funk
-* John Klemmer - Touch
 * Osibisa - Heads
 * Peter Tosh - Equal Rights
-* Sacbé - Sacbé
 * Sergent Garcia - Un Poquito Quema'o
 * Third World - Third World
 * Third World - 96° In The Shade
 * Vaudou Game - Vaudo Game
+
+## Jazz
+
+* Calvin Keys - Full Court Press
+* Gabor Szabo - Magical Connection
+* George Duke - Faces In Reflection
+* George Duke - Guardian Of The Light
+* John Klemmer - Touch
+* Sacbé - Sacbé
 
 ## Prog
 
@@ -466,9 +482,10 @@
 * Pat Metheny - What's It All About
 * Pentagram - Day Of Reckoning
 * Phoenix - It's Never Been Like That
-* Red Hot Chili Peppers - Unlimited Love
 * Ruby My Dear - Remains Of Shapes To Come
 * Snarky Puppy - The World Is Getting Smaller
+* Snarky Puppy - The Only Constant
+* Snarky Puppy - We Like It Here
 * T. Rex - My People Were Fair And Had Sky In Their Hair... But Now They're Content To Wear Stars On Their Brows
 * T. Rex - Prophets, Seers & Sages The Angel Of The Ages
 * T. Rex - A Beard Of Stars
@@ -477,7 +494,6 @@
 * Talk Talk - Laughing Stock
 * The Cure - Seventeen Seconds
 * The Cure - Faith
-* Thin Lizzy - Vagabonds Of The Western World
 * Total Eclipse - Access Denied
 * Townes Van Zandt - Townes Van Zandt
 * Trouble - Psalm 9
@@ -487,8 +503,6 @@
 * The Guess Who - American Woman
 * The Guess Who - Share The Land
 * Rob Zombie - Hellbilly Deluxe
-* Snarky Puppy - The Only Constant
-* Snarky Puppy - We Like It Here
 * Ulsect - Ulsect
 * Vulfpeck - Mit Peck
 * Vulfpeck - Vollmilch
