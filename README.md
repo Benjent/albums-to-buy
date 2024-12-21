@@ -18,6 +18,8 @@
 * Bastardator - Identify The Dead
 * Blood Circus - The Sub Pop Recordings (Primal Rock Therapy)
 * Castle Rat - Into The Realm
+* Circus - Circus
+* Circus - Movin' On
 * Crucis - Crucis
 * Crucis - Los Delirios Del Mariscal
 * Cymande - Cymande
@@ -248,6 +250,7 @@
 ## Prog
 
 * Abstract Truth - Totum
+* Ada Le Fol - Les Années d'Errance
 * Agharta - Agharta (iso Black Market Weather Report)
 * Alain Markusfeld - Le Désert Noir
 * Albert Marcœur - Armes & Cycles
@@ -455,6 +458,7 @@
 * Lord Dying - Poisoned Altars
 * Lucifer - Lucifer III
 * M - Le Baptême
+* Material - Seven Souls (electro dub)
 * Mild Orange - Foreplay
 * Mild Orange - Mild Orange
 * MGMT - Oracular Spectacular
