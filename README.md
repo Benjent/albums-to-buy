@@ -16,7 +16,6 @@
 * Blasteroid - Tous les albums
 * Baroness - First + Second
 * Bastardator - Identify The Dead
-* Bell Witch - Mirror Reaper (livraison)
 * Blood Circus - The Sub Pop Recordings (Primal Rock Therapy)
 * Castle Rat - Into The Realm
 * Crucis - Crucis
@@ -24,19 +23,16 @@
 * Cymande - Cymande
 * Cymande - Second Time Around
 * Cymande - Promised Heights
-* Death - Spiritual Healing (livraison)
 * Dissimulator - Lower Form Resistance
 * Droid - Terrestrial Mutations
 * Dr. Dopo Jam - Entrée
 * Dr. Dopo Jam - Fat Dogs & Danishmen
 * Dr. Z - Three Parts To My Soul
 * Evil Army - Evil Army
-* E-Z Rollers - Weekend World (livraison)
 * Funeral Diner - The Underdark
 * (Pierre Moerlen's) Gong - Downwind
 * (Pierre Moerlen's) Gong - Time Is The Key
 * (Pierre Moerlen's) Gong - Leave It Open
-* Grooverider - Mysteries Of Funk (livraison)
 * Herb Ellis & Romeo Palmier - Windflower
 * Hüsker Dü - Zen Arcade
 * Igorrr - Poisson Soluble
@@ -46,7 +42,6 @@
 * King Gizzard & The Lizard Wizard - Omnium Gatherum
 * King Gizzard & The Lizard Wizard - PetroDraconic Apocalypse
 * Love Battery - Dayglo
-* Nancy Sinatra - How Does That Grab You? (livraison)
 * Osanna - Landscape Of Life
 * Osanna - Suddance
 * Paco De Lucia - Fuente Y Caudal
@@ -65,7 +60,7 @@
 * Rollins Band - The End Of Silence
 * Rollins Band - Weight
 * Roméo Elvis - Morale
-* Roni Size & Reprazent - New Forms
+* Roni Size & Reprazent - New Forms (CD défectueux, renvoyer)
 * Room - Pre-Flight
 * Saint Vitus - Born Too Late
 * Skin Yard - Skin Yard
@@ -97,7 +92,6 @@
 * Droÿs - And If...
 * Fractal Universe - Engram Of Decline
 * Ghost - Imperia
-* Gorgoroth - Ad Majorem Sathanas Gloriam (livraison)
 * Hellish Crossfire - Slaves Of The Burning Pentagram
 * Inter Arma - The Cavern
 * Inter Arma - Paradise Gallows
@@ -105,7 +99,6 @@
 * Keep Of Kalessin - Kolossus
 * Nero Di Marte - Immoto
 * Plini - Les albums
-* Protector - A Shedding Of Skin (livraison)
 * Razor - Violent Restitution (livraison)
 * Sacrilege - Behind The Realms Of Madness
 * Skeletonwitch - Forever Abomination
@@ -115,8 +108,6 @@
 * Tempel - The Moon Lit Our Path
 * Tool - Fear Inoculum
 * Turbid North - Eyes Alive
-* Venomous Concept - Politics Versus The Erection (livraison)
-* Vexovoid - Call Of The Starforger (livraison)
 * Voivod - Target Earth
 * Warbringer - Empires Collapse
 * Xentrix - Shattered Existence
@@ -306,7 +297,6 @@
 * ELO - Secret Messages
 * Eloy - Time To Turn
 * Emergency - Entrance
-* Ex Vitae - Mandarine (livraison)
 * Flo & Eddie - The Phlorescent Leech & Eddie
 * First Aid - Nostradamus
 * Franco Leprino - Integrati... Disintegrati
