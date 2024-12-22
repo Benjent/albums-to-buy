@@ -315,6 +315,8 @@
 * Curved Air - Phantasmagoria
 * Didier Bonin - L'arbre Verre
 * Duello Madre - Duello Madre
+* Ekseption - Bingo!
+* Ekseption - Mindmirror
 * ELO - Secret Messages
 * Eloy - Time To Turn
 * Emergency - Entrance
