@@ -53,6 +53,8 @@
 * King Gizzard & The Lizard Wizard - Omnium Gatherum
 * King Gizzard & The Lizard Wizard - PetroDraconic Apocalypse
 * Love Battery - Dayglo
+* Mercyful Fate - Don't Break The Oath
+* Mercyful Fate - Melissa
 * Neil Young - Tonight's The Night
 * Neil Young - Barn
 * Osanna - Landscape Of Life
