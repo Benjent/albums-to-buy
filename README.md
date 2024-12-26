@@ -47,6 +47,7 @@
 * Hüsker Dü - Zen Arcade
 * Igorrr - Poisson Soluble
 * Jamiroquai - Rock Dust Light Star
+* Jimi Hendrix - Both Sides Of The Skies
 * Jerry Garcia - Pizza Tapes
 * John Frusciante - The Empyrean
 * Joseph - Stone Age Man
