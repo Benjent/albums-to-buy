@@ -107,6 +107,7 @@
 * Black Fast - Spectre Of Ruin
 * Chat Pile - God's Country
 * Cynic - Uroboric Forms (Demo Recordings)
+* Daeva - Through Sheer Will And Black Magic...
 * Death - Leprosy
 * Deviant Process - Nurture
 * Deviant Process - Paroxysm
@@ -121,6 +122,7 @@
 * Keep Of Kalessin - Armada
 * Keep Of Kalessin - Kolossus
 * Nero Di Marte - Immoto
+* Paranorm - Empyrean
 * Plini - Handmade Cities
 * Plini - Impulse Voices
 * Plini - Sunhead
@@ -137,6 +139,7 @@
 * Voivod - Target Earth
 * Warbringer - Empires Collapse
 * Xentrix - Shattered Existence
+* Xoth - Invasion Of The Tentacube
 
 ## Stoner / Stoner Doom
 
