@@ -57,6 +57,7 @@
 * Mercyful Fate - Don't Break The Oath
 * Mercyful Fate - Melissa
 * Neil Young - Tonight's The Night
+* Neil Young - Re-ac-tor
 * Neil Young - Barn
 * Osanna - Landscape Of Life
 * Osanna - Suddance
