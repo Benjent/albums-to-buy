@@ -27,6 +27,7 @@
 * Cymande - Cymande
 * Cymande - Second Time Around
 * Cymande - Promised Heights
+* Deep Purple - The House Of Blue Light
 * Dissimulator - Lower Form Resistance
 * Droid - Terrestrial Mutations
 * Dr. Dopo Jam - Entrée
@@ -98,6 +99,7 @@
 * Van Morrison - Hard Nose The Highway
 * Van Morrison - Veedon Fleece
 * Van Morrison - Common One
+* Vorbid - A Swan By The Edge Of Mandala
 * Whiplash - Power And Pain
 * Wolfbrigade - Run With The Hunted
 
@@ -134,7 +136,6 @@
 * Skeletonwitch - Serpents Unleashed
 * Sodom - Agent Orange
 * Tempel - On The Steps Of The Temple
-* Tempel - The Moon Lit Our Path
 * Tool - Fear Inoculum
 * Turbid North - Eyes Alive
 * Voivod - Target Earth
@@ -170,6 +171,7 @@
 * Fiend Without A Face - Fiend Without A Face II
 * Fugazi - 13 Songs
 * Fugazi - End Hits
+* Fugazi - (Tout sauf red medicine et the argument)
 * Meat Puppets - Up On The Sun
 * My Sister's Machine - Diva
 * New Model Army - No Rest For The Wicked
