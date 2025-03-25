@@ -52,11 +52,16 @@
 * Jerry Garcia - Pizza Tapes
 * John Frusciante - The Empyrean
 * Joseph - Stone Age Man
+* King Crimson - Larks' Tongues In Aspic
+* King Crimson - Discipline
+* King Crimson - The Power To Believe
 * King Gizzard & The Lizard Wizard - Omnium Gatherum
 * King Gizzard & The Lizard Wizard - PetroDraconic Apocalypse
 * Love Battery - Dayglo
 * Mercyful Fate - Don't Break The Oath
 * Mercyful Fate - Melissa
+* Motörhead - Bastards
+* Motörhead - Aftershock
 * Neil Young - Tonight's The Night
 * Neil Young - Re-ac-tor
 * Neil Young - Barn
