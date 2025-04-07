@@ -5,8 +5,11 @@
 * 10 Minute Warning - 10 Minute Warning (Grunge sub pop)
 * Aspid - Extravasation
 * Agitation Free - 2nd
+* Baroness - First + Second
+* Bastardator - Identify The Dead
 * Biga Ranx - 1988
 * Biga Ranx - St. Soleil
+* Black Sabbath - Born Again
 * Black Sabbath - remastered 2024 (Headless Cross)
 * Black Sabbath - remastered 2024 (Cross Purposes)
 * Black Sabbath - remastered 2024 (Tyr)
@@ -14,9 +17,13 @@
 * Black Fast - Starving Out The Light
 * Blasteroid - Crypts Of Mind
 * Blasteroid - Universal Knowledge (EP)
-* Baroness - First + Second
-* Bastardator - Identify The Dead
 * Blood Circus - The Sub Pop Recordings (Primal Rock Therapy)
+* Brian Auger's Oblivion Express - A Better Land
+* Brian Auger's Oblivion Express - Second Wind
+* Brian Auger's Oblivion Express - Closer To It!
+* Brian Auger's Oblivion Express - Straight Ahead
+* Brian Auger's Oblivion Express - Reinforcements
+* Brian Auger's Oblivion Express - Happiness Heartaches
 * Castle Rat - Into The Realm
 * Chemistry Set - The Incomplete Fabulous Stinking
 * Circus - Circus
@@ -57,13 +64,13 @@
 * King Crimson - The Power To Believe
 * King Gizzard & The Lizard Wizard - Omnium Gatherum
 * King Gizzard & The Lizard Wizard - PetroDraconic Apocalypse
+* Kingstone Wall - I
+* Kingstone Wall - II
 * Love Battery - Dayglo
 * Mercyful Fate - Don't Break The Oath
 * Mercyful Fate - Melissa
 * Motörhead - Bastards
 * Motörhead - Aftershock
-* Neil Young - Tonight's The Night
-* Neil Young - Re-ac-tor
 * Neil Young - Barn
 * Osanna - Landscape Of Life
 * Osanna - Suddance
@@ -158,7 +165,6 @@
 * Dozer - Madre De Dios
 * Dwellers - Pagan Fruit
 * Earth - Hex
-* Elder - Gold & Silver Sessions
 * Electric Moon - Stardust Rituals
 * Elephant Tree - Elephant Tree
 * Orange Goblin - Frequencies From Planet Ten
@@ -196,14 +202,11 @@
 * Agincourt - Fly Away
 * Alan Stivell - Un Dewezh 'Barzh 'Gêr
 * BB Blunder - Workers' Playtime
-* Bask - Bask III
 * Black Bonzo - Sound Of The Apocalypse
 * Bull Angus - Bull Angus
 * David Crosby - If I Could Only Remember My Name
 * Diaouled Ar Menez - Les 3 albums
 * Fleetwood Mac - Future Games
-* Fleuves - Fleuves
-* Fleuves - #2
 * George Harrison - All Things Must Pass
 * Grand Funk Railroad - E Pluribus Funk
 * Grand Funk Railroad - We're An American Band
@@ -216,8 +219,7 @@
 * King Gizzard & The Lizard Wizard - Quarters!
 * King Gizzard & The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava
 * King Gizzard & The Lizard Wizard - Changes
-* Kingstone Wall - I
-* Kingstone Wall - II
+* Lhasa - La llorona
 * Lutha - Earth
 * Malicorne - Almanach
 * Malicorne - Chanteurs De Sornettes
@@ -309,12 +311,6 @@
 * Brand X - Unorthodox Behavior
 * Brand X - Morrocan Roll
 * Brand X - Masques
-* Brian Auger's Oblivion Express - A Better Land
-* Brian Auger's Oblivion Express - Second Wind
-* Brian Auger's Oblivion Express - Closer To It!
-* Brian Auger's Oblivion Express - Straight Ahead
-* Brian Auger's Oblivion Express - Reinforcements
-* Brian Auger's Oblivion Express - Happiness Heartaches
 * Búsqueda - Búsqueda
 * Carsten Bohn's Bandstand - Mother Goose Shoes
 * Colosseum II - Strange New Flesh
@@ -395,7 +391,6 @@
 * Mona Lisa - Le Petit Violon De Mr. Grégoire
 * Mona Lisa - Avant Qu'il Ne Soit Trop Tard
 * Moving Gelatine Plates - Moving Gelatine Plates
-* Moving Gelatine Plates - The World Of Genius Hans (livraison)
 * Nektar - A Tab In The Ocean
 * Nektar - Remember The Future
 * Nektar - Down To Earth
