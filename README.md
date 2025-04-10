@@ -477,6 +477,9 @@
 * Herb Ellis & Red Mitchell - Doggin' Around
 * Herbie Hancock - The Prisoner
 * Herbie Hancock - Secrets
+* Herbie Hancock - Man-Child
+* Herbie Hancock - Crossings
+* Herbie Hancock - Mwandishi
 * Japan - Gentlemen Take Polaroids
 * KC & The Sunshine Band - KC & The Sunshine Band
 * Khruangbin - Con Todo El Mundo
