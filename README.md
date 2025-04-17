@@ -5,6 +5,7 @@
 * 10 Minute Warning - 10 Minute Warning (Grunge sub pop)
 * Aspid - Extravasation
 * Agitation Free - 2nd
+* Autonoesis - Moon Of Foul Magics
 * Baroness - First + Second
 * Bastardator - Identify The Dead
 * Biga Ranx - 1988
@@ -24,6 +25,7 @@
 * Brian Auger's Oblivion Express - Straight Ahead
 * Brian Auger's Oblivion Express - Reinforcements
 * Brian Auger's Oblivion Express - Happiness Heartaches
+* Budgie - (albums)
 * Castle Rat - Into The Realm
 * Chemistry Set - The Incomplete Fabulous Stinking
 * Circus - Circus
@@ -69,6 +71,7 @@
 * Love Battery - Dayglo
 * Mercyful Fate - Don't Break The Oath
 * Mercyful Fate - Melissa
+* Monolord - Rust
 * Motörhead - Bastards
 * Motörhead - Aftershock
 * Neil Young - Barn
@@ -421,6 +424,7 @@
 * Sheshet (Shem Tom Levi) - Sheshet
 * Sloche - J'un Oeil
 * Sloche - Stadaconé
+* Soft Machine - Volume Two
 * Solaris - Marsbéli Krónikák
 * Stefano Testa - Una Vita, Una Balena Bianca E Altre Cose
 * Steve Hackett - Voyage Of The Acolyte
