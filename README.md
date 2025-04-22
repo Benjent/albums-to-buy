@@ -425,6 +425,9 @@
 * Sloche - J'un Oeil
 * Sloche - Stadaconé
 * Soft Machine - Volume Two
+* Soft Machine - Fifth
+* Soft Machine - Seven
+* Soft Machine - Bundles
 * Solaris - Marsbéli Krónikák
 * Stefano Testa - Una Vita, Una Balena Bianca E Altre Cose
 * Steve Hackett - Voyage Of The Acolyte
