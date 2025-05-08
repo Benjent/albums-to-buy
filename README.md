@@ -11,10 +11,6 @@
 * Biga Ranx - 1988
 * Biga Ranx - St. Soleil
 * Black Sabbath - Born Again
-* Black Sabbath - remastered 2024 (Headless Cross)
-* Black Sabbath - remastered 2024 (Cross Purposes)
-* Black Sabbath - remastered 2024 (Tyr)
-* Black Sabbath - remastered 2024 (Forbidden)
 * Black Fast - Starving Out The Light
 * Blasteroid - Crypts Of Mind
 * Blasteroid - Universal Knowledge (EP)
@@ -170,6 +166,9 @@
 * Earth - Hex
 * Electric Moon - Stardust Rituals
 * Elephant Tree - Elephant Tree
+* Lucifer - Lucifer I
+* Lucifer - Lucifer II
+* Lucifer - Lucifer III
 * Orange Goblin - Frequencies From Planet Ten
 * Orange Goblin - Time Travelling Blues
 * Orange Goblin - The Big Black
@@ -331,6 +330,7 @@
 * ELO - Secret Messages
 * Eloy - Time To Turn
 * Emergency - Entrance
+* Etna - Etna
 * Flo & Eddie - The Phlorescent Leech & Eddie
 * First Aid - Nostradamus
 * Franco Leprino - Integrati... Disintegrati
