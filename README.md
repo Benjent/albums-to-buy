@@ -11,6 +11,8 @@
 * Biga Ranx - 1988
 * Biga Ranx - St. Soleil
 * Black Sabbath - Born Again
+* Black Sabbath - Seventh Star
+* Black Sabbath - Eternal Idol
 * Black Fast - Starving Out The Light
 * Blasteroid - Crypts Of Mind
 * Blasteroid - Universal Knowledge (EP)
@@ -467,7 +469,6 @@
 * Beardfish - The Sane Day
 * Ben Harper - The Will To Live
 * Big Business - The Beast You Are
-* Black Sabbath - Seventh Star
 * Borislav Mitic - Borislav Mitic
 * Buffalo Springfield - Intégrale (ou S/T)
 * Cat Stevens - Numbers
