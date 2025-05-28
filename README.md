@@ -48,6 +48,7 @@
 * Frank Zappa - The Man From Utopia
 * Frank Zappa - Halloween 81 (full)
 * Funeral Diner - The Underdark
+* Paramore - This Is Why
 * (Pierre Moerlen's) Gong - Downwind
 * (Pierre Moerlen's) Gong - Time Is The Key
 * (Pierre Moerlen's) Gong - Leave It Open
@@ -60,8 +61,6 @@
 * John Frusciante - The Empyrean
 * Joseph - Stone Age Man
 * King Crimson - Larks' Tongues In Aspic
-* King Crimson - Discipline
-* King Crimson - The Power To Believe
 * King Gizzard & The Lizard Wizard - Omnium Gatherum
 * King Gizzard & The Lizard Wizard - PetroDraconic Apocalypse
 * Kingstone Wall - I
@@ -72,7 +71,8 @@
 * Monolord - Rust
 * Motörhead - Bastards
 * Motörhead - Aftershock
-* Neil Young - Barn
+* Neil Young - Time Fades Away
+* Neil Young - Live At Massey Hall 1971
 * Osanna - Landscape Of Life
 * Osanna - Suddance
 * Paco De Lucia - Fuente Y Caudal
@@ -247,7 +247,7 @@
 ## Rap
 
 * GZA - Words From The Genius
-* Joe Bada$$ - All-Amerikkkan Bada$$
+* Joey Bada$$ - All-Amerikkkan Bada$$
 
 ## Reggae / Soul / Latino / Afrobeat / Funk
 
