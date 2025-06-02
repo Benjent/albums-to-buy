@@ -28,7 +28,6 @@
 * Chemistry Set - The Incomplete Fabulous Stinking
 * Circus - Circus
 * Circus - Movin' On
-* Country Joe & The Fish - I Feel Like I'm Fixin' To Die
 * Crucis - Crucis
 * Crucis - Los Delirios Del Mariscal
 * Cymande - Cymande
@@ -94,7 +93,6 @@
 * Rollins Band - The End Of Silence
 * Rollins Band - Weight
 * Roméo Elvis - Morale
-* Roni Size & Reprazent - New Forms (CD défectueux, renvoyer)
 * Room - Pre-Flight
 * Saint Vitus - Born Too Late
 * Skin Yard - Skin Yard
