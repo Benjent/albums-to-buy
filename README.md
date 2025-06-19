@@ -143,6 +143,7 @@
 * Plini - Mirage
 * Razor - Violent Restitution
 * Sacrilege - Behind The Realms Of Madness
+* Sepultura - Chaos A.D.
 * Skeletonwitch - Forever Abomination
 * Skeletonwitch - Serpents Unleashed
 * Sodom - Agent Orange
@@ -488,6 +489,7 @@
 * Herbie Hancock - Mwandishi
 * Japan - Gentlemen Take Polaroids
 * KC & The Sunshine Band - KC & The Sunshine Band
+* Kendrick Lamar - DAMN.
 * Khruangbin - Con Todo El Mundo
 * Intervals - The Shape Of Colour
 * Jimmy Cliff - Brave Warrior
