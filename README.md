@@ -64,6 +64,7 @@
 * King Gizzard & The Lizard Wizard - PetroDraconic Apocalypse
 * Kingstone Wall - I
 * Kingstone Wall - II
+* Lauryn Hill - The Miseducation Of Lauryn Hill
 * Love Battery - Dayglo
 * Mercyful Fate - Don't Break The Oath
 * Mercyful Fate - Melissa
@@ -246,7 +247,6 @@
 ## Rap
 
 * GZA - Words From The Genius
-* Joey Bada$$ - All-Amerikkkan Bada$$
 
 ## Reggae / Soul / Latino / Afrobeat / Funk
 
