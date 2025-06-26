@@ -96,6 +96,8 @@
 * Roméo Elvis - Morale
 * Room - Pre-Flight
 * Saint Vitus - Born Too Late
+* Sepultura - Arise
+* Sepultura - Chaos A.D.
 * Skin Yard - Skin Yard
 * Skin Yard - Hallowed Ground
 * Skinshape - Oraccolo
@@ -144,7 +146,6 @@
 * Plini - Mirage
 * Razor - Violent Restitution
 * Sacrilege - Behind The Realms Of Madness
-* Sepultura - Chaos A.D.
 * Skeletonwitch - Forever Abomination
 * Skeletonwitch - Serpents Unleashed
 * Sodom - Agent Orange
