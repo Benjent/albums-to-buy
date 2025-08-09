@@ -10,7 +10,6 @@
 * Bastardator - Identify The Dead
 * Biga Ranx - 1988
 * Biga Ranx - St. Soleil
-* Black Sabbath - Born Again
 * Black Sabbath - Seventh Star
 * Black Sabbath - Eternal Idol
 * Black Fast - Starving Out The Light
