@@ -288,7 +288,6 @@
 * Ada Le Fol - Les Années d'Errance
 * Agharta - Agharta (iso Black Market Weather Report)
 * Alain Markusfeld - Le Désert Noir
-* Albert Marcœur - Armes & Cycles
 * Alpha Centauri (parfois écrit avec un Y) - Alpha Centauri (parfois écrit avec un Y)
 * Alphataurus - Alphataurus
 * Ambrosia - Ambrosia
@@ -414,6 +413,8 @@
 * Prudence - Tomorrow May Be Vanished
 * Prudence - Drunk And Happy
 * Public Foot The Roman - Public Foot The Roman
+* Ragnarök - Ragnarök
+* Ragnarök - Fjärilar I Magen
 * Ramases - Space Hymns
 * Ramases - Glass Top Coffin
 * Rick Wakeman - The Six Wives Of Henry VIII
