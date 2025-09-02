@@ -84,6 +84,7 @@
 * Quicksilver Messenger Service - Quicksilver Messenger Service
 * Quicksilver Messenger Service - Shady Grove
 * Quicksilver Messenger Service - Solid Silver
+* Radio Moscow - Magical Dirt
 * Renaissance - Prologue
 * Renaissance - Ashes Are Burning
 * Renaissance - Turn Of The Cards
@@ -138,6 +139,8 @@
 * Keep Of Kalessin - Armada
 * Keep Of Kalessin - Kolossus
 * Nero Di Marte - Immoto
+* Ozzy Osbourne - Blizzard Of Ozz
+* Ozzy Osbourne - Diary Of A Madman
 * Paranorm - Empyrean
 * Plini - Handmade Cities
 * Plini - Impulse Voices
