@@ -97,7 +97,6 @@
 * Room - Pre-Flight
 * Saint Vitus - Born Too Late
 * Sepultura - Arise
-* Sepultura - Chaos A.D.
 * Skin Yard - Skin Yard
 * Skin Yard - Hallowed Ground
 * Skinshape - Oraccolo
