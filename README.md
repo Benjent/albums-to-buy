@@ -11,7 +11,6 @@
 * Biga Ranx - 1988
 * Biga Ranx - St. Soleil
 * Black Sabbath - Seventh Star
-* Black Sabbath - Eternal Idol
 * Black Fast - Starving Out The Light
 * Blasteroid - Crypts Of Mind
 * Blasteroid - Universal Knowledge (EP)
@@ -22,16 +21,17 @@
 * Brian Auger's Oblivion Express - Straight Ahead
 * Brian Auger's Oblivion Express - Reinforcements
 * Brian Auger's Oblivion Express - Happiness Heartaches
-* Budgie - (albums)
+* Budgie - If I Were Brittania I'd Waive The Rules
+* Budgie - Impeckable
 * Castle Rat - Into The Realm
 * Chemistry Set - The Incomplete Fabulous Stinking
 * Circus - Circus
 * Circus - Movin' On
 * Crucis - Crucis
 * Crucis - Los Delirios Del Mariscal
-* Cymande - Cymande
-* Cymande - Second Time Around
-* Cymande - Promised Heights
+* Cymande - Cymande (livraison)
+* Cymande - Second Time Around (livraison)
+* Cymande - Promised Heights (livraison)
 * Deep Purple - The House Of Blue Light
 * Dissimulator - Lower Form Resistance
 * Droid - Terrestrial Mutations
@@ -39,6 +39,7 @@
 * Dr. Dopo Jam - Fat Dogs & Danishmen
 * Dr. Z - Three Parts To My Soul
 * Evil Army - Evil Army
+* Fontaines D.C. - A Hero's Death
 * Fire Ants - Stripped
 * Frank Zappa - Weasels Ripped My Flesh
 * Frank Zappa - Just Another Band from L.A.
@@ -46,7 +47,6 @@
 * Frank Zappa - The Man From Utopia
 * Frank Zappa - Halloween 81 (full)
 * Funeral Diner - The Underdark
-* Paramore - This Is Why
 * (Pierre Moerlen's) Gong - Downwind
 * (Pierre Moerlen's) Gong - Time Is The Key
 * (Pierre Moerlen's) Gong - Leave It Open
@@ -63,7 +63,6 @@
 * King Gizzard & The Lizard Wizard - PetroDraconic Apocalypse
 * Kingstone Wall - I
 * Kingstone Wall - II
-* Lauryn Hill - The Miseducation Of Lauryn Hill
 * Love Battery - Dayglo
 * Mercyful Fate - Don't Break The Oath
 * Mercyful Fate - Melissa
@@ -96,7 +95,6 @@
 * Roméo Elvis - Morale
 * Room - Pre-Flight
 * Saint Vitus - Born Too Late
-* Sepultura - Arise
 * Skin Yard - Skin Yard
 * Skin Yard - Hallowed Ground
 * Skinshape - Oraccolo
@@ -104,7 +102,7 @@
 * Solstice - Pray
 * Steel Pulse - Caught You
 * Step Ahead - Step Ahead
-* Tank - Filth Hounds Of Hades
+* Tank - Filth Hounds Of Hades (livraison)
 * Tommy Guerrero - No Man's Land
 * Tommy Guerrero - Road To Nowhere
 * The Trials Of Cato - Hide And Hair
@@ -120,26 +118,18 @@
 
 * Abraham - The Serpent, The Prophet & The Whore
 * Beardfish - The Void
-* Black Fast - Spectre Of Ruin
+* Black Fast - Spectre Of Ruin (livraison)
 * Chat Pile - God's Country
 * Cynic - Uroboric Forms (Demo Recordings)
 * Daeva - Through Sheer Will And Black Magic...
-* Death - Leprosy
 * Deviant Process - Nurture
 * Deviant Process - Paroxysm
-* Dreadnought - Bridging Realms
-* Dreadnought - A Wake In Sacred Waves
-* Droÿs - And If...
-* Fractal Universe - Engram Of Decline
 * Ghost - Imperia
 * Hellish Crossfire - Slaves Of The Burning Pentagram
 * Inter Arma - The Cavern
 * Inter Arma - Paradise Gallows
 * Keep Of Kalessin - Armada
 * Keep Of Kalessin - Kolossus
-* Nero Di Marte - Immoto
-* Ozzy Osbourne - Blizzard Of Ozz
-* Ozzy Osbourne - Diary Of A Madman
 * Paranorm - Empyrean
 * Plini - Handmade Cities
 * Plini - Impulse Voices
@@ -161,8 +151,6 @@
 ## Stoner / Stoner Doom
 
 * 1886 - Before The Fog Covers The Mount
-* All Them Witches - ATW
-* All Them Witches - Nothing As The Ideal
 * Blood Ceremony - The Eldritch Dark
 * Dozer - In The Tail Of A Comet
 * Dozer - Madre De Dios
@@ -177,56 +165,37 @@
 * Orange Goblin - Time Travelling Blues
 * Orange Goblin - The Big Black
 * Purple Hill Witch - Purple Hill Witch
-* Red Fang - Red Fang
-* Weedpecker - Weedpecker II
 
 ## Punk / Grunge
 
 * Didier Super - La Merde Des Autres
 * Failure - Fantastic Planet
-* Fantomes - It's OK
 * Fiend Without A Face - Fiend Without A Face II
 * Fugazi - 13 Songs
+* Fugazi - Repeater
+* Fugazi - Steady Diet On Nothing
+* Fugazi - In On The Kill Taker
 * Fugazi - End Hits
-* Fugazi - (Tout sauf red medicine et the argument)
 * Meat Puppets - Up On The Sun
-* My Sister's Machine - Diva
 * New Model Army - No Rest For The Wicked
 * New Model Army - The Ghost Of Cain
 * NoMeansNo - Wrong
 * The Cramps - A Date With Elvis
 * The Fluid - Purplemetalflakemusic
-* The Gits - Frenching The Bully
+* The Gits - Frenching The Bully (livraison)
 * U2 - October
 * Wipers - Over The Edge
 * X - Under The Big Black Sun
-* Zabriskie Point - Fantôme
-* Zabriskie Point - Paul
 
-## Rock / Folk
+## Folk
 
 * Agincourt - Fly Away
 * Alan Stivell - Un Dewezh 'Barzh 'Gêr
-* BB Blunder - Workers' Playtime
-* Black Bonzo - Sound Of The Apocalypse
-* Bull Angus - Bull Angus
 * David Crosby - If I Could Only Remember My Name
 * Diaouled Ar Menez - Les 3 albums
-* Fleetwood Mac - Future Games
-* George Harrison - All Things Must Pass
-* Grand Funk Railroad - E Pluribus Funk
-* Grand Funk Railroad - We're An American Band
-* Grand Funk Railroad - Shinin' On
-* Grand Funk Railroad - All The Girls In The World Beware!!!
-* Grand Funk Railroad - Born To Die
-* The Hollies - Butterfly
 * José Gonzalez - Veneer
 * Hermanos Gutiérrez - 8 Años
-* King Gizzard & The Lizard Wizard - Quarters!
-* King Gizzard & The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava
-* King Gizzard & The Lizard Wizard - Changes
 * Lhasa - La llorona
-* Lutha - Earth
 * Malicorne - Almanach
 * Malicorne - Chanteurs De Sornettes
 * Maxime Le Forestier - 1 Mon Frère
@@ -234,13 +203,31 @@
 * Maxime Le Forestier - 3 Saltimbanque
 * Maxime Le Forestier - 4 Hymne À Sept Ans
 * Maxime Le Forestier - 5 N°5
+* Rodrigez - Cold Fact
+* Rodrigez - Coming From Reality
+* Tri Yann - An Heol A Zo Glaz
+
+## Rock
+
+* BB Blunder - Workers' Playtime
+* Black Bonzo - Sound Of The Apocalypse
+* Bull Angus - Bull Angus
+* Fleetwood Mac - Future Games
+* George Harrison - All Things Must Pass
+* Golden Earring - Seven Tears
+* Grand Funk Railroad - E Pluribus Funk
+* Grand Funk Railroad - We're An American Band
+* Grand Funk Railroad - Shinin' On
+* Grand Funk Railroad - All The Girls In The World Beware!!!
+* Grand Funk Railroad - Born To Die
+* King Gizzard & The Lizard Wizard - Quarters!
+* King Gizzard & The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava
+* King Gizzard & The Lizard Wizard - Changes
+* Lutha - Earth
 * Michael Chapman - Rainmaker
 * Montrose - Montrose
 * Montrose - Paper Money
-* Rodrigez - Cold Fact
-* Rodrigez - Coming From Reality
 * Sky King - Secret Sauce
-* Tri Yann - An Heol A Zo Glaz
 * UFO - Phenomenon
 * The Who - A Quick One
 * The Who - Quadrophenia
@@ -267,13 +254,10 @@
 * Funkadelic - Hardcore Jollies
 * Funkadelic - Tales Of Kidd Funkadelic
 * Funkadelic - One Nation Under A Groove
-* Incognito - Jazz Funk
 * Osibisa - Heads
 * Peter Tosh - Equal Rights
-* Sergent Garcia - Un Poquito Quema'o
 * Third World - Third World
 * Third World - 96° In The Shade
-* Vaudou Game - Vaudo Game
 
 ## Jazz
 
@@ -470,7 +454,6 @@
 * Annihilator - Set The World On Fire
 * Beardfish - The Sane Day
 * Ben Harper - The Will To Live
-* Big Business - The Beast You Are
 * Borislav Mitic - Borislav Mitic
 * Buffalo Springfield - Intégrale (ou S/T)
 * Cat Stevens - Numbers
@@ -480,38 +463,26 @@
 * Devastation - Idolatry
 * Donovan - Open Road
 * Donovan - Cosmic Wheels
-* Dool - Here Now, There Then
-* Dool - Summerland
+* Dreadnought - Bridging Realms
+* Dreadnought - A Wake In Sacred Waves
 * Emma Ruth Rundle - Marked For Death
-* Fontaines D.C. - A Hero's Death
 * Herb Ellis & Red Mitchell - Doggin' Around
 * Herbie Hancock - The Prisoner
 * Herbie Hancock - Secrets
 * Herbie Hancock - Man-Child
 * Herbie Hancock - Crossings
 * Herbie Hancock - Mwandishi
-* Japan - Gentlemen Take Polaroids
-* KC & The Sunshine Band - KC & The Sunshine Band
-* Kendrick Lamar - DAMN.
-* Khruangbin - Con Todo El Mundo
 * Intervals - The Shape Of Colour
+* Japan - Gentlemen Take Polaroids
 * Jimmy Cliff - Brave Warrior
 * Judas Priest - Sad Wings Of Destiny
 * Judas Priest - Defenders Of The Faith
+* KC & The Sunshine Band - KC & The Sunshine Band
+* Khruangbin - Con Todo El Mundo
 * Lord Dying - Poisoned Altars
-* Lucifer - Lucifer III
-* M - Le Baptême
 * Material - Seven Souls (electro dub)
-* Mild Orange - Foreplay
-* Mild Orange - Mild Orange
-* MGMT - Oracular Spectacular
-* MGMT - Congratulations
-* Pat Metheny - What's It All About
 * Pentagram - Day Of Reckoning
 * Phoenix - It's Never Been Like That
-* Ruby My Dear - Remains Of Shapes To Come
-* Snarky Puppy - The World Is Getting Smaller
-* Snarky Puppy - The Only Constant
 * Snarky Puppy - We Like It Here
 * T. Rex - My People Were Fair And Had Sky In Their Hair... But Now They're Content To Wear Stars On Their Brows
 * T. Rex - Prophets, Seers & Sages The Angel Of The Ages
@@ -522,17 +493,13 @@
 * The Cure - Seventeen Seconds
 * The Cure - Faith
 * Total Eclipse - Access Denied
-* Townes Van Zandt - Townes Van Zandt
 * Trouble - Psalm 9
-* The Black Angels - Passover
 * The Chameleons - Script Of The Bridge
 * The Guess Who - Shakin' All Over
 * The Guess Who - American Woman
 * The Guess Who - Share The Land
 * Rob Zombie - Hellbilly Deluxe
 * Ulsect - Ulsect
-* Vulfpeck - Mit Peck
-* Vulfpeck - Vollmilch
 * Wayne Shorter - Introducing Wayne Shorter
 * Wayne Shorter - Wayning Moments
 * Wayne Shorter - Night Dreamer
@@ -542,7 +509,6 @@
 * Wayne Shorter - Schizophrenia
 * Wellwater Conspiracy - Declaration Of Conformity
 * Wobbler - Rites At Dawn
-* Wretched - Cannibal
 
 ## Buckethead
 
