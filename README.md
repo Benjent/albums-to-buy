@@ -29,9 +29,6 @@
 * Circus - Movin' On
 * Crucis - Crucis
 * Crucis - Los Delirios Del Mariscal
-* Cymande - Cymande (livraison)
-* Cymande - Second Time Around (livraison)
-* Cymande - Promised Heights (livraison)
 * Deep Purple - The House Of Blue Light
 * Dissimulator - Lower Form Resistance
 * Droid - Terrestrial Mutations
@@ -103,6 +100,9 @@
 * Steel Pulse - Caught You
 * Step Ahead - Step Ahead
 * Tank - Filth Hounds Of Hades (livraison)
+* Testament - Demonic
+* Testament - Brotherhood Of The Snake
+* Testament - Para Bellum
 * Tommy Guerrero - No Man's Land
 * Tommy Guerrero - Road To Nowhere
 * The Trials Of Cato - Hide And Hair
@@ -118,7 +118,6 @@
 
 * Abraham - The Serpent, The Prophet & The Whore
 * Beardfish - The Void
-* Black Fast - Spectre Of Ruin (livraison)
 * Chat Pile - God's Country
 * Cynic - Uroboric Forms (Demo Recordings)
 * Daeva - Through Sheer Will And Black Magic...
@@ -182,7 +181,6 @@
 * NoMeansNo - Wrong
 * The Cramps - A Date With Elvis
 * The Fluid - Purplemetalflakemusic
-* The Gits - Frenching The Bully (livraison)
 * U2 - October
 * Wipers - Over The Edge
 * X - Under The Big Black Sun
