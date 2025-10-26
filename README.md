@@ -99,7 +99,6 @@
 * Solstice - Pray
 * Steel Pulse - Caught You
 * Step Ahead - Step Ahead
-* Tank - Filth Hounds Of Hades (livraison)
 * Testament - Demonic
 * Testament - Brotherhood Of The Snake
 * Testament - Para Bellum
@@ -210,7 +209,6 @@
 * BB Blunder - Workers' Playtime
 * Black Bonzo - Sound Of The Apocalypse
 * Bull Angus - Bull Angus
-* Fleetwood Mac - Future Games
 * George Harrison - All Things Must Pass
 * Golden Earring - Seven Tears
 * Grand Funk Railroad - E Pluribus Funk
