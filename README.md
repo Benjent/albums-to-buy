@@ -288,6 +288,7 @@
 * Bakery - Momento
 * Banco Del Mutuo Soccorso - Io Sono Nato Libero
 * Bangor Flying Circus - Bangor Flying Circus
+* Beckett - Beckett
 * Berits Halsband - Berits Halsband
 * Birth Control - Backdoor Possibilities
 * Brainchild - Healing Of The Lunatic Owl
