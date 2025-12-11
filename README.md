@@ -141,6 +141,8 @@
 * Tempel - On The Steps Of The Temple
 * Tool - Fear Inoculum
 * Turbid North - Eyes Alive
+* Venom - Welcome To Hell
+* Venom - Black Metal
 * Voivod - Target Earth
 * Warbringer - Empires Collapse
 * Xentrix - Shattered Existence
