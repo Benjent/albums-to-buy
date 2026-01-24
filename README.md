@@ -87,6 +87,7 @@
 * Renaissance - Scheherazade
 * Renaissance - Novella
 * Renaissance - A Song For All Seasons
+* Rolland Becker - Immrama
 * Rollins Band - The End Of Silence
 * Rollins Band - Weight
 * Roméo Elvis - Morale
@@ -223,6 +224,7 @@
 * King Gizzard & The Lizard Wizard - Changes
 * Lutha - Earth
 * Michael Chapman - Rainmaker
+* Mogul Thrash - Mogul Thrash
 * Montrose - Montrose
 * Montrose - Paper Money
 * Sky King - Secret Sauce
