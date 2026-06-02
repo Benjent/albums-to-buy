@@ -159,6 +159,9 @@
 * Earth - Hex
 * Electric Moon - Stardust Rituals
 * Elephant Tree - Elephant Tree
+* Elder - Omens
+* Elder - Innate Passage
+* Elder - Through Zero
 * Lucifer - Lucifer I
 * Lucifer - Lucifer II
 * Lucifer - Lucifer III
