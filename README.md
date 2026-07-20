@@ -61,6 +61,7 @@
 * Kingstone Wall - I
 * Kingstone Wall - II
 * Love Battery - Dayglo
+* Mastodon - Cold Dark Place
 * Mercyful Fate - Don't Break The Oath
 * Mercyful Fate - Melissa
 * Monolord - Rust
@@ -119,7 +120,6 @@
 * Abraham - The Serpent, The Prophet & The Whore
 * Beardfish - The Void
 * Chat Pile - God's Country
-* Cynic - Uroboric Forms (Demo Recordings)
 * Daeva - Through Sheer Will And Black Magic...
 * Deviant Process - Nurture
 * Deviant Process - Paroxysm
@@ -521,12 +521,3 @@
 * Albino Slug
 * A Real Diamond In The Rough
 * Captain Eo's Voyage
-* Pike 18
-* Pike 23
-* Pike 27
-* Pike 38
-* Pike 39
-* Pike 41
-* Pike 56
-* Pike 175
-* Pike 208
