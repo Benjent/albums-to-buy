@@ -47,6 +47,7 @@
 * (Pierre Moerlen's) Gong - Downwind
 * (Pierre Moerlen's) Gong - Time Is The Key
 * (Pierre Moerlen's) Gong - Leave It Open
+* Hawkwind - Levitations
 * Herb Ellis & Romeo Palmier - Windflower
 * Hüsker Dü - Zen Arcade
 * Igorrr - Poisson Soluble
@@ -106,6 +107,8 @@
 * Testament - Para Bellum
 * Tommy Guerrero - No Man's Land
 * Tommy Guerrero - Road To Nowhere
+* Trace - Trace
+* Trace - Birds
 * The Trials Of Cato - Hide And Hair
 * Van Morrison - Tupelo Honey
 * Van Morrison - Hard Nose The Highway
@@ -209,6 +212,7 @@
 * Rodrigez - Cold Fact
 * Rodrigez - Coming From Reality
 * Tri Yann - An Heol A Zo Glaz
+* Water Into Wine Band - Hill Climbing For Beginners
 
 ## Rock
 
@@ -222,7 +226,6 @@
 * Grand Funk Railroad - Shinin' On
 * Grand Funk Railroad - All The Girls In The World Beware!!!
 * Grand Funk Railroad - Born To Die
-* Hawkwind - Levitations
 * King Gizzard & The Lizard Wizard - Quarters!
 * King Gizzard & The Lizard Wizard - Ice, Death, Planets, Lungs, Mushrooms And Lava
 * King Gizzard & The Lizard Wizard - Changes
