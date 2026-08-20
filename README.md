@@ -317,6 +317,8 @@
 * Crazy Mabel - Crazy Mabel
 * Curved Air - Second Album
 * Curved Air - Phantasmagoria
+* De De Lind - Io non so da dove vengo e non so dove mai andrò. Uomo è il nome che mi han dato
+* Diabolus - Diabolus
 * Didier Bonin - L'arbre Verre
 * Duello Madre - Duello Madre
 * Ekseption - Bingo!
