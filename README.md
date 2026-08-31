@@ -218,6 +218,9 @@
 
 * BB Blunder - Workers' Playtime
 * Black Bonzo - Sound Of The Apocalypse
+* Brian Protheroe - Pinball
+* Brian Protheroe - Pick-Up
+* Brian Protheroe - I/YOU
 * Bull Angus - Bull Angus
 * George Harrison - All Things Must Pass
 * Golden Earring - Seven Tears
