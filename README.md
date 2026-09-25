@@ -10,7 +10,6 @@
 * Bastardator - Identify The Dead
 * Biga Ranx - 1988
 * Biga Ranx - St. Soleil
-* Black Sabbath - Seventh Star
 * Black Fast - Starving Out The Light
 * Blasteroid - Crypts Of Mind
 * Blasteroid - Universal Knowledge (EP)
