@@ -109,6 +109,8 @@
 * Trace - Trace
 * Trace - Birds
 * The Trials Of Cato - Hide And Hair
+* Uriah Heep - Salisbury
+* Uriah Heep - Look At Yourself
 * Van Morrison - Tupelo Honey
 * Van Morrison - Hard Nose The Highway
 * Van Morrison - Veedon Fleece
