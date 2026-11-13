@@ -3,6 +3,8 @@
 ## TOP TIER
 
 * 10 Minute Warning - 10 Minute Warning (Grunge sub pop)
+* Angine De Poitrine 1
+* Angine De Poitrine 2
 * Aspid - Extravasation
 * Agitation Free - 2nd
 * Autonoesis - Moon Of Foul Magics
@@ -176,6 +178,7 @@
 
 ## Punk / Grunge
 
+* Dead Kennedys - EP (avec nazi punks fuck off)
 * Didier Super - La Merde Des Autres
 * Failure - Fantastic Planet
 * Fiend Without A Face - Fiend Without A Face II
@@ -321,6 +324,7 @@
 * Crazy Mabel - Crazy Mabel
 * Curved Air - Second Album
 * Curved Air - Phantasmagoria
+* Daniel Vega - La Noche Que Precede A La Batalla
 * De De Lind - Io non so da dove vengo e non so dove mai andrò. Uomo è il nome che mi han dato
 * Diabolus - Diabolus
 * Didier Bonin - L'arbre Verre
@@ -468,6 +472,7 @@
 * Annihilator - Set The World On Fire
 * Beardfish - The Sane Day
 * Ben Harper - The Will To Live
+* Blackwater Holylight - Silence/Motion
 * Borislav Mitic - Borislav Mitic
 * Buffalo Springfield - Intégrale (ou S/T)
 * Cat Stevens - Numbers
